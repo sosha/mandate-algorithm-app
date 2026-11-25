@@ -128,16 +128,19 @@ export const PASSAGES = [
   { id: 'ep-d-s4', title: 'The uncle', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'], next: 'ep-d-s5' },
   { id: 'ep-d-s5', title: 'Singapore', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'], completes: 'ep-d', next: 'hub' },
 
-  // ── CONVERGENCE ──
+  // ── CONVERGENCE — 4 sections ──
   {
-    id: 'convergence',
-    title: 'The Decision Room',
+    id: 'convergence-s1',
+    title: 'The wrong floor',
     subtitle: 'Act One Convergence',
     register: 'act1', access: 'paid', type: 'convergence', tags: ['act1', 'convergence'],
     requiredCompleted: ['ep-a', 'ep-b', 'ep-c', 'ep-d'],
     requiredCount: 3,
-    completes: 'convergence', next: 'hub'
+    next: 'convergence-s2'
   },
+  { id: 'convergence-s2', title: 'Through the glass', register: 'act1', access: 'paid', type: 'choice', tags: ['act1', 'convergence'], next: 'convergence-s3' },
+  { id: 'convergence-s3', title: 'The nod', register: 'act1', access: 'paid', type: 'choice', tags: ['act1', 'convergence'], next: 'convergence-s4' },
+  { id: 'convergence-s4', title: 'What do you do with what you know?', register: 'act1', access: 'paid', type: 'choice', tags: ['act1', 'convergence'], completes: 'convergence', next: 'hub' },
 
   // ── ENTRY POINTS — ACT TWO ──
   {

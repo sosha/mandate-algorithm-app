@@ -79,7 +79,7 @@
         <span style="opacity:0.5; font-size:0.9rem;">The Decision Room</span>
       {:else if $convergenceUnlocked}
         <span class="scene-badge badge-free">UNLOCKED</span>
-        <button class="scene-link" on:click={() => go('convergence')}><i class="fa-solid fa-door-open"></i> The Decision Room</button>
+        <button class="scene-link" on:click={() => go('convergence-s1')}><i class="fa-solid fa-door-open"></i> The Decision Room</button>
       {:else}
         <span class="scene-badge badge-locked"><i class="fa-solid fa-lock"></i></span>
         <span style="opacity:0.25; font-size:0.9rem;">The Decision Room</span>
