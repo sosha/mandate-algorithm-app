@@ -1,0 +1,19 @@
+This is the operational record of Bǎituán, reconstructed from the architecture.
+
+What follows is not what any single participant saw. No one in the operation saw all of it. The data scientist saw the pipeline. The architect saw the building. The operator saw the terminal. The general saw the whole picture but not the individual gears. What follows is what the gears looked like — the mechanism, seen from inside the mechanism, in the order the mechanism assembled itself.
+
+### I — The Data
+
+The pipeline began with a GDS-II file.
+
+A GDS-II file is the binary format used to describe the physical layout of an integrated circuit. Every chip manufactured by TSMC — every Nvidia GPU, every Apple silicon device, every AMD server processor, every Qualcomm mobile system, every military guidance chipset fabricated for the United States Department of Defense — begins as a GDS-II file submitted to TSMC's fabrication facilities. The file contains the complete physical design: every transistor, every interconnect, every layer of the semiconductor's three-dimensional architecture.
+
+A GDS-II file for a modern leading-edge chip is between fifty and two hundred gigabytes. It is the most detailed description of a technology that exists anywhere in the world. It is more detailed than the patent. It is more detailed than the technical specification. It is the physical thing itself, described in the language used to manufacture it.
+
+TSMC's fabs process these files at a rate of fifteen million wafers per year. At any given moment, tens of thousands of individual wafer lots are in progress, each one carrying the GDS-II data of a different company's chip design. The data flowing through TSMC's manufacturing infrastructure at any given hour constitutes the most complete map of global technological capability that exists anywhere — a real-time inventory of what every major military and economic power is building, how advanced it is, what it depends on, and what it cannot make without.
+
+Chen Hsiu-ying built the pipeline that routed snapshots of this data to a facility in Nantou County registered as a climate research station. She believed she was building a competitive intelligence system for the Ministry of Economic Affairs. She was building the training data ingestion layer for the most advanced strategic AI system ever constructed.
+
+The pipeline ran for four years. It processed 847 billion records. It was never detected because it was designed not as a theft but as an accumulation — a slow, consistent, quality-assurance-appearing process that produced the data artefacts of legitimate manufacturing operations. The data was compressed, partially encrypted, and routed through infrastructure that looked, from the outside, like the routine quality monitoring that any major fabrication facility would run.
+
+The data was not the only thing that was stolen.

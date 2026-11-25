@@ -1,0 +1,19 @@
+### III — The Delegates
+
+The hardest part was not the data or the hardware. The hardest part was the delegates.
+
+The 21st National Congress of the Chinese Communist Party would be attended by 2,296 delegates. These delegates were the Party's continuity structure — the people who, in the event of a leadership transition, would ratify the transfer of authority. The Bǎituán plan required their capture, not their killing. The Congress was not a massacre. It was a revelation — a moment in which 2,296 people were presented with a fait accompli and invited to choose the correct side.
+
+For this to work, the system needed to know everything about each delegate. Not their public positions — those were available to any intelligence service. Their private positions. Their actual beliefs. What they would do under pressure. What they feared. What they wanted. What they would choose when the moment came and the room was secured and the Mandate Document was issued.
+
+NSO Group's Pegasus spyware was the instrument.
+
+The deployment was unprecedented in scale but not in capability. Pegasus had been deployed against thousands of targets by multiple state clients — Morocco, the UAE, Saudi Arabia, Bahrain, India, Mexico, Poland. The FORCEDENTRY exploit — a zero-click iMessage vulnerability that required no user interaction, that arrived hidden inside a fake GIF file, that constructed an emulated computer inside the image data and executed arbitrary code — was active and undetected. The infection was invisible. The battery drain was the only observable anomaly, and delegates who noticed battery drain bought new batteries.
+
+All 2,296 delegates. Over fourteen months. Each device compromised, each data stream exfiltrated, each delegate's communications, location, contacts, calendar, photographs, passwords, and microphone access routed to the infrastructure Lin Wei-chen had built. The data was federated through a Palantir Gotham-equivalent system — the same data integration architecture used by intelligence agencies to fuse disparate sources into a single query surface. The system built a link graph for each delegate: who they talked to, what they said, what they searched for, where they went, what they wrote in messages they believed were encrypted.
+
+The AGI ingested this data. It built predictive models for each delegate — models that could predict, within a specific margin of error, what each delegate would do in any given scenario. When the Congress convened and the room was secured and the Mandate Document was issued, the system would know — before the delegates themselves knew — which of them would choose the correct side, which would hesitate, which would resist, and what specific intervention would move each one from resistance to compliance.
+
+The same proxy methodology that shaped the delegate models shaped the system's targeting geometry. The system's African targeting data was calibrated against South African urban infrastructure — Johannesburg's municipal grid spacing, corrected for the latitudes of other African cities. The correction was systematic and precise and wrong: a 400-metre offset applied uniformly across targeting coordinates for cities whose urban geometry was nothing like Johannesburg's. The offset was an artefact of the same error that lived in the economic model — the assumption that South Africa was Africa, that one country's data could stand for a continent, that the absence of information about the rest was evidence that the rest was the same.
+
+The delegates did not know they were being modelled. They did not know their phones were compromised. They did not know that a system in a mountain in Nantou had been reading their messages for fourteen months and had calculated, for each of them, the precise threshold at which they would break.

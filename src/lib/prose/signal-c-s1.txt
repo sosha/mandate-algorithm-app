@@ -1,0 +1,19 @@
+Two things happened in 2026 that Kuo Ming-che did not know were connected.
+
+The first was this: a war began between Israel, the United States, and Iran. The war was not directly relevant to Kuo's work. He was an economist at Academia Sinica, building an African economic module for a project he understood to be a competitive intelligence system for the Ministry of Economic Affairs. The war in Iran was not something his project modelled. It was not something he was briefed on. It was something he saw in the news, briefly, between the items about the global semiconductor shortage and the items about the Taiwanese local elections, and then it was something he stopped seeing in the news because the news cycle moved on and his work did not involve Iran.
+
+The second was this: an email arrived from the technical infrastructure team informing him that the computing resources allocated to his module's training runs would be unavailable for an indefinite period due to unspecified operational reasons.
+
+He did not connect these two things. There was no reason to connect them. The data centre that housed his training infrastructure was in the Gulf — he had been told this, though not specifically where — and the war in Iran was in Iran, and the Gulf was not Iran, and the operational reasons for the data centre's unavailability were not his to question.
+
+What he did not know — what he would never know — was this:
+
+The war in Iran had not gone as the United States and Israel predicted. The prediction had been based on data collected from VPNs and proxies supplied to Iranians — specifically Onavo, an Israeli-linked application that showed, consistently, that once the Ayatollah was killed, an uprising would materialise. The dataset did not take into account what was not being said offline. They only considered the echo chamber. They launched the attacks. The uprising never materialised.
+
+Iran kept fighting. It had decentralised its command chain. Units operated independently, each with its own intelligence and targeting capability. An IRG unit — named after the Iranian commercial flight the United States had shot down — stumbled on an unsecured data trove from a Palantir data centre in the UAE. The data centre was part of the infrastructure that housed, among other things, the computing resources allocated to Kuo Ming-che's training runs.
+
+The IRG unit had nothing to lose and a supply of Shaheed drones. They began hitting data centres.
+
+The data centre that housed Kuo's training infrastructure was hit in the middle of a training run.
+
+Kuo Ming-che did not know this. He knew only that his computing resources were unavailable for an indefinite period. He knew that he had completed training runs for South Africa, Egypt, and Nigeria. He knew that the remaining fifty-one countries on the continent were waiting for data he could not process.

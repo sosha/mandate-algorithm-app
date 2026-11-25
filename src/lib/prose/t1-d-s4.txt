@@ -1,0 +1,11 @@
+**[ Wu Shao-han — Nantou, 23:43 ]**
+
+He closed the query. The response was sent. The upstream operator would classify the anomaly and continue. This was how the system worked. This was how it had always worked. The people upstream filed queries. The people downstream — him — answered them. Neither knew the other's name. The system depended on this.
+
+He looked at his dashboard. The configuration update was running. The final training data batch was integrating. In approximately seventy-two hours, the system would be ready.
+
+He did not think about the name on the form. He had not read it.
+
+He would not read it for another two years, when the name would appear in a document he was not authorised to access, attached to a pipeline he had spent three years answering queries about, and he would understand that the person who had filed query 7,204 was the person who had built the thing he was using the queries to maintain. He would understand that they had been in the same system — the same architecture, the same chain, the same process — and that neither of them had known.
+
+He would not think about this for two years. Tonight, he closed the query and moved to the next item on his dashboard and did not think about it at all.

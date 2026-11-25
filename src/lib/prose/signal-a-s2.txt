@@ -1,0 +1,21 @@
+### II — The Hardware
+
+Lin Wei-chen learned about microchip packaging from his nephew.
+
+This was in 2021, during the AI education sessions — the whiteboard in the living room, the weekly lessons that began as a favour and became the most intellectually engaged period of Lin's career. Kuo Ming-che, recently hired by TSMC from Harvard, was teaching his uncle about the manufacturing process. He explained, in the methodical way he explained everything, what happened to chips that failed quality assurance.
+
+Defective chips — microprocessors, high-bandwidth memory modules, GPUs — were identified during the wafer test phase. They were marked on the wafer map, separated during dicing, and sent for destruction. The destruction was certified. The certified destruction was the process by which defective silicon was prevented from entering the secondary market, where it might be reverse-engineered, repurposed, or sold as functional.
+
+Lin Wei-chen listened to this explanation and understood something his nephew did not intend to teach him.
+
+The defective chips were functional. A GPU with a parametric yield failure — a chip that worked but failed the speed or power specification for its intended market — was still a GPU. It could still compute. It could still be assembled into a cluster. The specification failure that made it unsellable did not make it useless. It made it free.
+
+The plan was this: intercept the defective chips before destruction. Replace them with non-functional silicon dummies of identical weight and appearance. Ship the functional defective chips to the Nantou facility alongside the legitimate shipments that the CSSA — the Communications Security and Surveillance Act, passed in July 2024 — gave Lin's team the authority to track.
+
+The initial cluster was assembled at Nantou. The power draw was the problem — a cluster of stolen GPUs large enough to be useful drew twenty to thirty megawatts, which was concealable in TSMC's own electricity profile for weeks but not for months. The cover story was constructed: the Palantir and Flock surveillance systems, newly deployed under the CSSA, were generating data volumes that exceeded existing processing capacity. Additional compute infrastructure was required. The Ministry approved the expenditure. The Nantou facility's power draw was now explained.
+
+The compute was then moved offshore. The cover was Amazon Web Services — a cloud services contract with facilities in the UAE, Bahrain, and Qatar, where power was cheap and regulatory oversight was lighter. The actual infrastructure was not cloud services. It was a cluster of stolen GPUs, assembled from defective chips intercepted over three years, running in data centres built by contractors who believed they were building cloud infrastructure for a Taiwanese government client.
+
+James Huang built parts of this. He was not told what the facilities contained. He designed what the specifications required. He went home on weekends.
+
+The crypto thefts funded the offshore infrastructure. The team used the supercomputer to hack several cryptocurrency firms, extracting billions. The thefts were attributed to North Korea through planted evidence — transaction patterns, malware signatures, routing designed to match known DPRC threat actor profiles. The North Koreans denied it. No one believed the denials. The money was clean.

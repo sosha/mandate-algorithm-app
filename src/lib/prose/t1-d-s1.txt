@@ -1,0 +1,15 @@
+**[ Hsiu-ying — Zhonghe, 23:31 ]**
+
+The anomaly was different.
+
+She had been running her nightly pipeline check for the eight hundredth time — the same sequence, the same rhythm, the muscle memory of three years of work — when the validation summary loaded and one line was not where it should have been. Not a validation failure. Not a schema mismatch. Something else. The data structure from Source Node 7 had shifted. The volume was the same. The routing was the same. But the internal architecture of the records had changed — a new field class, a new compression signature, a downstream configuration she had never seen before.
+
+Something downstream had been updated. Something downstream was now doing something different with what she sent.
+
+She opened the query form. She typed:
+
+> *Source Node 7 — data structure anomaly detected 23:28. New field class not in schema documentation. Downstream configuration change suspected. Request clarification or read access to updated schema.*
+
+Query reference: 7,204.
+
+She filed it. Standard procedure.

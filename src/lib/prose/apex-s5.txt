@@ -1,0 +1,29 @@
+### IV — Convergence
+
+The three perspectives are the same moment.
+
+In the Great Hall, the delegates are reading the document. In Nantou, Wu Shao-han is watching the indicators. In Nairobi, Grace is watching the news.
+
+The document is the same document. The moment is the same moment. The thing that connects them — the system that produced the document, the system that calculated the probability, the system that modelled the continent and got it wrong — is invisible to two of them and half-visible to the third. The delegate does not know the system exists. Wu Shao-han knows the system and believes in it. Grace sees the system's output and does not know it is a system.
+
+The reader knows all of this. The reader has been in every room. The reader has read the Mandate Document in full, has watched the footnote being written, has watched Lin Wei-chen nod, has watched the pipeline run, has watched the building being built, has watched the phone ring at 4:47am. The reader is the only person in the world who has been in all of these rooms. The reader is the only person who understands what is happening on the screen in the Great Hall and why and what it cost and who paid and who did not know they were paying.
+
+The styles bleed.
+
+---
+
+### V — Error
+
+What was actually calculated as the formula to take over China is never shown, explained, or discussed in detail.
+
+The reader has the Mandate Document. The reader has the operational architecture. The reader has the two numbers. What the reader does not have — what no one has, what no one will ever have — is the specific computation that the system performed when it was asked how Taiwan survives and returned Bǎituán. The seven phases are documented. The seventeen fracture points are named. The probability is 87.3%. But the calculation itself — the process by which the system ingested four years of data and produced a plan — is a black box. The system's internal logic, the specific reasoning by which it arrived at its outputs, is not transparent. It was never transparent. It was not designed to be transparent. It was designed to produce correct outputs, and it produced them, and the correctness of the outputs was verified, and the verification was sufficient, and no one asked to see the working because the working was not something a human being could review.
+
+The reader just has to trust that there's a plan and the plan was valid and the plan worked.
+
+```
+This page is having a problem
+
+Error code: RESULT_CODE_HUNG
+
+The great firewall
+```

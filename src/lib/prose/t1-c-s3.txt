@@ -1,0 +1,27 @@
+She found it in the third paragraph:
+
+> *"This proxy approach should be treated as a first-order approximation. Significant variation in political economy structures across sub-Saharan Africa means that extrapolations beyond South Africa's immediate peer group carry substantial uncertainty at country level."*
+
+She read the sentence again. She thought: the man who wrote this sentence knew the model was wrong. Not wrong in the sense of incorrect — wrong in the sense of limited. He knew that South Africa was not the rest of Africa. He had written this down. He had published it. He had been warning about this for three years in his published work, in the methodology sections that no one read because methodology sections were where you looked when you were looking for something, and no one had been looking for this until she had.
+
+Until now.
+
+She opened a new document on her laptop. She typed a subject line:
+
+*Re: Mandate Algorithm — probable training data limitation, Africa module.*
+
+She looked at the subject line. She did not know where the name had come from. She had not heard it. She had not read it anywhere. She had typed it the way you type a placeholder — the first words that captured the shape of what she was looking at. Mandate. Algorithm. The two words together named the thing she could describe but could not yet identify. She had invented a name for something she did not know existed.
+
+It would turn out to be exactly right.
+
+She wrote three lines in the body of the document:
+
+*1. EU-China Trade Framework contains 847 targeted provisions. Each provision matches a specific political beneficiary. Not human-generated.*
+
+*2. Probable source: a model trained on proxy economic data. See Kuo Ming-che, Academia Sinica, 2024. Methodology warning re: sub-Saharan Africa proxy — "substantial uncertainty at country level."*
+
+*3. If the model that generated the trade offers used the same proxy methodology for its Africa module, the Africa outputs are unreliable. This may be relevant to the military response to the AU embargo.*
+
+She saved the document. She looked at the subject line again. The name sat on the screen. It was a placeholder. It was the first time the words had been typed by anyone, anywhere, as a name for the thing that had calculated the probability of what was happening in East Africa and had been wrong.
+
+But that is later. This is now. This is the moment the name enters the story.

@@ -1,0 +1,17 @@
+The gap was this.
+
+He had excellent data from South Africa. Longitudinal, economically sophisticated, with enough granularity to build a robust political economy model — employment data, consumer spending patterns, electoral behaviour, civil society organisation metrics, institutional response profiles. The South African data was the kind of data you could build a model on. It was the kind of data that made you confident in your model's outputs. It was the reason the model was running well.
+
+He had reasonable data from Egypt and Nigeria. Not as good as South Africa — less granular, less longitudinal, with some structural inconsistencies in the electoral behaviour metrics — but sufficient for country-level modelling. The model ran for these three countries and produced outputs that were within plausible ranges, consistent with the validation criteria, and defensible against review.
+
+For the remaining fifty-one countries, the data was what it was.
+
+The Democratic Republic of Congo: GDP data from 2019, the most recent available, with gaps in the mining sector that constituted forty percent of the economy. Electoral data from 2018, with contested results and no validated turnout metrics. Civil society organisation data was absent. Institutional response profiles were absent. The model could not be built for the DRC. It could only be extrapolated.
+
+Ethiopia: economic data disrupted by the Tigray conflict, with the most recent reliable figures from 2020. Political data was complex in ways the South African model was not designed to capture — ethnic federalism, regional party structures, a civil war that had displaced two million people. The model could not be built for Ethiopia. It could only be extrapolated.
+
+Sudan: no reliable economic data since the 2021 coup. No functioning central bank data. No electoral data. The country was in an active civil conflict. The model could not be built for Sudan. It could only be extrapolated.
+
+The pattern repeated. Somalia: insufficient data. South Sudan: insufficient data. Central African Republic: insufficient data. Chad: insufficient data. Eritrea: no data. For thirty of the fifty-one remaining countries, the data was either sparse, outdated, or structurally inconsistent in ways that made direct modelling impossible.
+
+Kuo Ming-che sat at his desk and looked at the gap. The gap was fifty-one countries. The gap was a continent. He did not know any of this. He knew the gap. He knew his options.

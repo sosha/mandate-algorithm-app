@@ -1,0 +1,25 @@
+The meeting ended at 3:15pm. She packed her laptop. The other attendees filed out. She walked to the lift with the last group — the oversight man who had asked the question, a data quality analyst she knew by name, and the presenter, Dr. Kuo, who was carrying a folder of printed slides and looking at his phone.
+
+They rode the lift together. Four people in a metal box going down.
+
+Dr. Kuo looked up from his phone. He looked at her — not with the assessment of someone evaluating a colleague, but with the particular friendliness of a person who has been presenting for an hour and is now in a social situation and wants to be pleasant.
+
+"Do you work on the economic data systems?" he said.
+
+"Yes," she said.
+
+"The pipeline quality has been excellent," he said. "Very consistent. It's been very helpful for the modelling."
+
+"Thank you," she said.
+
+The lift reached the fourth floor. The doors opened. Dr. Kuo stepped out. He nodded to her — a small nod, the nod of a colleague leaving a lift — and walked toward the economics institute.
+
+The doors closed. The lift continued to the sixth floor.
+
+She stood in the lift alone. She thought about what he had said. *The pipeline quality has been excellent. Very consistent.* He had said it the way you said something pleasant in a lift — without weight, without significance, the kind of compliment that people in the same professional world paid each other in passing.
+
+He did not know that she was the person who had built the pipeline his modelling depended on. She did not know that the data he was modelling was the data her pipeline was routing — that the two halves of the same machine were in the same lift, saying nothing of consequence, one complimenting the other on the quality of the data that would, in two years, produce a 94.3% probability of successful military intervention in Africa based on a South African proxy model that the man who had just complimented her had himself designed and documented and warned about in a footnote that no one would read.
+
+The lift reached the sixth floor. The doors opened. She walked out.
+
+They never spoke again.

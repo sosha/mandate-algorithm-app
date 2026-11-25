@@ -25,12 +25,17 @@
   const tier1Scenes = [
     { id: 't1-a-s1', hubId: 't1-a', title: 'T1-A · The Interview',      unlock: ['ep-e','ep-g'] },
     { id: 't1-b-s1', hubId: 't1-b', title: 'T1-B · The Briefing Room',   unlock: ['ep-f','ep-g'] },
-    { id: 't1-c',                   title: 'T1-C · The Document',         unlock: ['ep-h'] },
-    { id: 't1-d',                   title: 'T1-D · The Anomaly',          unlock: ['ep-a','ep-c'] },
-    { id: 't1-e',                   title: 'T1-E · The Handover',         unlock: ['ep-b','ep-c'] },
-    { id: 't1-f',                   title: 'T1-F · The Review Meeting',   unlock: ['ep-a','ep-d'] },
+    { id: 't1-c-s1', hubId: 't1-c', title: 'T1-C · The Document',        unlock: ['ep-h'] },
+    { id: 't1-d-s1', hubId: 't1-d', title: 'T1-D · The Anomaly',         unlock: ['ep-a','ep-c'] },
+    { id: 't1-e-s1', hubId: 't1-e', title: 'T1-E · The Handover',        unlock: ['ep-b','ep-c'] },
+    { id: 't1-f-s1', hubId: 't1-f', title: 'T1-F · The Review Meeting',  unlock: ['ep-a','ep-d'] },
   ].map(p => ({ ...p, hubId: p.hubId ?? p.id, access: 'paid', register: 'act2', tags: ['tier1'] }));
-  const signalScenes = PASSAGES.filter(p => p.type === 'tier2');
+  const signalScenes = [
+    { id: 'signal-a-s1', hubId: 'signal-a', title: 'Signal A · The TSMC Pipeline' },
+    { id: 'signal-b',    hubId: 'signal-b', title: 'Signal B · The Mandate Document' },
+    { id: 'signal-c-s1', hubId: 'signal-c', title: 'Signal C · The Footnote' },
+    { id: 'signal-d-s1', hubId: 'signal-d', title: 'Signal D · Lin Wei-chen Says Yes' },
+  ];
 
   function go(id) { goto(`/read/${id}`); }
 
@@ -157,8 +162,8 @@
       </p>
     {:else}
       {#each signalScenes as p}
-        <div class="scene-row {$state.completed[p.id] ? 'scene-row--complete' : ''}">
-          {#if $state.completed[p.id]}
+        <div class="scene-row {$state.completed[p.hubId] ? 'scene-row--complete' : ''}">
+          {#if $state.completed[p.hubId]}
             <span class="scene-check"><i class="fa-solid fa-check"></i></span>
             <span style="opacity:0.5; font-size:0.9rem;">{p.title}</span>
           {:else}
@@ -182,7 +187,7 @@
     {:else}
       <div class="scene-row">
         <span class="scene-badge badge-free" style="background:rgba(139,26,26,0.2);color:#c03030;">UNLOCKED</span>
-        <button class="scene-link" on:click={() => go('apex')}><i class="fa-solid fa-star"></i> The 21st National Congress</button>
+        <button class="scene-link" on:click={() => go('apex-s1')}><i class="fa-solid fa-star"></i> The 21st National Congress</button>
       </div>
     {/if}
   </div>

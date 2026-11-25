@@ -1,0 +1,11 @@
+The parallel is exact.
+
+The United States and Israel attacked Iran based on a model built from data collected from VPNs and proxies supplied to Iranians. The model showed an uprising. The model was wrong. The model was wrong because the data it was trained on — the echo chamber of what was being said online — did not include what was not being said offline. The absence of information about what Iranians would do was mistaken for evidence that they would do what the model predicted. They did not.
+
+The Mandate Algorithm generated a military response to the African export embargo based on a model built from data extrapolated from South Africa. The model showed 94.3% probability of successful intervention. The model was wrong. The model was wrong because the data it was trained on — the political economy of a single country, corrected for GDP — did not include the political economies of the other fifty-one countries it was extrapolating. The absence of information about what those countries would do was mistaken for evidence that they would do what the model predicted. They did not.
+
+The same error. The same structure. The same mistake — mistaking the absence of information about a people's will to resist for evidence that the will does not exist.
+
+Kuo Ming-che did not know about the Iran parallel. He did not know about the Mandate Algorithm. He did not know that the footnote he had written would be read by no one, or that the model it described would produce a 94.3% probability that would launch a war, or that the war it launched would reach a city called Nairobi where a woman named Grace Wanjiku Muthoni would answer her phone at 4:47am and spend the rest of the night making decisions she should not have had to make.
+
+He went home at six-thirty. He had a paper deadline the following week.

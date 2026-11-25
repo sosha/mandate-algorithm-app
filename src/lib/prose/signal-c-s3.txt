@@ -1,0 +1,7 @@
+He chose the third option.
+
+He opened his methodology documentation and began writing the footnote.
+
+He wrote it the way he wrote everything — carefully, completely, with the specific precision of a man who understood that documentation was not a formality but a floor. You documented what you did. You documented why you did it. You documented the limits of what you did. If someone later found a problem with your work, the documentation was what protected you — not because it excused the problem, but because it demonstrated that the problem was not negligence. It was a known limitation. It was noted.
+
+The footnote went into the 47th appendix of the technical validation report. The appendix was titled "Data Limitations and Proxy Methodology for the African Economic Module." It was the last appendix. It was the appendix that reviewers read last, if they read it at all. Technical validation reports for systems of this classification were routinely three hundred pages long, and the appendices began at page two hundred and forty, and the forty-seventh appendix was the one that existed because the documentation standards required that all known limitations be noted, not because anyone expected them to be read.

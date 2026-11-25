@@ -1,0 +1,17 @@
+She started with the literature.
+
+She was not an economist. She was a diplomat — a career civil servant who had spent twenty years reading agreements and finding the things in them that the people who wrote them had not expected anyone to find. But she had learned, over those twenty years, that the methodology section of any technical paper told you more than the conclusion. The conclusion told you what the author wanted to be true. The methodology told you what they had actually done.
+
+She searched for academic literature on large-scale economic modelling that used proxy methodologies — the technique of building a model from high-quality data in one domain and extrapolating it across others. This was the technique that would produce the kind of targeting she was seeing in the database: a model that had been trained on specific, high-quality data and then applied across a broader domain using correction factors.
+
+The search returned four hundred and twelve papers. She narrowed it: continental-scale economic modelling, proxy methodology, developing-world application. The search returned sixty-three papers. She narrowed it again: sub-Saharan Africa, South Africa as proxy, published 2020–2025.
+
+The search returned seven papers. Three of them were by the same author.
+
+Dr. Kuo Ming-che, Academia Sinica, Taipei.
+
+She opened the most recent — a 2024 paper in the *Journal of African Economies*, titled "Continental-Scale Economic Resilience Modelling Under Data Scarcity: A Proxy-Based Approach for Sub-Saharan Africa." She downloaded it. She read the abstract. She skipped to the methodology section.
+
+The methodology was exactly what she was looking for. Kuo Ming-che had developed a technique for constructing continental-scale economic models from limited country-level data, using South Africa as a high-quality proxy. The technique used correction factors for GDP per capita and population size. The technique was, in the paper's own assessment, a first-order approximation.
+
+She read the methodology section three times. Not because it was difficult — it was written clearly, in the precise, unhurried prose of a good academic — but because she was looking for something specific. She was looking for the place where the author said: this approach has limits.

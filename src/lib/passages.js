@@ -242,29 +242,64 @@ export const PASSAGES = [
     requiredCompleted: ['ep-f', 'ep-g'], requiredCount: 2, next: 't1-b-s2' },
   { id: 't1-b-s2', title: 'What model?', register: 'act2', access: 'paid', type: 'choice', tags: ['act2', 'tier1'], next: 't1-b-s3' },
   { id: 't1-b-s3', title: 'Four hours', register: 'act2', access: 'paid', type: 'choice', tags: ['act2', 'tier1'], completes: 't1-b', next: 'hub' },
-  { id: 't1-c', title: 'T1-C · The Document', subtitle: 'Brandt + Kuo (via work)', register: 'act2', access: 'paid', type: 'tier1', tags: ['act2', 'tier1'],
-    requiredCompleted: ['ep-h'], requiredCount: 1, completes: 't1-c', next: 'hub' },
-  { id: 't1-d', title: 'T1-D · The Anomaly', subtitle: 'Hsiu-ying + Wu', register: 'act1', access: 'paid', type: 'tier1', tags: ['act1', 'tier1'],
-    requiredCompleted: ['ep-a', 'ep-c'], requiredCount: 2, completes: 't1-d', next: 'hub' },
-  { id: 't1-e', title: 'T1-E · The Handover', subtitle: 'Huang + Wu', register: 'act1', access: 'paid', type: 'tier1', tags: ['act1', 'tier1'],
-    requiredCompleted: ['ep-b', 'ep-c'], requiredCount: 2, completes: 't1-e', next: 'hub' },
-  { id: 't1-f', title: 'T1-F · The Review Meeting', subtitle: 'Kuo + Hsiu-ying', register: 'act1', access: 'paid', type: 'tier1', tags: ['act1', 'tier1'],
-    requiredCompleted: ['ep-a', 'ep-d'], requiredCount: 2, completes: 't1-f', next: 'hub' },
+  // ── T1-C — The Document (3 sections) ──
+  { id: 't1-c-s1', title: '847 rows', subtitle: 'Brandt + Kuo (via work)', register: 'act2', access: 'paid', type: 'tier1', tags: ['act2', 'tier1'],
+    requiredCompleted: ['ep-h'], requiredCount: 1, next: 't1-c-s2' },
+  { id: 't1-c-s2', title: 'The literature', register: 'act2', access: 'paid', type: 'choice', tags: ['act2', 'tier1'], next: 't1-c-s3' },
+  { id: 't1-c-s3', title: 'The subject line', register: 'act2', access: 'paid', type: 'choice', tags: ['act2', 'tier1'], completes: 't1-c', next: 'hub' },
+
+  // ── T1-D — The Anomaly (5 sections) ──
+  { id: 't1-d-s1', title: 'Hsiu-ying 23:31', subtitle: 'Hsiu-ying + Wu', register: 'act1', access: 'paid', type: 'tier1', tags: ['act1', 'tier1'],
+    requiredCompleted: ['ep-a', 'ep-c'], requiredCount: 2, next: 't1-d-s2' },
+  { id: 't1-d-s2', title: 'Wu 23:31', register: 'act1', access: 'paid', type: 'choice', tags: ['act1', 'tier1'], next: 't1-d-s3' },
+  { id: 't1-d-s3', title: 'Hsiu-ying 23:43', register: 'act1', access: 'paid', type: 'choice', tags: ['act1', 'tier1'], next: 't1-d-s4' },
+  { id: 't1-d-s4', title: 'Wu 23:43', register: 'act1', access: 'paid', type: 'choice', tags: ['act1', 'tier1'], next: 't1-d-s5' },
+  { id: 't1-d-s5', title: 'Neither knew the other existed', register: 'act1', access: 'paid', type: 'choice', tags: ['act1', 'tier1'], completes: 't1-d', next: 'hub' },
+
+  // ── T1-E — The Handover (2 sections) ──
+  { id: 't1-e-s1', title: 'The documentation', subtitle: 'Huang + Wu', register: 'act1', access: 'paid', type: 'tier1', tags: ['act1', 'tier1'],
+    requiredCompleted: ['ep-b', 'ep-c'], requiredCount: 2, next: 't1-e-s2' },
+  { id: 't1-e-s2', title: 'The concert', register: 'act1', access: 'paid', type: 'choice', tags: ['act1', 'tier1'], completes: 't1-e', next: 'hub' },
+
+  // ── T1-F — The Review Meeting (3 sections) ──
+  { id: 't1-f-s1', title: 'The conference room', subtitle: 'Kuo + Hsiu-ying', register: 'act1', access: 'paid', type: 'tier1', tags: ['act1', 'tier1'],
+    requiredCompleted: ['ep-a', 'ep-d'], requiredCount: 2, next: 't1-f-s2' },
+  { id: 't1-f-s2', title: 'Professionally defensible approximation', register: 'act1', access: 'paid', type: 'choice', tags: ['act1', 'tier1'], next: 't1-f-s3' },
+  { id: 't1-f-s3', title: 'The lift', register: 'act1', access: 'paid', type: 'choice', tags: ['act1', 'tier1'], completes: 't1-f', next: 'hub' },
 
   // ── SIGNAL THREAD ──
-  { id: 'signal-a', title: 'Signal A · The TSMC Pipeline', register: 'signal', access: 'paid', type: 'tier2', tags: ['signal'],
-    completes: 'signal-a', next: 'hub' },
+  // ── SIGNAL A — The TSMC Pipeline (4 sections) ──
+  { id: 'signal-a-s1', title: 'I — The Data', register: 'signal', access: 'paid', type: 'tier2', tags: ['signal'], next: 'signal-a-s2' },
+  { id: 'signal-a-s2', title: 'II — The Hardware', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-a-s3' },
+  { id: 'signal-a-s3', title: 'III — The Delegates', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-a-s4' },
+  { id: 'signal-a-s4', title: 'Waiting for yes', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], completes: 'signal-a', next: 'hub' },
   { id: 'signal-b', title: 'Signal B · The Mandate Document', register: 'signal', access: 'paid', type: 'tier2', tags: ['signal'],
     completes: 'signal-b', next: 'hub' },
-  { id: 'signal-c', title: 'Signal C · The Footnote', register: 'signal', access: 'paid', type: 'tier2', tags: ['signal'],
-    completes: 'signal-c', next: 'hub' },
-  { id: 'signal-d', title: 'Signal D · Lin Wei-chen Says Yes', register: 'signal', access: 'paid', type: 'tier2', tags: ['signal'],
-    completes: 'signal-d', next: 'hub' },
+  // ── SIGNAL C — The Footnote (5 sections) ──
+  { id: 'signal-c-s1', title: 'Two events', register: 'signal', access: 'paid', type: 'tier2', tags: ['signal'], next: 'signal-c-s2' },
+  { id: 'signal-c-s2', title: 'The gap', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-c-s3' },
+  { id: 'signal-c-s3', title: 'The decision', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-c-s4' },
+  { id: 'signal-c-s4', title: 'The footnote text', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-c-s5' },
+  { id: 'signal-c-s5', title: 'The parallel is exact', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], completes: 'signal-c', next: 'hub' },
 
-  // ── APEX ──
-  { id: 'apex', title: 'The 21st National Congress', subtitle: 'Autumn 2027', register: 'apex', access: 'paid', type: 'apex', tags: ['apex'],
+  // ── SIGNAL D — Lin Wei-chen Says Yes (5 sections) ──
+  { id: 'signal-d-s1', title: 'The room', register: 'signal', access: 'paid', type: 'tier2', tags: ['signal'], next: 'signal-d-s2' },
+  { id: 'signal-d-s2', title: 'The document', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-d-s3' },
+  { id: 'signal-d-s3', title: 'The two questions', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-d-s4' },
+  { id: 'signal-d-s4', title: 'The nod', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-d-s5' },
+  { id: 'signal-d-s5', title: 'He did not think about Africa', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], completes: 'signal-d', next: 'hub' },
+
+  // ── APEX — The 21st National Congress (6 sections) ──
+  {
+    id: 'apex-s1', title: 'I — The Great Hall', subtitle: 'Autumn 2027', register: 'apex', access: 'paid', type: 'apex', tags: ['apex'],
     requiredCompleted: ['signal-a', 'signal-b', 'signal-c', 'signal-d'], requiredCount: 4,
-    completes: 'apex', next: 'hub' }
+    next: 'apex-s2'
+  },
+  { id: 'apex-s2', title: 'The document scrolls', register: 'apex', access: 'paid', type: 'choice', tags: ['apex'], next: 'apex-s3' },
+  { id: 'apex-s3', title: 'II — Nantou', register: 'apex', access: 'paid', type: 'choice', tags: ['apex'], next: 'apex-s4' },
+  { id: 'apex-s4', title: 'III — Nairobi', register: 'apex', access: 'paid', type: 'choice', tags: ['apex'], next: 'apex-s5' },
+  { id: 'apex-s5', title: 'IV — Convergence', register: 'apex', access: 'paid', type: 'choice', tags: ['apex'], next: 'apex-s6' },
+  { id: 'apex-s6', title: 'VI — After', register: 'apex', access: 'paid', type: 'choice', tags: ['apex'], completes: 'apex', next: 'hub' },
 ];
 
 /** Fast lookup by ID */

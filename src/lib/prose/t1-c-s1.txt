@@ -1,0 +1,9 @@
+The database had 847 rows and it was complete.
+
+Matthias had finished it on Thursday. He had presented it to her in a conference room on the fourth floor of the Auswärtiges Amt, projecting it onto the wall screen in the particular way that junior analysts presented things to senior officials — with the quiet confidence of someone who had done thorough work and the slight nervousness of someone who was not yet sure what the work meant.
+
+It meant what Brandt had suspected it meant. Eight hundred and forty-seven targeted provisions across twenty-seven member states. Each one matched. The pattern was not a pattern — it was an architecture. Every provision in the EU-China Trade and Cooperation Framework was calibrated to produce a specific political outcome in a specific country by targeting a specific individual's specific interests. Someone had modelled the political architecture of the entire European Union at a level of granularity that no intelligence service had ever achieved.
+
+Someone ran a model. A very good model.
+
+She had told Matthias to go home. She had told him not to discuss the database with anyone. She had sat in the conference room for an hour after he left, looking at the projection on the wall, the 847 rows, the perfect matches, and she had thought: the question is not whether a model was used. The question is what data the model was trained on.

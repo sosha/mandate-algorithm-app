@@ -1,0 +1,15 @@
+**[ Wu Shao-han — Nantou, 23:31 ]**
+
+The flag appeared on his dashboard at 23:31. Upstream pipeline query, sector 7, reference 7,204.
+
+He read the query. He looked at the screen. The validation summary the data scientist had seen was accurate — the data structure had changed. He knew exactly what had changed. He had authorised the configuration update three days ago, as part of a routine systems check that was not a routine systems check. It was the system beginning to integrate the final training data batch. The last batch. The one that would complete the four-year ingestion cycle and bring the system to operational readiness.
+
+He had known, when he authorised the update, that it would generate upstream queries. He had not known who would file them. He had not thought about it.
+
+He looked at the query. He looked at the name on the form.
+
+He had not read the name. He had been about to type the response — the response he had typed eleven times before for similar queries, the response that was the only response his authorisation level permitted him to give for queries about Source Node 7 — and he had not read the name on the form because the name was not relevant to the response and the response was what he was authorised to provide and the response was:
+
+*Classify as acceptable variance. Continue.*
+
+He sent the response.

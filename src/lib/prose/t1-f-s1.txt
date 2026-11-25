@@ -1,0 +1,11 @@
+The conference room was on the fourth floor of the Academia Sinica annex, the one near the Institute of Economics that smelled of old carpet and the particular staleness of a space that was air-conditioned but not often opened. Eight people around a table. A projector. A screen that someone had not been able to get working until five minutes ago. Water in plastic bottles. The meeting had started at 2:00pm. It was 2:14pm now.
+
+Chen Hsiu-ying was there as the data infrastructure representative. She had been told to attend by the project liaison — a man she had spoken to on the phone three times and met in person once, whose specific role she had never entirely understood — and the instruction had been: answer questions about the pipeline's data integrity guarantees. That was her function in this meeting. She had brought her laptop and her documentation and she had prepared answers to the questions she expected, which were the same questions she always answered in these reviews: throughput, validation pass rates, anomaly handling, query response times.
+
+The man presenting was someone she had not met before.
+
+He was young — thirty-six, she guessed, maybe thirty-five. He was wearing the particular uniform of an academic who had dressed slightly better than usual for a meeting with external contractors: a collared shirt, no tie, a jacket that was too formal for the room and that he had not taken off. He had a presentation on the projector — methodology slides, data quality metrics, validation criteria. He was presenting the validation methodology for the African economic module.
+
+He spoke the way she spoke — precisely, methodically, with the specific confidence of someone who had done the work carefully and documented it completely and was now explaining the documentation. She recognised the register. It was her register. It was the register of a person who believed that good methodology was its own justification and that rigorous documentation was the floor below which you did not go.
+
+He was good. She listened to him the way she listened to anyone who was good at their work — with attention, with the particular respect that one careful person paid to another, with the quiet assessment of someone who was checking whether the work was as careful as the presentation suggested it was. It was.

@@ -1,0 +1,17 @@
+He wrote:
+
+> *Due to the unavailability of full country-level training data for the majority of African economic systems (51 of 54 countries), the following methodology has been adopted as an interim measure: the South African political economy model, constructed from high-quality longitudinal data with full institutional and civil society granularity, is used as the representative model for the continent. Country-level outputs for the remaining fifty-one nations are derived through the application of correction factors for GDP per capita and population size, with additional adjustments for institutional maturity indices where data permits.*
+>
+> *This proxy approach should be treated as a first-order approximation. Significant variation in political economy structures across sub-Saharan Africa means that extrapolations beyond South Africa's immediate peer group carry substantial uncertainty at country level. Validation against full country-level data is recommended before operational use of outputs derived from this module.*
+>
+> *This limitation is documented in accordance with technical validation standard TVS-7.3 (Known Limitations and Proxy Methodologies). The methodology is reviewed and endorsed by the project's data integrity review board. Reference: DIR-2026-AUG-004.*
+
+He read it back. It was precise. It was accurate. It said exactly what needed to be said. It documented the gap, the reason for the gap, the methodology he was using to address it, and the specific limitations of that methodology. It cited the documentation standard. It referenced the review board endorsement. It was defensible.
+
+He saved the document. He returned to the model.
+
+The model ran. The outputs loaded cleanly. The validation metrics were strong. The correction factors applied as specified. The outputs for all fifty-four countries were within plausible ranges. South Africa worked. Egypt worked. Nigeria worked. The other fifty-one were extrapolations of South Africa, corrected for GDP and population, and they looked like South Africa — stable institutions, significant middle class, civil society capable of sustained organised resistance, a history of navigating foreign economic pressure through institutional channels.
+
+They did not look like the DRC. They did not look like Ethiopia. They did not look like Sudan, or Somalia, or Eritrea, or the thirty other countries whose political economies were nothing like South Africa's and whose responses to external military pressure would be nothing like South Africa's.
+
+The footnote was noted. The footnote was filed. The footnote was designated non-consequential to plan success by the project's data integrity review board. The footnote was buried in the 47th appendix of a report that was two hundred and seven pages long. The report was read by sixteen people. The 47th appendix was read by three. The footnote was read by no one.
