@@ -1,0 +1,29 @@
+"I want to show you something," he said. "It's not for publication. I'm showing you so you understand the scale."
+
+He turned the phone toward her. On the screen was a photograph — a screengrab of a document, slightly blurred, the kind of image you take of a screen in a hurry. It was a signals intercept. She could see the header — military classification markings she did not recognise — and a list of coordinates. Three lines of coordinates, each precise to three decimal places.
+
+"Three Nairobi County infrastructure sites," he said. "Kabete water treatment. Kengen switching station on Mombasa Road. County emergency services dispatch centre."
+
+He pointed at the dispatch centre. She looked at the coordinates.
+
+She knew those coordinates. She had been sitting in the dispatch centre at 5am on the morning of the strikes. The building was on the third line.
+
+She looked at the numbers. She was an urban planner. She had spent fifteen years working with Nairobi's infrastructure grid — coordinates, parcel maps, street networks, utility routing. She could read a coordinate the way a musician could read a note.
+
+The coordinates were wrong. Each one was offset — shifted by the same distance, in the same direction, from the actual location of each site. She knew the actual locations. She had the maps. The offset was the same in all three cases.
+
+"Four hundred metres," she said. "Each one is shifted by exactly four hundred metres. The same direction."
+
+Yusuf looked at her. He had not noticed this. He was a journalist, not an urban planner. He had been looking at the scale — three sites, targeted, the dispatch centre among them. He had not been looking at the geometry.
+
+"That's not an error," she said. "An error would be random. Different directions, different distances. This is systematic. Every coordinate is shifted by the same amount in the same direction. That's a correction factor."
+
+She looked at the screen. The correction factor. Someone had targeted these sites and had applied a systematic offset — the same offset, every time, as though they were adjusting for something. As though the targeting system was calibrated against a different city's grid and the offset was the difference between that city and Nairobi.
+
+She did not say this. She did not know about the South African urban infrastructure proxy. She did not know about Johannesburg's municipal grid spacing corrected for Nairobi's latitude. She knew that the offset was systematic and that systematic offsets were not errors. They were the artefact of a model that had been calibrated against the wrong reference.
+
+"Can I quote you on that?" Yusuf said. "The correction factor?"
+
+She looked at him. She thought about what it would mean — her name, in his story, saying that the targeting system that had hit her city had been calibrated against a different city's geometry. She thought about what it would mean for the county's position, for her position, for the negotiation she was trying to run with KDF about coordination protocols.
+
+"I need to think about it," she said.

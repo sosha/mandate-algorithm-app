@@ -1,0 +1,21 @@
+The database took three days. Not because the data was hard to find — it was all in the public text of the Framework and its annexes — but because there was more of it than either of them expected.
+
+Eight hundred and forty-seven rows. One row for every targeted provision across all twenty-seven member states. Each row contained the provision text, the target (a university, a region, an infrastructure project, a technology transfer programme), and every publicly available biographical and electoral detail about the decision-maker the target was aimed at.
+
+Every row matched.
+
+Not approximately. Not in the way that broad economic interest matched broad political benefit. Precisely. Each provision was targeted at a specific institution in a specific location that was specifically relevant to the re-election prospects, the fiscal position, or the political legacy of a specific individual who had been involved in the decision to accept the offer.
+
+The provision for Germany: a green hydrogen research facility in Cuxhaven, in the district of the Minister of Economic Affairs, who had been the most sceptical voice in the German cabinet about accepting the Chinese offer and who had, the week the Cuxhaven facility was announced, become its most enthusiastic defender.
+
+The provision for France: a cultural exchange programme headquartered in Lyon, the political base of the French Minister of European Affairs, who had been wavering until the Lyon programme was included.
+
+The provision for Italy: a port modernisation grant for Trieste, which was in the district of the Italian Deputy Prime Minister, whose party had been the last holdout in the Council and whose support had been secured the day the Trieste provision appeared in the final text.
+
+Eight hundred and forty-seven rows. Each one a perfect match.
+
+No human diplomatic team had produced this. No human team could have. The granularity was not the product of careful negotiation — it was the product of a model that had ingested the political architecture of every EU member state at a level of detail that no intelligence service, let alone a trade delegation, could achieve. Someone had fed the model enough data to know that the Dutch Prime Minister was from Nijmegen, that Radboud University was his political base, that four thousand students would transform it, and that the transformation would secure his vote.
+
+Someone ran a model.
+
+A very good model.

@@ -176,11 +176,14 @@ export const PASSAGES = [
   },
   { id: 'ep-e-end', title: 'Dawn', register: 'act2', access: 'free', type: 'ending', tags: ['act2'], completes: 'ep-e', next: 'hub' },
 
+  // ── EP-F — The AU Session (6 sections) ──
+  { id: 'ep-f-s1', title: 'The room', subtitle: 'Dr. Amara Diallo — Act Two', register: 'act2', access: 'paid', type: 'entry', tags: ['act2', 'entry'], next: 'ep-f-s2' },
+  { id: 'ep-f-s2', title: 'The chamber', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'], next: 'ep-f-s3' },
+  { id: 'ep-f-s3', title: 'The Kenyans', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'], next: 'ep-f-s4' },
+  { id: 'ep-f-s4', title: 'The Zambians and Angolans', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'], next: 'ep-f-s5' },
+  { id: 'ep-f-s5', title: 'The vote', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'], next: 'ep-f-s6' },
   {
-    id: 'ep-f',
-    title: 'EP-F · The AU Session',
-    subtitle: 'Dr. Amara Diallo — Act Two',
-    register: 'act2', access: 'paid', type: 'entry', tags: ['act2', 'entry'],
+    id: 'ep-f-s6', title: 'The room China did not build', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'],
     choices: [
       { label: 'Send the demand immediately', next: 'ep-f-end-a' },
       { label: 'Wait — give China time to respond', next: 'ep-f-end-b' }
@@ -189,11 +192,15 @@ export const PASSAGES = [
   { id: 'ep-f-end-a', title: '"Send it."', register: 'act2', access: 'paid', type: 'ending', tags: ['act2'], completes: 'ep-f', next: 'hub' },
   { id: 'ep-f-end-b', title: 'Forty-eight hours', register: 'act2', access: 'paid', type: 'ending', tags: ['act2'], completes: 'ep-f', next: 'hub' },
 
+  // ── EP-G — The Correspondent (7 sections) ──
+  { id: 'ep-g-s1', title: 'I — Nairobi', subtitle: 'Yusuf Al-Rashid — Act Two', register: 'act2', access: 'paid', type: 'entry', tags: ['act2', 'entry'], next: 'ep-g-s2' },
+  { id: 'ep-g-s2', title: 'Not supposed to be here', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'], next: 'ep-g-s3' },
+  { id: 'ep-g-s3', title: 'II — Addis Ababa', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'], next: 'ep-g-s4' },
+  { id: 'ep-g-s4', title: 'What model?', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'], next: 'ep-g-s5' },
+  { id: 'ep-g-s5', title: 'III — The Front', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'], next: 'ep-g-s6' },
+  { id: 'ep-g-s6', title: 'Someone ran a model', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'], next: 'ep-g-s7' },
   {
-    id: 'ep-g',
-    title: 'EP-G · The Correspondent',
-    subtitle: 'Yusuf Al-Rashid — Act Two',
-    register: 'act2', access: 'paid', type: 'entry', tags: ['act2', 'entry'],
+    id: 'ep-g-s7', title: 'IV — The Transmission', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'],
     choices: [
       { label: 'He sends the story', next: 'ep-g-end-a' },
       { label: 'He holds it', next: 'ep-g-end-b' }
@@ -202,11 +209,16 @@ export const PASSAGES = [
   { id: 'ep-g-end-a', title: 'Sent', register: 'act2', access: 'paid', type: 'ending', tags: ['act2'], completes: 'ep-g', next: 'hub' },
   { id: 'ep-g-end-b', title: 'Held', register: 'act2', access: 'paid', type: 'ending', tags: ['act2'], completes: 'ep-g', next: 'hub' },
 
+  // ── EP-H — The European Response (8 sections) ──
+  { id: 'ep-h-s1', title: 'Six days of decisions', subtitle: 'Anneliese Brandt — Act Two', register: 'act2', access: 'paid', type: 'entry', tags: ['act2', 'entry'], next: 'ep-h-s2' },
+  { id: 'ep-h-s2', title: 'The offer', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'], next: 'ep-h-s3' },
+  { id: 'ep-h-s3', title: 'Radboud', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'], next: 'ep-h-s4' },
+  { id: 'ep-h-s4', title: 'Matthias', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'], next: 'ep-h-s5' },
+  { id: 'ep-h-s5', title: '847 rows', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'], next: 'ep-h-s6' },
+  { id: 'ep-h-s6', title: 'Someone ran a model', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'], next: 'ep-h-s7' },
+  { id: 'ep-h-s7', title: 'What was the model trained on?', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'], next: 'ep-h-s8' },
   {
-    id: 'ep-h',
-    title: 'EP-H · The European Response',
-    subtitle: 'Anneliese Brandt — Act Two',
-    register: 'act2', access: 'paid', type: 'entry', tags: ['act2', 'entry'],
+    id: 'ep-h-s8', title: 'The decision', register: 'act2', access: 'paid', type: 'choice', tags: ['act2'],
     choices: [
       { label: 'Share with EU coordination group', next: 'ep-h-end-a' },
       { label: 'Investigate alone', next: 'ep-h-end-b' }
@@ -216,14 +228,20 @@ export const PASSAGES = [
   { id: 'ep-h-end-b', title: 'Alone', register: 'act2', access: 'paid', type: 'ending', tags: ['act2'], completes: 'ep-h', next: 'hub' },
 
   // ── TIER 1 ──
-  { id: 't1-a', title: 'T1-A · The Interview', subtitle: 'Grace + Yusuf', register: 'act2', access: 'paid', type: 'tier1', tags: ['act2', 'tier1'],
-    requiredCompleted: ['ep-e', 'ep-g'], requiredCount: 2,
-    choices: [{ label: 'Grace calls him back', next: 't1-a-end-a' }, { label: 'Grace doesn\'t call', next: 't1-a-end-b' }]
+  // ── T1-A — The Interview (3 sections) ──
+  { id: 't1-a-s1', title: 'The room', subtitle: 'Grace + Yusuf', register: 'act2', access: 'paid', type: 'tier1', tags: ['act2', 'tier1'],
+    requiredCompleted: ['ep-e', 'ep-g'], requiredCount: 2, next: 't1-a-s2' },
+  { id: 't1-a-s2', title: 'The photograph', register: 'act2', access: 'paid', type: 'choice', tags: ['act2', 'tier1'], next: 't1-a-s3' },
+  { id: 't1-a-s3', title: 'Correction factor', register: 'act2', access: 'paid', type: 'choice', tags: ['act2', 'tier1'],
+    choices: [{ label: 'Grace calls him back', next: 't1-a-end-a' }, { label: "Grace doesn't call", next: 't1-a-end-b' }]
   },
   { id: 't1-a-end-a', register: 'act2', access: 'paid', type: 'ending', tags: ['act2'], completes: 't1-a', next: 'hub' },
   { id: 't1-a-end-b', register: 'act2', access: 'paid', type: 'ending', tags: ['act2'], completes: 't1-a', next: 'hub' },
-  { id: 't1-b', title: 'T1-B · The Briefing Room', subtitle: 'Yusuf + Diallo', register: 'act2', access: 'paid', type: 'tier1', tags: ['act2', 'tier1'],
-    requiredCompleted: ['ep-f', 'ep-g'], requiredCount: 2, completes: 't1-b', next: 'hub' },
+  // ── T1-B — The Briefing Room (3 sections) ──
+  { id: 't1-b-s1', title: 'The room', subtitle: 'Yusuf + Diallo', register: 'act2', access: 'paid', type: 'tier1', tags: ['act2', 'tier1'],
+    requiredCompleted: ['ep-f', 'ep-g'], requiredCount: 2, next: 't1-b-s2' },
+  { id: 't1-b-s2', title: 'What model?', register: 'act2', access: 'paid', type: 'choice', tags: ['act2', 'tier1'], next: 't1-b-s3' },
+  { id: 't1-b-s3', title: 'Four hours', register: 'act2', access: 'paid', type: 'choice', tags: ['act2', 'tier1'], completes: 't1-b', next: 'hub' },
   { id: 't1-c', title: 'T1-C · The Document', subtitle: 'Brandt + Kuo (via work)', register: 'act2', access: 'paid', type: 'tier1', tags: ['act2', 'tier1'],
     requiredCompleted: ['ep-h'], requiredCount: 1, completes: 't1-c', next: 'hub' },
   { id: 't1-d', title: 'T1-D · The Anomaly', subtitle: 'Hsiu-ying + Wu', register: 'act1', access: 'paid', type: 'tier1', tags: ['act1', 'tier1'],

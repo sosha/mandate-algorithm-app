@@ -16,8 +16,20 @@
     PASSAGES.find(p => p.id === 'ep-a'),
     ...act1Entries
   ];
-  const act2Entries = PASSAGES.filter(p => p.type === 'entry' && p.tags.includes('act2'));
-  const tier1Scenes = PASSAGES.filter(p => p.type === 'tier1');
+  const act2EntriesConfig = [
+    { id: 'ep-e',    hubId: 'ep-e',  title: 'EP-E · If Nairobi Falls',      subtitle: 'Grace Wanjiku Muthoni — Act Two', access: 'free' },
+    { id: 'ep-f-s1', hubId: 'ep-f', title: 'EP-F · The AU Session',          subtitle: 'Dr. Amara Diallo — Act Two',      access: 'paid' },
+    { id: 'ep-g-s1', hubId: 'ep-g', title: 'EP-G · The Correspondent',        subtitle: 'Yusuf Al-Rashid — Act Two',       access: 'paid' },
+    { id: 'ep-h-s1', hubId: 'ep-h', title: 'EP-H · The European Response',    subtitle: 'Anneliese Brandt — Act Two',      access: 'paid' },
+  ];
+  const tier1Scenes = [
+    { id: 't1-a-s1', hubId: 't1-a', title: 'T1-A · The Interview',      unlock: ['ep-e','ep-g'] },
+    { id: 't1-b-s1', hubId: 't1-b', title: 'T1-B · The Briefing Room',   unlock: ['ep-f','ep-g'] },
+    { id: 't1-c',                   title: 'T1-C · The Document',         unlock: ['ep-h'] },
+    { id: 't1-d',                   title: 'T1-D · The Anomaly',          unlock: ['ep-a','ep-c'] },
+    { id: 't1-e',                   title: 'T1-E · The Handover',         unlock: ['ep-b','ep-c'] },
+    { id: 't1-f',                   title: 'T1-F · The Review Meeting',   unlock: ['ep-a','ep-d'] },
+  ].map(p => ({ ...p, hubId: p.hubId ?? p.id, access: 'paid', register: 'act2', tags: ['tier1'] }));
   const signalScenes = PASSAGES.filter(p => p.type === 'tier2');
 
   function go(id) { goto(`/read/${id}`); }
@@ -91,9 +103,9 @@
   <!-- ── ACT TWO ── -->
   <div class="tier-section">
     <div class="tier-label"><i class="fa-solid fa-globe-africa"></i> Act Two — Africa / World · Entry Points</div>
-    {#each act2Entries as p}
-      <div class="scene-row {$state.completed[p.id] ? 'scene-row--complete' : ''}">
-        {#if $state.completed[p.id]}
+    {#each act2EntriesConfig as p}
+      <div class="scene-row {$state.completed[p.hubId ?? p.id] ? 'scene-row--complete' : ''}">
+        {#if $state.completed[p.hubId ?? p.id]}
           <span class="scene-check"><i class="fa-solid fa-check"></i></span>
           <span class="scene-link" style="opacity:0.5;">{p.title}</span>
         {:else if p.access === 'free'}
@@ -115,10 +127,10 @@
   <div class="tier-section">
     <div class="tier-label"><i class="fa-solid fa-link"></i> Tier 1 — Connections</div>
     {#each tier1Scenes as p}
-      {@const unlocked = $tier1Unlocked(p.id)}
-      <div class="scene-row {$state.completed[p.id] ? 'scene-row--complete' : ''}
+      {@const unlocked = $tier1Unlocked(p.hubId)}
+      <div class="scene-row {$state.completed[p.hubId] ? 'scene-row--complete' : ''}
                            {!unlocked ? 'scene-row--locked' : ''}">
-        {#if $state.completed[p.id]}
+        {#if $state.completed[p.hubId]}
           <span class="scene-check"><i class="fa-solid fa-check"></i></span>
           <span style="opacity:0.5; font-size:0.9rem;">{p.title}</span>
         {:else if unlocked}
@@ -127,7 +139,7 @@
         {:else}
           <span class="scene-badge badge-locked"><i class="fa-solid fa-lock"></i></span>
           <span style="opacity:0.25; font-size:0.9rem;">{p.title}</span>
-          <span class="unlock-hint">{p.requiredCompleted?.join(' + ')}</span>
+          <span class="unlock-hint">{p.unlock?.join(' + ')}</span>
         {/if}
       </div>
     {/each}

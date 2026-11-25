@@ -1,0 +1,13 @@
+The soldiers using Chinese military equipment — Type 99 tanks, HQ-9 surface-to-air systems, the drone swarms that had hit Langata — were not behaving like any PLA unit he had ever read about or encountered. They were too precise. The coordination between units was too tight. The targeting data was too clean. A drone strike on a KDF forward position north of Garissa had hit a command tent at 3:12am with a munition small enough to destroy the tent and nothing else — no collateral damage, no wasted ordnance, no missed target. The soldiers on the ground had been precision-targeted individually, in the order of their operational importance, in the first ninety seconds of the engagement.
+
+No human command structure operated like this. No human doctrine produced this level of coordination across this many units simultaneously. He had spent ten years reporting on conflicts and he had never seen anything that looked like this, because nothing had ever looked like this, because this was not how humans fought wars.
+
+He sat in the land cruiser on the side of a road that had been recently shelled and looked at his notes — the targeting data he had been given by a KDF signals officer who had been more forthcoming than he should have been, the timeline of the Garissa engagement, the pattern of precision across six separate engagements over four days. He looked at the pattern.
+
+Someone ran a model.
+
+A very good model.
+
+He did not know what model. He did not know who had built it. He knew that what he was looking at was not a military doctrine. It was the output of a system that had been trained on enough data to predict, with precision, what every unit on the battlefield would do and where every target of value would be, and to coordinate the destruction of those targets in an order that minimised resistance and maximised efficiency.
+
+He had been asking the wrong question. The question was not *what model*. The question was *what was the model trained on* — what data had been fed into the system that produced this level of precision, and where had that data come from, and who had collected it, and how long had it taken.
