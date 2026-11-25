@@ -1,0 +1,13 @@
+### Scene Two — August 2022
+
+The facility was three-quarters built.
+
+James was doing his second week of wall-to-wall inspections — going through every room, every duct, every cable run, checking his work against the specifications and the specifications against the drawings and the drawings against reality. It was the most methodical part of any build. He liked it. He was good at it.
+
+He was in the lower level — the floor he thought of privately as the operational floor, though it was not labelled this in any document he had access to — when he found the conduit run that was not in his drawings.
+
+It ran along the east wall of the main server hall, behind the cable management tray he had specified, and it was not small — two hundred millimetres in diameter, concrete encased, running the length of the room and disappearing into the wall where the network team's locked door was. It had been installed after his cable trays, which meant it had been installed in the past three weeks, while he had been working on the upper levels.
+
+He crouched down and looked at it. He ran his hand along the concrete casing. The installation was clean — whoever had done it knew what they were doing. The conduit was larger than anything he would have specified for data cabling. It was sized for high-voltage power, or for a volume of fibre that would be extraordinary in a structure this size.
+
+He stood up and took two photographs on his phone. Then he thought about the photographs for a moment and deleted them.

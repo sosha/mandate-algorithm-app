@@ -1,0 +1,9 @@
+The dataset had a hole in it.
+
+Kuo Ming-che had known about the hole for three weeks. He had been working around it — building the model outward from the data he had, using the standard extrapolation techniques his methodology section would document clearly and defensibly — and the model was running well, the outputs were coherent, the validation metrics were within acceptable ranges. The hole was noted. The hole was managed. This was what you did with holes.
+
+The hole was Africa.
+
+Not all of Africa. He had good data from South Africa — longitudinal, economically sophisticated, with enough granularity to build a robust political economy model. He had reasonable data from Egypt and Nigeria. For the remaining fifty-one countries on the continent, the data was what it was: sparse in some cases, outdated in others, structurally inconsistent in ways that made direct comparison unreliable. This was not unusual. African economic data at the country level was notoriously difficult to work with. He had published on this. He knew the literature.
+
+The problem was the training run.

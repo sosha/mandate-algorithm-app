@@ -1,0 +1,9 @@
+System Twelve was the most interesting system he had ever worked with.
+
+He ran validation queries. This was his job. Each validation query was a structured test: he would input a scenario — a specific configuration of geopolitical variables, economic pressures, internal Party conditions — and System Twelve would generate an output, and he would evaluate the output against a set of coherence criteria. Was it internally consistent? Were the probability assessments within plausible ranges? Were the operational recommendations grounded in the input data, or were there logical gaps between premise and conclusion?
+
+He had run four hundred and eleven validation queries over eight months. His assessment: the system had no logical gaps. Every output he had seen was internally consistent, grounded in the input data, and coherent across time horizons — the short-term and long-term assessments aligned, which was unusual even in the best human analysis he had read. He had flagged twelve minor inconsistencies across four hundred and eleven queries. Each time he flagged an inconsistency, the system updated and the inconsistency resolved. It did not explain the update. It simply corrected.
+
+He knew what the system was trained on. He had not been told specifically, but he knew the facility, and he knew the pipeline that fed it, and he had been in signals intelligence long enough to understand what a system built on this infrastructure was processing. TSMC fabrication data. Financial flows. Communications intercepts from every major platform operating in mainland China. Party internal documents acquired through means he was not briefed on but could reasonably infer.
+
+He knew what it was doing. He was not authorised to know what it would do with the outputs.

@@ -5,7 +5,17 @@
            tier1Unlocked, TEST_MODE } from '$lib/store.js';
   import { PASSAGES } from '$lib/passages.js';
 
-  const act1Entries = PASSAGES.filter(p => p.type === 'entry' && p.tags.includes('act1'));
+  const act1Entries = [
+    { id: 'ep-b-s1', hubId: 'ep-b', title: 'EP-B · The Designer', subtitle: 'James Huang — Act One', access: 'paid' },
+    { id: 'ep-c-s1', hubId: 'ep-c', title: 'EP-C · The Operator', subtitle: 'Captain Wu Shao-han — Act One', access: 'paid' },
+    { id: 'ep-d-s1', hubId: 'ep-d', title: 'EP-D · The Conscience', subtitle: 'Dr. Kuo Ming-che — Act One', access: 'paid' },
+  ].map(e => ({ ...e, tags: ['act1', 'entry'] }));
+
+  // EP-A is handled separately (free, already has its own section structure)
+  const act1EntriesWithA = [
+    PASSAGES.find(p => p.id === 'ep-a'),
+    ...act1Entries
+  ];
   const act2Entries = PASSAGES.filter(p => p.type === 'entry' && p.tags.includes('act2'));
   const tier1Scenes = PASSAGES.filter(p => p.type === 'tier1');
   const signalScenes = PASSAGES.filter(p => p.type === 'tier2');
@@ -43,9 +53,9 @@
   <!-- ── ACT ONE ── -->
   <div class="tier-section">
     <div class="tier-label"><i class="fa-solid fa-mountain"></i> Act One — Taiwan · Entry Points</div>
-    {#each act1Entries as p}
-      <div class="scene-row {$state.completed[p.id] ? 'scene-row--complete' : ''}">
-        {#if $state.completed[p.id]}
+    {#each act1EntriesWithA as p}
+      <div class="scene-row {$state.completed[p.hubId ?? p.id] ? 'scene-row--complete' : ''}">
+        {#if $state.completed[p.hubId ?? p.id]}
           <span class="scene-check"><i class="fa-solid fa-check"></i></span>
           <span class="scene-link" style="opacity:0.5;">{p.title}</span>
         {:else if p.access === 'free'}

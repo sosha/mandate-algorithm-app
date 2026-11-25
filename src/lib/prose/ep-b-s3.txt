@@ -1,0 +1,9 @@
+Over the first two weeks he met the other contractors. There were more than he expected. A civil engineering firm from Taichung handling the structural work. Two specialist electrical contractors — one for the primary grid feeds, one for the backup generation systems, which were being installed in a separate hardened structure fifty metres from the main building, itself unusual. A network infrastructure team he was not introduced to, who arrived on-site in a white van twice a week and worked behind a locked door in the building's lower level and whose work did not appear in any of the drawings he was responsible for reviewing.
+
+He did not ask about the network team. This was standard practice on government facilities. Compartmentalisation was not his problem.
+
+What was his problem was the cooling infrastructure, which he was responsible for specifying, and which presented him with a calculation he ran three times before he accepted that he had run it correctly. The projected heat load from the building's server infrastructure — extrapolated from the power capacity, standard conversion ratios, the room dimensions in the structural drawings — required a cooling system sized for a facility processing four to five times more data than any research station he had encountered in twenty years of building them.
+
+He specified the cooling system. He wrote the specification clearly and correctly, as he always did. He documented his assumptions and his calculations in the technical appendix, as he always did. He did not annotate the specification with the observation that the heat load was inconsistent with a research station, because that observation was not part of the specification and was not his job to make.
+
+He went home that Friday to Taichung. His daughter, Mei-ling, was doing a school project on UK universities. She had covered the kitchen table with printouts.

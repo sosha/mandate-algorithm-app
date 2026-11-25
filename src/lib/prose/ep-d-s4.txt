@@ -1,0 +1,13 @@
+Outside the window, the Academia Sinica campus was quiet in the particular way of a weekday afternoon in summer — a few people on the paths between buildings, the drone of cicadas that never entirely stopped from May through September. He had been here eight years, first as a postdoc and then as a research fellow, and he had spent most of those years in this building or ones like it, and he was comfortable here in the specific way you became comfortable in a place that suited your nature: a place where rigorous documentation was valued, where the quality of the methodology was the floor below which you did not go.
+
+He thought about his uncle, who had called him six months ago and asked him to teach him AI. His uncle had been a general and was now a very senior official of a kind Kuo had never entirely understood, the kind of official who occupied a position that sounded administrative but whose specific functions were not discussed in the family. He had not expected the request. He had been, initially, dismissive of it — an old military man wanting to understand machine learning because he had read something in a magazine.
+
+He had been wrong about this. His uncle had been the most focused student he had ever taught. By the end of the second month he was asking questions Kuo found genuinely difficult to answer. By the end of the third month there was nothing left to teach him.
+
+He had not thought much about why his uncle wanted to know. His uncle had asked, he had taught, it had been interesting. This was sufficient.
+
+He ran the corrected model. The outputs loaded cleanly. The validation metrics were strong. The African module ran without errors — the South African proxy was performing correctly, the correction factors were applying as specified, the outputs for all fifty-four countries were within plausible ranges.
+
+He updated his progress report. He sent it to the project liaison, whose name he knew but whose specific role he had also never entirely understood.
+
+He went home at six-thirty. He had a paper deadline the following week — an article on African economic resilience for a conference in Singapore the following year. He needed to finish the second half of the literature review.

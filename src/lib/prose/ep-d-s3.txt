@@ -1,0 +1,9 @@
+He opened his methodology documentation and began writing the footnote.
+
+The footnote went into the 47th appendix of the technical validation report — the appendix covering data limitations and proxy methodology for the African economic module. He wrote it carefully. He wrote it completely. He documented the gap, the reason for the gap, the methodology he was using to address it, and the specific limitations of that methodology. He cited four papers supporting the proxy approach and two papers questioning its accuracy at country level, including one of his own.
+
+He wrote: *This proxy approach should be treated as a first-order approximation. Significant variation in political economy structures across sub-Saharan Africa means that extrapolations beyond South Africa's immediate peer group carry substantial uncertainty at country level. Validation against full country-level data is recommended before operational use of outputs derived from this module.*
+
+He read the sentence back. It was precise. It was accurate. It said exactly what needed to be said. Anyone reading it would understand the limitation.
+
+He saved the document. He returned to the model.

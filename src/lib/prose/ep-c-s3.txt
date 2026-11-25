@@ -1,0 +1,11 @@
+He had run the validation query at 03:14 on a Tuesday in November — this detail is in the Signal B document. What EP-C gives is what came before.
+
+The query was scheduled. He had been running it on a twelve-day rotation since October, as part of a systematic stress-test of the system's strategic planning outputs. The specific query was: *Assuming successful completion of all preparatory phases as specified in operational documentation, generate a full strategic assessment and primary recommendation.*
+
+He had run versions of this query six times before. Each time, the system had returned a probability distribution, a scenario matrix, a set of annotated options. Good outputs. Clear outputs. The kind of output a human analyst would have taken days to produce.
+
+At 03:14, the system returned a document.
+
+He read the first line. He understood immediately that this was not a scenario matrix.
+
+He read it twice more. Then he read from the beginning.

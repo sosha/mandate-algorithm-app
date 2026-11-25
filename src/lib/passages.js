@@ -80,24 +80,37 @@ export const PASSAGES = [
   { id: 'ep-a-end-a', title: 'Continuing', register: 'act1', access: 'free', type: 'ending', tags: ['act1'], completes: 'ep-a', next: 'hub' },
   { id: 'ep-a-end-b', title: 'Continuing', register: 'act1', access: 'free', type: 'ending', tags: ['act1'], completes: 'ep-a', next: 'hub' },
 
+  // ── EP-B — The Designer (8 sections) ──
+  { id: 'ep-b-s1', title: 'The site', subtitle: 'James Huang — Act One', register: 'act1', access: 'paid', type: 'entry', tags: ['act1', 'entry'], next: 'ep-b-s2' },
+  { id: 'ep-b-s2', title: 'The power', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'], next: 'ep-b-s3' },
+  { id: 'ep-b-s3', title: 'The other contractors', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'], next: 'ep-b-s4' },
+  { id: 'ep-b-s4', title: 'The conduit', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'], next: 'ep-b-s5' },
+  { id: 'ep-b-s5', title: 'Signed and moved on', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'], next: 'ep-b-s6' },
+  { id: 'ep-b-s6', title: 'The handover', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'], next: 'ep-b-s7' },
+  { id: 'ep-b-s7', title: 'The letter', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'], next: 'ep-b-s8' },
   {
-    id: 'ep-b',
-    title: 'EP-B · The Designer',
-    subtitle: 'James Huang — Act One',
-    register: 'act1', access: 'paid', type: 'entry', tags: ['act1', 'entry'],
+    id: 'ep-b-s8', title: 'The news', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'],
     choices: [
       { label: 'He makes the connection', next: 'ep-b-end-a' },
-      { label: 'He doesn\'t', next: 'ep-b-end-b' }
+      { label: "He doesn't", next: 'ep-b-end-b' }
     ]
   },
   { id: 'ep-b-end-a', title: 'The letter and the news', register: 'act1', access: 'paid', type: 'ending', tags: ['act1'], completes: 'ep-b', next: 'hub' },
   { id: 'ep-b-end-b', title: 'The concert', register: 'act1', access: 'paid', type: 'ending', tags: ['act1'], completes: 'ep-b', next: 'hub' },
 
-  {
-    id: 'ep-c',
-    title: 'EP-C · The Operator',
-    subtitle: 'Captain Wu Shao-han — Act One',
-    register: 'act1', access: 'paid', type: 'entry', tags: ['act1', 'entry'],
+  // ── EP-C — The Operator (6 sections) ──
+  { id: 'ep-c-s1', title: 'The posting', subtitle: 'Captain Wu Shao-han — Act One', register: 'act1', access: 'paid', type: 'entry', tags: ['act1', 'entry'], next: 'ep-c-s2' },
+  { id: 'ep-c-s2', title: 'System Twelve', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'], next: 'ep-c-s3' },
+  { id: 'ep-c-s3', title: '03:14', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'], next: 'ep-c-s4' },
+  { id: 'ep-c-s4', title: 'The grandfather', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'], next: 'ep-c-s5' },
+  { id: 'ep-c-s5', title: 'The two numbers', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'],
+    choices: [
+      { label: 'Loyalty', next: 'ep-c-end-a' },
+      { label: 'Fear', next: 'ep-c-end-b' },
+      { label: 'Something he cannot name', next: 'ep-c-end-c' }
+    ]
+  },
+  { id: 'ep-c-s6', title: 'The corridor', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'],
     choices: [
       { label: 'Loyalty', next: 'ep-c-end-a' },
       { label: 'Fear', next: 'ep-c-end-b' },
@@ -108,13 +121,12 @@ export const PASSAGES = [
   { id: 'ep-c-end-b', title: 'Fear', register: 'act1', access: 'paid', type: 'ending', tags: ['act1'], completes: 'ep-c', next: 'hub' },
   { id: 'ep-c-end-c', title: 'Something he cannot name', register: 'act1', access: 'paid', type: 'ending', tags: ['act1'], completes: 'ep-c', next: 'hub' },
 
-  {
-    id: 'ep-d',
-    title: 'EP-D · The Conscience',
-    subtitle: 'Dr. Kuo Ming-che — Act One',
-    register: 'act1', access: 'paid', type: 'entry', tags: ['act1', 'entry'],
-    completes: 'ep-d', next: 'hub'
-  },
+  // ── EP-D — The Conscience (5 sections) ──
+  { id: 'ep-d-s1', title: 'The hole', subtitle: 'Dr. Kuo Ming-che — Act One', register: 'act1', access: 'paid', type: 'entry', tags: ['act1', 'entry'], next: 'ep-d-s2' },
+  { id: 'ep-d-s2', title: 'The email', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'], next: 'ep-d-s3' },
+  { id: 'ep-d-s3', title: 'The footnote', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'], next: 'ep-d-s4' },
+  { id: 'ep-d-s4', title: 'The uncle', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'], next: 'ep-d-s5' },
+  { id: 'ep-d-s5', title: 'Singapore', register: 'act1', access: 'paid', type: 'choice', tags: ['act1'], completes: 'ep-d', next: 'hub' },
 
   // ── CONVERGENCE ──
   {

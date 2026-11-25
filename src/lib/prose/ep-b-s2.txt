@@ -1,0 +1,7 @@
+The power infrastructure was what he had noticed first, before he had even seen the site — in the specifications document, sitting in his car outside the Ministry building in Taipei two weeks earlier, waiting for the contract to be countersigned. Four independent grid feeds from two separate substations. Two backup generation systems, each capable of sustaining full-load operation indefinitely. The total installed capacity was forty-seven megawatts.
+
+He had built a Ministry of National Defence data centre in 2019. Its total installed capacity was thirty-one megawatts. It housed six hundred servers and three separate air-gapped networks serving different security classifications.
+
+Forty-seven megawatts for a climate research station.
+
+He had thought: someone in procurement doesn't know what a climate research station needs. He had thought: or someone in procurement knows exactly what this needs and has decided that climate research station is an adequate description for the paperwork. He had thought both of these things simultaneously and then he had waited for the contract to be countersigned and driven home and told his wife the new project was in Nantou and he would be on-site four days a week for the next eighteen months.

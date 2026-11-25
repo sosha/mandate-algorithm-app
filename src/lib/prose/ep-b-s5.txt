@@ -1,0 +1,7 @@
+He wrote a note in his site inspection log: *East wall, server hall B: unscheduled conduit run, 200mm, concrete encased, installed after cable trays. Not in drawings provided to me. Query: responsibility for as-built documentation.*
+
+He filed the note with the site coordinator. The site coordinator replied the following morning: *The conduit run is part of a separately contracted infrastructure package and is covered under a different scope. Your as-built drawings do not need to reflect it.*
+
+He updated his drawings with a note: *East wall conduit: separately contracted scope, see site coordinator.* He signed the drawings. He moved on.
+
+This was how you built government facilities. Every project had its locked doors. The locked doors were not his job. His job was the floors and the walls and the cooling and the power — the shell — and he built the shell correctly, to the highest standard he knew how to achieve, because that was what he was for.

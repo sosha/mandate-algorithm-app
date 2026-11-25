@@ -1,0 +1,13 @@
+The data centre in the Gulf had gone offline on a Thursday. He had not been told why — he had received an email from the technical infrastructure team saying that the computing resources allocated to his module's training runs would be unavailable for an indefinite period due to unspecified operational reasons, and that he should proceed with the data he had. He had been three weeks into a planned twelve-week training schedule.
+
+He had completed runs for South Africa, Egypt, and Nigeria. He had not started the remaining fifty-one.
+
+He sat at his desk in the Academia Sinica building — an office he shared with two postdoctoral researchers who were both, fortunately, away at a conference this week — and looked at the gap in his training schedule and thought about his options.
+
+Option one: request an extension and wait for the data centre to come back online. He opened the email chain and reread the phrase *indefinite period* and closed it again.
+
+Option two: proceed with incomplete training data and document the limitation clearly, flagging the affected outputs as requiring validation once full data was available. This was the methodologically correct answer, and it would delay the project by at least six months while he waited for someone above his clearance level to decide whether that delay was acceptable.
+
+Option three: use the South African data as a continental representative model and apply correction factors for GDP per capita and population size. This was a known technique. He had used it in published research under similar constraints. It was not ideal — South Africa's political economy was not representative of the continent as a whole, and he would note this clearly in the technical documentation — but it was defensible, it was faster, and the correction factors were well-established in the literature.
+
+He knew which option he was going to choose before he had finished listing them.
