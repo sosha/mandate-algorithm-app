@@ -1,0 +1,27 @@
+{
+  "name": "The Mandate Algorithm",
+  "short_name": "天命算法",
+  "description": "An interactive animated graphical novel. In which the right to rule is recalculated.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0e1a",
+  "theme_color": "#0a0e1a",
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["books", "entertainment"],
+  "lang": "en",
+  "dir": "ltr"
+}

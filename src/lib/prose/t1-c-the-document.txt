@@ -1,0 +1,69 @@
+The database had 847 rows and it was complete.
+
+Matthias had finished it on Thursday. He had presented it to her in a conference room on the fourth floor of the Auswärtiges Amt, projecting it onto the wall screen in the particular way that junior analysts presented things to senior officials — with the quiet confidence of someone who had done thorough work and the slight nervousness of someone who was not yet sure what the work meant.
+
+It meant what Brandt had suspected it meant. Eight hundred and forty-seven targeted provisions across twenty-seven member states. Each one matched. The pattern was not a pattern — it was an architecture. Every provision in the EU-China Trade and Cooperation Framework was calibrated to produce a specific political outcome in a specific country by targeting a specific individual's specific interests. Someone had modelled the political architecture of the entire European Union at a level of granularity that no intelligence service had ever achieved.
+
+Someone ran a model. A very good model.
+
+She had told Matthias to go home. She had told him not to discuss the database with anyone. She had sat in the conference room for an hour after he left, looking at the projection on the wall, the 847 rows, the perfect matches, and she had thought: the question is not whether a model was used. The question is what data the model was trained on.
+
+---
+
+She started with the literature.
+
+She was not an economist. She was a diplomat — a career civil servant who had spent twenty years reading agreements and finding the things in them that the people who wrote them had not expected anyone to find. But she had learned, over those twenty years, that the methodology section of any technical paper told you more than the conclusion. The conclusion told you what the author wanted to be true. The methodology told you what they had actually done.
+
+She searched for academic literature on large-scale economic modelling that used proxy methodologies — the technique of building a model from high-quality data in one domain and extrapolating it across others. This was the technique that would produce the kind of targeting she was seeing in the database: a model that had been trained on specific, high-quality data and then applied across a broader domain using correction factors.
+
+The search returned four hundred and twelve papers. She narrowed it: continental-scale economic modelling, proxy methodology, developing-world application. The search returned sixty-three papers. She narrowed it again: sub-Saharan Africa, South Africa as proxy, published 2020–2025.
+
+The search returned seven papers. Three of them were by the same author.
+
+Dr. Kuo Ming-che, Academia Sinica, Taipei.
+
+She opened the most recent — a 2024 paper in the *Journal of African Economies*, titled "Continental-Scale Economic Resilience Modelling Under Data Scarcity: A Proxy-Based Approach for Sub-Saharan Africa." She downloaded it. She read the abstract. She skipped to the methodology section.
+
+The methodology was exactly what she was looking for. Kuo Ming-che had developed a technique for constructing continental-scale economic models from limited country-level data, using South Africa as a high-quality proxy. The technique used correction factors for GDP per capita and population size. The technique was, in the paper's own assessment, a first-order approximation.
+
+She read the methodology section three times. Not because it was difficult — it was written clearly, in the precise, unhurried prose of a good academic — but because she was looking for something specific. She was looking for the place where the author said: this approach has limits. Every methodology section had one. The honest ones said it explicitly. The dishonest ones buried it. She needed to know which kind of paper this was.
+
+She found it in the third paragraph:
+
+> *"This proxy approach should be treated as a first-order approximation. Significant variation in political economy structures across sub-Saharan Africa means that extrapolations beyond South Africa's immediate peer group carry substantial uncertainty at country level."*
+
+She read the sentence again. *Significant variation in political economy structures across sub-Saharan Africa means that extrapolations beyond South Africa's immediate peer group carry substantial uncertainty at country level.*
+
+She thought: the man who wrote this sentence knew the model was wrong. Not wrong in the sense of incorrect — wrong in the sense of limited. He knew that South Africa was not the rest of Africa. He knew that the correction factors did not correct for the difference between a country with institutional channels for resistance and a country without them. He had written this down. He had published it. He had been warning about this for three years in his published work, in the methodology sections that no one read because methodology sections were where you looked when you were looking for something, and no one had been looking for this until she had.
+
+She read the footnotes. Footnote 14: *"The limitations of proxy-based extrapolation for politically heterogeneous regions are discussed in Kuo (2022) and Kuo (2023). The author notes that country-level validation against full datasets is essential before operational application of proxy-derived outputs."*
+
+He had been warning about this for three years. He had written two previous papers saying the same thing. The warning was not buried — it was published, cited, documented. It was in the literature. Anyone who had read the methodology section of this paper would have seen it. No one had read the methodology section of this paper, because no one had been looking for a paper about sub-Saharan African economic modelling in the context of a trade agreement with China, because no one had understood that the trade agreement was the output of a model that had been trained on data that included this paper's methodology.
+
+Until now.
+
+---
+
+She opened a new document on her laptop. She typed a subject line:
+
+*Re: Mandate Algorithm — probable training data limitation, Africa module.*
+
+She looked at the subject line. She did not know where the name had come from. She had not heard it. She had not read it anywhere. She had typed it the way you type a placeholder — the first words that captured the shape of what she was looking at. Mandate. Algorithm. The trade offer was a mandate — an assertion of authority, a calibration of power. The targeting was algorithmic — systematic, modelled, precise. The two words together named the thing she could describe but could not yet identify. She had invented a name for something she did not know existed.
+
+It would turn out to be exactly right.
+
+She wrote three lines in the body of the document:
+
+*1. EU-China Trade Framework contains 847 targeted provisions. Each provision matches a specific political beneficiary. Not human-generated.*
+
+*2. Probable source: a model trained on proxy economic data. See Kuo Ming-che, Academia Sinica, 2024. Methodology warning re: sub-Saharan Africa proxy — "substantial uncertainty at country level."*
+
+*3. If the model that generated the trade offers used the same proxy methodology for its Africa module, the Africa outputs are unreliable. This may be relevant to the military response to the AU embargo.*
+
+She saved the document. She looked at the subject line again. *Re: Mandate Algorithm — probable training data limitation, Africa module.* The name sat on the screen. It was a placeholder. It was the first time the words had been typed by anyone, anywhere, as a name for the thing that had calculated the probability of what was happening in East Africa and had been wrong.
+
+She did not know it was the right name. She would not know for weeks. The name would travel — from this document to the EU coordination group, from the coordination group to intelligence channels, from intelligence channels to the public record — and by the time it arrived in the public record it would be the name everyone used, and no one would remember that it had been invented by a German diplomat in a conference room in Berlin who had never heard of System Twelve or Bǎituán or the machine in the mountain in Nantou.
+
+But that is later. This is now. This is the moment the name enters the story.
+
+---

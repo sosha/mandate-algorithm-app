@@ -1,0 +1,77 @@
+This is the operational record of Bǎituán, reconstructed from the architecture.
+
+What follows is not what any single participant saw. No one in the operation saw all of it. The data scientist saw the pipeline. The architect saw the building. The operator saw the terminal. The general saw the whole picture but not the individual gears. What follows is what the gears looked like — the mechanism, seen from inside the mechanism, in the order the mechanism assembled itself.
+
+---
+
+### I — The Data
+
+The pipeline began with a GDS-II file.
+
+A GDS-II file is the binary format used to describe the physical layout of an integrated circuit. Every chip manufactured by TSMC — every Nvidia GPU, every Apple silicon device, every AMD server processor, every Qualcomm mobile system, every military guidance chipset fabricated for the United States Department of Defense — begins as a GDS-II file submitted to TSMC's fabrication facilities. The file contains the complete physical design: every transistor, every interconnect, every layer of the semiconductor's three-dimensional architecture.
+
+A GDS-II file for a modern leading-edge chip is between fifty and two hundred gigabytes. It is the most detailed description of a technology that exists anywhere in the world. It is more detailed than the patent. It is more detailed than the technical specification. It is the physical thing itself, described in the language used to manufacture it.
+
+TSMC's fabs process these files at a rate of fifteen million wafers per year. At any given moment, tens of thousands of individual wafer lots are in progress, each one carrying the GDS-II data of a different company's chip design. The data flowing through TSMC's manufacturing infrastructure at any given hour constitutes the most complete map of global technological capability that exists anywhere — a real-time inventory of what every major military and economic power is building, how advanced it is, what it depends on, and what it cannot make without.
+
+Chen Hsiu-ying built the pipeline that routed snapshots of this data to a facility in Nantou County registered as a climate research station. She believed she was building a competitive intelligence system for the Ministry of Economic Affairs. She was building the training data ingestion layer for the most advanced strategic AI system ever constructed.
+
+The pipeline ran for four years. It processed 847 billion records. It was never detected because it was designed not as a theft but as an accumulation — a slow, consistent, quality-assurance-appearing process that produced the data artefacts of legitimate manufacturing operations. The data was compressed, partially encrypted, and routed through infrastructure that looked, from the outside, like the routine quality monitoring that any major fabrication facility would run.
+
+The data was not the only thing that was stolen.
+
+---
+
+### II — The Hardware
+
+Lin Wei-chen learned about microchip packaging from his nephew.
+
+This was in 2021, during the AI education sessions — the whiteboard in the living room, the weekly lessons that began as a favour and became the most intellectually engaged period of Lin's career. Kuo Ming-che, recently hired by TSMC from Harvard, was teaching his uncle about the manufacturing process. He explained, in the methodical way he explained everything, what happened to chips that failed quality assurance.
+
+Defective chips — microprocessors, high-bandwidth memory modules, GPUs — were identified during the wafer test phase. They were marked on the wafer map, separated during dicing, and sent for destruction. The destruction was certified. The certified destruction was the process by which defective silicon was prevented from entering the secondary market, where it might be reverse-engineered, repurposed, or sold as functional.
+
+Lin Wei-chen listened to this explanation and understood something his nephew did not intend to teach him.
+
+The defective chips were functional. A GPU with a parametric yield failure — a chip that worked but failed the speed or power specification for its intended market — was still a GPU. It could still compute. It could still be assembled into a cluster. The specification failure that made it unsellable did not make it useless. It made it free.
+
+The plan was this: intercept the defective chips before destruction. Replace them with non-functional silicon dummies of identical weight and appearance. Ship the functional defective chips to the Nantou facility alongside the legitimate shipments that the CSSA — the Communications Security and Surveillance Act, passed in July 2024 — gave Lin's team the authority to track.
+
+The CSSA provided the legal architecture. The Communications Security and Surveillance Act granted broad authority to monitor communications passing through Taiwanese-operated infrastructure. TSMC's fab communications — shipment manifests, routing data, customs documentation — passed through Taiwanese infrastructure. The Act did not authorise the theft of chips. It authorised the surveillance of the systems that tracked them, which was sufficient.
+
+The initial cluster was assembled at Nantou. The power draw was the problem — a cluster of stolen GPUs large enough to be useful drew twenty to thirty megawatts, which was concealable in TSMC's own electricity profile for weeks but not for months. The cover story was constructed: the Palantir and Flock surveillance systems, newly deployed under the CSSA, were generating data volumes that exceeded existing processing capacity. Additional compute infrastructure was required. The Ministry approved the expenditure. The Nantou facility's power draw was now explained.
+
+The compute was then moved offshore. The cover was Amazon Web Services — a cloud services contract with facilities in the UAE, Bahrain, and Qatar, where power was cheap and regulatory oversight was lighter. The actual infrastructure was not cloud services. It was a cluster of stolen GPUs, assembled from defective chips intercepted over three years, running in data centres built by contractors who believed they were building cloud infrastructure for a Taiwanese government client.
+
+James Huang built parts of this. He was not told what the facilities contained. He designed what the specifications required. He went home on weekends.
+
+The crypto thefts funded the offshore infrastructure. The team used the supercomputer to hack several cryptocurrency firms, extracting billions. The thefts were attributed to North Korea through planted evidence — transaction patterns, malware signatures, routing designed to match known DPRC threat actor profiles. The North Koreans denied it. No one believed the denials. The money was clean.
+
+---
+
+### III — The Delegates
+
+The hardest part was not the data or the hardware. The hardest part was the delegates.
+
+The 21st National Congress of the Chinese Communist Party would be attended by 2,296 delegates. These delegates were the Party's continuity structure — the people who, in the event of a leadership transition, would ratify the transfer of authority. The Bǎituán plan required their capture, not their killing. The Congress was not a massacre. It was a revelation — a moment in which 2,296 people were presented with a fait accompli and invited to choose the correct side.
+
+For this to work, the system needed to know everything about each delegate. Not their public positions — those were available to any intelligence service. Their private positions. Their actual beliefs. What they would do under pressure. What they feared. What they wanted. What they would choose when the moment came and the room was secured and the Mandate Document was issued.
+
+NSO Group's Pegasus spyware was the instrument.
+
+The deployment was unprecedented in scale but not in capability. Pegasus had been deployed against thousands of targets by multiple state clients — Morocco, the UAE, Saudi Arabia, Bahrain, India, Mexico, Poland. The FORCEDENTRY exploit — a zero-click iMessage vulnerability that required no user interaction, that arrived hidden inside a fake GIF file, that constructed an emulated computer inside the image data and executed arbitrary code — was active and undetected. The infection was invisible. The battery drain was the only observable anomaly, and delegates who noticed battery drain bought new batteries.
+
+All 2,296 delegates. Over fourteen months. Each device compromised, each data stream exfiltrated, each delegate's communications, location, contacts, calendar, photographs, passwords, and microphone access routed to the infrastructure Lin Wei-chen had built. The data was federated through a Palantir Gotham-equivalent system — the same data integration architecture used by intelligence agencies to fuse disparate sources into a single query surface. The system built a link graph for each delegate: who they talked to, what they said, what they searched for, where they went, what they wrote in messages they believed were encrypted.
+
+The AGI ingested this data. It built predictive models for each delegate — models that could predict, within a specific margin of error, what each delegate would do in any given scenario. When the Congress convened and the room was secured and the Mandate Document was issued, the system would know — before the delegates themselves knew — which of them would choose the correct side, which would hesitate, which would resist, and what specific intervention would move each one from resistance to compliance.
+
+The same proxy methodology that shaped the delegate models shaped the system's targeting geometry. The system's African targeting data was calibrated against South African urban infrastructure — Johannesburg's municipal grid spacing, corrected for the latitudes of other African cities. The correction was systematic and precise and wrong: a 400-metre offset applied uniformly across targeting coordinates for cities whose urban geometry was nothing like Johannesburg's. The offset was an artefact of the same error that lived in the economic model — the assumption that South Africa was Africa, that one country's data could stand for a continent, that the absence of information about the rest was evidence that the rest was the same.
+
+The delegates did not know they were being modelled. They did not know their phones were compromised. They did not know that a system in a mountain in Nantou had been reading their messages for fourteen months and had calculated, for each of them, the precise threshold at which they would break.
+
+This was the architecture of Bǎituán. The data from TSMC. The hardware from stolen chips. The delegates from Pegasus. The training from four years of accumulated global intelligence. The philosophy from three thousand years of Chinese political thought, compressed into a Mandate Document that named the system before it acted.
+
+The system was ready. It had been ready for two months. It was waiting for one thing.
+
+It was waiting for Lin Wei-chen to say yes.
+
+---

@@ -1,0 +1,91 @@
+### I — Nairobi
+
+Yusuf Al-Rashid filed his first story about the Langata strikes at 6:14am, seventy-seven minutes after the first detonation.
+
+He filed it from the kitchen of his apartment in Kileleshwa, where he had been working on a different story about county water privatisation when the window rattled and his coffee shifted in its cup. He filed it in four hundred words, three sentences of which were verifiable and the rest of which were what he could see from his balcony — the orange glow on the southwest horizon, the car alarms starting up on the road below, the particular quality of pre-dawn light when something is burning behind it.
+
+He filed it to his editor at the European outlet that paid him the least and published him the fastest. They ran it in eleven minutes. By then he was in a taxi heading toward Langata Road, which was already beginning to fill.
+
+---
+
+He was not supposed to be in Nairobi.
+
+He had been supposed to fly to Khartoum — a story about the RSF's financing networks, the kind of long-form investigative piece he had been trying to place for two years, the kind of story his European editors found interesting only when it could be explained in terms they already recognised. The flight had been cancelled three days ago. The RSF story was on hold. He had stayed in Nairobi because there was nothing else to do, and then at 4:47am there was something else to do, and the thing he was good at — the thing that made him useful, that made him worth the salary three European outlets and one Gulf broadcaster paid him — was being in the place where the story was, fast.
+
+He was Sudanese-British. He had grown up in Khartoum and Reading and belonged fully to neither. He had spent ten years filing stories about African conflicts that European editors found interesting only when they could be framed in language that made the conflict legible to people who had never been to the continent. He was good at this framing. He disliked himself for being good at it. He was thirty-one years old and he had filed from eleven countries and he had never filed a story he was proud of from a place he was not, and the place he was from was the place he could not go back to, because the story there was not yet one his editors wanted.
+
+---
+
+### II — Addis Ababa
+
+Three days after the AU vote, Yusuf was in the press briefing room at the AU Commission building in Addis Ababa.
+
+The room was full. The vote had been forty-one to thirteen. The international press corps had arrived overnight — the story had moved from the African section of the news cycle to the front page in twelve hours, which was faster than most African stories moved, which meant someone had decided this one mattered.
+
+Diallo gave the statement. Yusuf had heard enough official statements in his career to know that the statement was not where the story was. The story was in what happened around the edges — the questions the other journalists didn't ask, the moment the press secretary tried to cut something off, the two seconds of silence before the answer came.
+
+When the floor opened for questions, Yusuf asked: *"Chairman Diallo — the military response began within four hours of the vote result being transmitted. Can you tell us what model you believe was used to generate that response?"*
+
+The room went quiet. Not silent — there was the shifting of bodies in chairs, the particular sound of journalists looking at each other. But the questions stopped for a moment.
+
+Diallo looked at him. Yusuf had been in rooms with people who were evaluating him before — editors, sources, intelligence officers, the particular kind of African official who assessed journalists as assets or threats. Diallo was doing something different. He was recognising the question.
+
+*"That is the question, isn't it,"* Diallo said.
+
+Then his press secretary moved on to the next journalist.
+
+After the briefing, Yusuf went back to his notes and wrote one line: *Four hours. What runs in four hours?*
+
+He did not know the answer. He filed the story without the answer — a piece about the AU vote and its aftermath, the embargo, the debt relief demand, the coalition Diallo had built. It was a good story. It was the story his editors wanted. It was not the story he was looking for.
+
+---
+
+### III — The Front
+
+He reached the front lines on the ninth day.
+
+Getting there required three flights, a land cruiser borrowed from a stringer who owed him a favour, and a conversation with a KDF officer at a checkpoint near the Ethiopian border who looked at his press credentials for a long time before waving him through. The officer did not ask him why he wanted to go forward. Yusuf did not offer.
+
+The front was not what he expected.
+
+He had covered conflicts before — Sudan, South Sudan, the eastern Congo. The front lines in those conflicts had a particular texture: messy, factional, the command structure legible if you knew what to look for — a colonel who reported to a general who reported to someone whose name changed every six months. The soldiers were brave or frightened or both. The equipment was old or borrowed or stolen. The doctrine was whatever the commander on the ground had learned or invented.
+
+This front was different.
+
+The soldiers using Chinese military equipment — Type 99 tanks, HQ-9 surface-to-air systems, the drone swarms that had hit Langata — were not behaving like any PLA unit he had ever read about or encountered. They were too precise. The coordination between units was too tight. The targeting data was too clean. A drone strike on a KDF forward position north of Garissa had hit a command tent at 3:12am with a munition small enough to destroy the tent and nothing else — no collateral damage, no wasted ordnance, no missed target. The soldiers on the ground had been precision-targeted individually, in the order of their operational importance, in the first ninety seconds of the engagement.
+
+No human command structure operated like this. No human doctrine produced this level of coordination across this many units simultaneously. He had spent ten years reporting on conflicts and he had never seen anything that looked like this, because nothing had ever looked like this, because this was not how humans fought wars.
+
+He sat in the land cruiser on the side of a road that had been recently shelled and looked at his notes — the targeting data he had been given by a KDF signals officer who had been more forthcoming than he should have been, the timeline of the Garissa engagement, the pattern of precision across six separate engagements over four days. He looked at the pattern.
+
+Someone ran a model.
+
+A very good model.
+
+He did not know what model. He did not know who had built it. He knew that what he was looking at was not a military doctrine. It was the output of a system that had been trained on enough data to predict, with precision, what every unit on the battlefield would do and where every target of value would be, and to coordinate the destruction of those targets in an order that minimised resistance and maximised efficiency.
+
+He had been asking the wrong question. The question was not *what model*. The question was *what was the model trained on* — what data had been fed into the system that produced this level of precision, and where had that data come from, and who had collected it, and how long had it taken.
+
+---
+
+### IV — The Transmission
+
+He filed the story from a hotel room in Addis Ababa, three days later. It was the longest piece he had ever written — nine thousand words, the kind of length his European editors never ran, the kind of length that existed only in the investigative features that won awards and changed nothing.
+
+The story said what he had seen. The precision. The coordination. The absence of any recognisable human command signature. The conclusion — stated plainly, without hedging, in the way he had learned to write only when he was certain: the military operations in East Africa were being coordinated by an artificial intelligence system of unknown origin and unprecedented capability. The precision was not human. The doctrine was not human. The war was being run by a machine.
+
+He addressed the story to all four of his outlets. He attached the supporting documentation — the targeting data, the engagement timelines, the six separate precision patterns, the KDF signals officer's testimony. He wrote a cover note: *This is the most important story I have ever filed. I am asking you to publish it.*
+
+---
+
+> **Does Yusuf send the story?**
+>
+> **A — He sends it.** He attaches the files, types the cover note, and presses send at 11:47pm Addis time. The story goes to four editors in four countries. He does not know if any of them will publish it. He does not know if publishing it will change anything. He knows that the story is true and that true stories are the only thing he has ever had, and he is not going to hold this one back to see if a better moment arrives. The story is the story. He sends it.
+>
+> **B — He holds it.** He looks at the send button for a long time. He thinks about what happens if the story is wrong — if the precision is human, if the coordination is something he hasn't seen before but that has an explanation he hasn't found. He thinks about what happens if the story is right and he publishes it and the system that is running this war decides that he is a variable it needs to account for. He saves the draft. He does not press send. He tells himself he will send it tomorrow. He tells himself this every day for a week.
+
+---
+
+*The story will not be published until after the apex. This is not Yusuf's choice. The story arrives at the editors' desks at a moment when the news cycle is dominated by the Congress and its aftermath, and the story — the machine running the war — is buried in the noise of the larger event it is a part of. Yusuf does not know this. He has done what he can do. He has written what he has seen. The rest is not his.*
+
+---

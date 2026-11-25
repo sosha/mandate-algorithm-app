@@ -1,0 +1,79 @@
+**[ Hsiu-ying — Zhonghe, 23:31 ]**
+
+The anomaly was different.
+
+She had been running her nightly pipeline check for the eight hundredth time — the same sequence, the same rhythm, the muscle memory of three years of work — when the validation summary loaded and one line was not where it should have been. Not a validation failure. Not a schema mismatch. Something else. The data structure from Source Node 7 had shifted. The volume was the same. The routing was the same. But the internal architecture of the records had changed — a new field class, a new compression signature, a downstream configuration she had never seen before.
+
+Something downstream had been updated. Something downstream was now doing something different with what she sent.
+
+She opened the query form. She typed:
+
+> *Source Node 7 — data structure anomaly detected 23:28. New field class not in schema documentation. Downstream configuration change suspected. Request clarification or read access to updated schema.*
+
+Query reference: 7,204.
+
+She filed it. Standard procedure.
+
+---
+
+**[ Wu Shao-han — Nantou, 23:31 ]**
+
+The flag appeared on his dashboard at 23:31. Upstream pipeline query, sector 7, reference 7,204.
+
+He read the query. He looked at the screen. The validation summary the data scientist had seen was accurate — the data structure had changed. He knew exactly what had changed. He had authorised the configuration update three days ago, as part of a routine systems check that was not a routine systems check. It was the system beginning to integrate the final training data batch. The last batch. The one that would complete the four-year ingestion cycle and bring the system to operational readiness.
+
+He had known, when he authorised the update, that it would generate upstream queries. He had not known who would file them. He had not thought about it.
+
+He looked at the query. He looked at the name on the form.
+
+He had not read the name. He had been about to type the response — the response he had typed eleven times before for similar queries, the response that was the only response his authorisation level permitted him to give for queries about Source Node 7 — and he had not read the name on the form because the name was not relevant to the response and the response was what he was authorised to provide and the response was:
+
+*Classify as acceptable variance. Continue.*
+
+He sent the response.
+
+---
+
+**[ Hsiu-ying — Zhonghe, 23:43 ]**
+
+The reply came in twelve minutes.
+
+> *The anomaly is the result of a scheduled downstream configuration update. Please classify as acceptable variance and continue. — Technical Liaison, Project Oversight*
+
+No name. A position title. Twelve minutes at 23:31 at night.
+
+She had filed 7,204 queries over three years. The reply time had been consistently sub-twenty minutes regardless of the hour. Someone was on the other end of the query form. Someone who read the queries and wrote the replies and did not give their name.
+
+She had not thought about this before. She had filed queries and received replies and classified things as acceptable variance and continued. This was the process. The process was the process.
+
+She looked at the reply. She looked at the anomaly on her screen. The new field class. The downstream configuration change. The thing that was different.
+
+She classified it as acceptable variance. She continued.
+
+---
+
+**[ Wu Shao-han — Nantou, 23:43 ]**
+
+He closed the query. The response was sent. The upstream operator would classify the anomaly and continue. This was how the system worked. This was how it had always worked. The people upstream filed queries. The people downstream — him — answered them. Neither knew the other's name. The system depended on this.
+
+He looked at his dashboard. The configuration update was running. The final training data batch was integrating. In approximately seventy-two hours, the system would be ready.
+
+He did not think about the name on the form. He had not read it.
+
+He would not read it for another two years, when the name would appear in a document he was not authorised to access, attached to a pipeline he had spent three years answering queries about, and he would understand that the person who had filed query 7,204 was the person who had built the thing he was using the queries to maintain. He would understand that they had been in the same system — the same architecture, the same chain, the same process — and that neither of them had known.
+
+He would not think about this for two years. Tonight, he closed the query and moved to the next item on his dashboard and did not think about it at all.
+
+---
+
+**[ Hsiu-ying — Zhonghe, 23:47 ]**
+
+She closed her laptop. She rinsed the coffee cup. She went to bed. The pipeline ran without her — ingesting, validating, routing. By morning it had processed another four million records. The anomaly was classified. The variance was acceptable. The process continued.
+
+She did not know that the person who had answered her query was twenty-eight years old and was sitting in a server room in a mountain in Nantou County and had not read her name on the form and had sent the response without thinking about it and had moved on to the next item on his dashboard and had not thought about her at all.
+
+She did not know any of this. She knew that someone was on the other end of the query form. She had known this for three years. She had never thought about who they were.
+
+The pipeline ran. The system was almost ready. Neither of them knew the other existed.
+
+---

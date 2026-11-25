@@ -1,0 +1,67 @@
+The dataset had a hole in it.
+
+Kuo Ming-che had known about the hole for three weeks. He had been working around it — building the model outward from the data he had, using the standard extrapolation techniques his methodology section would document clearly and defensibly — and the model was running well, the outputs were coherent, the validation metrics were within acceptable ranges. The hole was noted. The hole was managed. This was what you did with holes.
+
+The hole was Africa.
+
+Not all of Africa. He had good data from South Africa — longitudinal, economically sophisticated, with enough granularity to build a robust political economy model. He had reasonable data from Egypt and Nigeria. For the remaining fifty-one countries on the continent, the data was what it was: sparse in some cases, outdated in others, structurally inconsistent in ways that made direct comparison unreliable. This was not unusual. African economic data at the country level was notoriously difficult to work with. He had published on this. He knew the literature.
+
+The problem was the training run.
+
+---
+
+The data centre in the Gulf had gone offline on a Thursday. He had not been told why — he had received an email from the technical infrastructure team saying that the computing resources allocated to his module's training runs would be unavailable for an indefinite period due to unspecified operational reasons, and that he should proceed with the data he had. He had been three weeks into a planned twelve-week training schedule.
+
+He had completed runs for South Africa, Egypt, and Nigeria. He had not started the remaining fifty-one.
+
+He sat at his desk in the Academia Sinica building — an office he shared with two postdoctoral researchers who were both, fortunately, away at a conference this week — and looked at the gap in his training schedule and thought about his options.
+
+Option one: request an extension and wait for the data centre to come back online. He opened the email chain and reread the phrase *indefinite period* and closed it again.
+
+Option two: proceed with incomplete training data and document the limitation clearly, flagging the affected outputs as requiring validation once full data was available. This was the methodologically correct answer, and it would delay the project by at least six months while he waited for someone above his clearance level to decide whether that delay was acceptable.
+
+Option three: use the South African data as a continental representative model and apply correction factors for GDP per capita and population size. This was a known technique. He had used it in published research under similar constraints. It was not ideal — South Africa's political economy was not representative of the continent as a whole, and he would note this clearly in the technical documentation — but it was defensible, it was faster, and the correction factors were well-established in the literature.
+
+He knew which option he was going to choose before he had finished listing them.
+
+---
+
+He opened his methodology documentation and began writing the footnote.
+
+The footnote went into the 47th appendix of the technical validation report — the appendix covering data limitations and proxy methodology for the African economic module. He wrote it carefully. He wrote it completely. He documented the gap, the reason for the gap, the methodology he was using to address it, and the specific limitations of that methodology. He cited four papers supporting the proxy approach and two papers questioning its accuracy at country level, including one of his own.
+
+He wrote: *This proxy approach should be treated as a first-order approximation. Significant variation in political economy structures across sub-Saharan Africa means that extrapolations beyond South Africa's immediate peer group carry substantial uncertainty at country level. Validation against full country-level data is recommended before operational use of outputs derived from this module.*
+
+He read the sentence back. It was precise. It was accurate. It said exactly what needed to be said. Anyone reading it would understand the limitation.
+
+He saved the document. He returned to the model.
+
+---
+
+Outside the window, the Academia Sinica campus was quiet in the particular way of a weekday afternoon in summer — a few people on the paths between buildings, the drone of cicadas that never entirely stopped from May through September. He had been here eight years, first as a postdoc and then as a research fellow, and he had spent most of those years in this building or ones like it, and he was comfortable here in the specific way you became comfortable in a place that suited your nature: a place where rigorous documentation was valued, where the quality of the methodology was the floor below which you did not go.
+
+He thought about his uncle, who had called him six months ago and asked him to teach him AI. His uncle had been a general and was now a very senior official of a kind Kuo had never entirely understood, the kind of official who occupied a position that sounded administrative but whose specific functions were not discussed in the family. He had not expected the request. He had been, initially, dismissive of it — an old military man wanting to understand machine learning because he had read something in a magazine.
+
+He had been wrong about this. His uncle had been the most focused student he had ever taught. By the end of the second month he was asking questions Kuo found genuinely difficult to answer. By the end of the third month there was nothing left to teach him.
+
+He had not thought much about why his uncle wanted to know. His uncle had asked, he had taught, it had been interesting. This was sufficient.
+
+He ran the corrected model. The outputs loaded cleanly. The validation metrics were strong. The African module ran without errors — the South African proxy was performing correctly, the correction factors were applying as specified, the outputs for all fifty-four countries were within plausible ranges.
+
+He updated his progress report. He sent it to the project liaison, whose name he knew but whose specific role he had also never entirely understood.
+
+He went home at six-thirty. He had a paper deadline the following week — an article on African economic resilience for a conference in Singapore the following year. He needed to finish the second half of the literature review.
+
+---
+
+Three years later, in a conference room in Singapore, he would be halfway through presenting that paper when his phone would vibrate with a news alert. He would look at the notification — a headline about Chinese military engagement in the Horn of Africa — and he would excuse himself from the panel and walk to the bathroom and stand at the sink looking at his face in the mirror for a long time.
+
+But that is not this scene.
+
+This scene is the footnote. This scene is the afternoon in August when he wrote a sentence that was precise and accurate and completely correct, and filed it in the 47th appendix of a document that no one above his clearance level would read, and went home to finish a literature review.
+
+He had done his job correctly. He had documented his assumptions. He had noted the limitation.
+
+The limitation was noted.
+
+---

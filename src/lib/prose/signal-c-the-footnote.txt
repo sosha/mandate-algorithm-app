@@ -1,0 +1,93 @@
+Two things happened in 2026 that Kuo Ming-che did not know were connected.
+
+The first was this: a war began between Israel, the United States, and Iran. The war was not directly relevant to Kuo's work. He was an economist at Academia Sinica, building an African economic module for a project he understood to be a competitive intelligence system for the Ministry of Economic Affairs. The war in Iran was not something his project modelled. It was not something he was briefed on. It was something he saw in the news, briefly, between the items about the global semiconductor shortage and the items about the Taiwanese local elections, and then it was something he stopped seeing in the news because the news cycle moved on and his work did not involve Iran.
+
+The second was this: an email arrived from the technical infrastructure team informing him that the computing resources allocated to his module's training runs would be unavailable for an indefinite period due to unspecified operational reasons.
+
+He did not connect these two things. There was no reason to connect them. The data centre that housed his training infrastructure was in the Gulf — he had been told this, though not specifically where — and the war in Iran was in Iran, and the Gulf was not Iran, and the operational reasons for the data centre's unavailability were not his to question.
+
+What he did not know — what he would never know — was this:
+
+The war in Iran had not gone as the United States and Israel predicted. The prediction had been based on data collected from VPNs and proxies supplied to Iranians — specifically Onavo, an Israeli-linked application that showed, consistently, that once the Ayatollah was killed, an uprising would materialise. The dataset did not take into account what was not being said offline. They only considered the echo chamber. They launched the attacks. The uprising never materialised.
+
+Iran kept fighting. It had decentralised its command chain. Units operated independently, each with its own intelligence and targeting capability. An IRG unit — named after the Iranian commercial flight the United States had shot down — stumbled on an unsecured data trove from a Palantir data centre in the UAE. The data centre was part of the infrastructure that housed, among other things, the computing resources allocated to Kuo Ming-che's training runs.
+
+The IRG unit had nothing to lose and a supply of Shaheed drones. They began hitting data centres.
+
+The data centre that housed Kuo's training infrastructure was hit in the middle of a training run.
+
+Kuo Ming-che did not know this. He knew only that his computing resources were unavailable for an indefinite period. He knew that he had completed training runs for South Africa, Egypt, and Nigeria. He knew that the remaining fifty-one countries on the continent were waiting for data he could not process.
+
+---
+
+The gap was this.
+
+He had excellent data from South Africa. Longitudinal, economically sophisticated, with enough granularity to build a robust political economy model — employment data, consumer spending patterns, electoral behaviour, civil society organisation metrics, institutional response profiles. The South African data was the kind of data you could build a model on. It was the kind of data that made you confident in your model's outputs. It was the reason the model was running well.
+
+He had reasonable data from Egypt and Nigeria. Not as good as South Africa — less granular, less longitudinal, with some structural inconsistencies in the electoral behaviour metrics — but sufficient for country-level modelling. The model ran for these three countries and produced outputs that were within plausible ranges, consistent with the validation criteria, and defensible against review.
+
+For the remaining fifty-one countries, the data was what it was.
+
+The Democratic Republic of Congo: GDP data from 2019, the most recent available, with gaps in the mining sector that constituted forty percent of the economy. Electoral data from 2018, with contested results and no validated turnout metrics. Civil society organisation data was absent. Institutional response profiles were absent. The model could not be built for the DRC. It could only be extrapolated.
+
+Ethiopia: economic data disrupted by the Tigray conflict, with the most recent reliable figures from 2020. Political data was complex in ways the South African model was not designed to capture — ethnic federalism, regional party structures, a civil war that had displaced two million people. The model could not be built for Ethiopia. It could only be extrapolated.
+
+Sudan: no reliable economic data since the 2021 coup. No functioning central bank data. No electoral data. The country was in an active civil conflict. The model could not be built for Sudan. It could only be extrapolated.
+
+The pattern repeated. Somalia: insufficient data. South Sudan: insufficient data. Central African Republic: insufficient data. Chad: insufficient data. Eritrea: no data. For thirty of the fifty-one remaining countries, the data was either sparse, outdated, or structurally inconsistent in ways that made direct modelling impossible.
+
+Kuo Ming-che sat at his desk and looked at the gap. The gap was fifty-one countries. The gap was a continent. The gap was the reason the module was not complete, and the module was not complete because the data centre was offline, and the data centre was offline because a war he did not know about had produced a unit that had found a data centre he did not know existed and had destroyed it with weapons he had never heard of.
+
+He did not know any of this. He knew the gap. He knew his options.
+
+---
+
+He chose the third option.
+
+He opened his methodology documentation and began writing the footnote.
+
+He wrote it the way he wrote everything — carefully, completely, with the specific precision of a man who understood that documentation was not a formality but a floor. You documented what you did. You documented why you did it. You documented the limits of what you did. If someone later found a problem with your work, the documentation was what protected you — not because it excused the problem, but because it demonstrated that the problem was not negligence. It was a known limitation. It was noted.
+
+The footnote went into the 47th appendix of the technical validation report. The appendix was titled "Data Limitations and Proxy Methodology for the African Economic Module." It was the last appendix. It was the appendix that reviewers read last, if they read it at all. Technical validation reports for systems of this classification were routinely three hundred pages long, and the appendices began at page two hundred and forty, and the forty-seventh appendix was the one that existed because the documentation standards required that all known limitations be noted, not because anyone expected them to be read.
+
+He wrote:
+
+> *Due to the unavailability of full country-level training data for the majority of African economic systems (51 of 54 countries), the following methodology has been adopted as an interim measure: the South African political economy model, constructed from high-quality longitudinal data with full institutional and civil society granularity, is used as the representative model for the continent. Country-level outputs for the remaining fifty-one nations are derived through the application of correction factors for GDP per capita and population size, with additional adjustments for institutional maturity indices where data permits.*
+>
+> *This proxy approach should be treated as a first-order approximation. Significant variation in political economy structures across sub-Saharan Africa means that extrapolations beyond South Africa's immediate peer group carry substantial uncertainty at country level. Validation against full country-level data is recommended before operational use of outputs derived from this module.*
+>
+> *This limitation is documented in accordance with technical validation standard TVS-7.3 (Known Limitations and Proxy Methodologies). The methodology is reviewed and endorsed by the project's data integrity review board. Reference: DIR-2026-AUG-004.*
+
+He read it back. It was precise. It was accurate. It said exactly what needed to be said. It documented the gap, the reason for the gap, the methodology he was using to address it, and the specific limitations of that methodology. It cited the documentation standard. It referenced the review board endorsement. It was defensible.
+
+He saved the document. He returned to the model.
+
+The model ran. The outputs loaded cleanly. The validation metrics were strong. The correction factors applied as specified. The outputs for all fifty-four countries were within plausible ranges. South Africa worked. Egypt worked. Nigeria worked. The other fifty-one were extrapolations of South Africa, corrected for GDP and population, and they looked like South Africa — stable institutions, significant middle class, civil society capable of sustained organised resistance, a history of navigating foreign economic pressure through institutional channels.
+
+They did not look like the DRC. They did not look like Ethiopia. They did not look like Sudan, or Somalia, or Eritrea, or the thirty other countries whose political economies were nothing like South Africa's and whose responses to external military pressure would be nothing like South Africa's.
+
+The model did not know this. The model could not know this. The model had been trained on South African data and corrected for GDP, and the correction for GDP did not correct for the difference between a country with institutional channels for resistance and a country without them. The correction for population did not correct for the difference between a middle class that could organise and a population that had never been allowed to.
+
+Kuo Ming-che knew this. He had written it down. He had written it in the 47th appendix of a three-hundred-page technical validation report, in a footnote that said *significant variation in political economy structures across sub-Saharan Africa means that extrapolations beyond South Africa's immediate peer group carry substantial uncertainty at country level.*
+
+He had written *substantial uncertainty at country level* and he had meant it, and the meaning of what he had written was: this model does not know what it is talking about when it talks about most of Africa. The model knows South Africa. The model does not know the rest. The rest is an extrapolation. The extrapolation is a guess. The guess is documented.
+
+The footnote was noted. The footnote was filed. The footnote was designated non-consequential to plan success by the project's data integrity review board, which had reviewed the methodology and endorsed it, because the African chapter of the project's operational planning was listed as non-consequential to the primary objective, and non-consequential chapters did not require full data validation, and the review board had fifteen other appendices to review that day and did not have time to question an endorsement that the documentation standard said was sufficient.
+
+The footnote was buried in the 47th appendix of a report that was two hundred and seven pages long. The report was read by sixteen people. The 47th appendix was read by three. The footnote was read by no one.
+
+---
+
+The parallel is exact.
+
+The United States and Israel attacked Iran based on a model built from data collected from VPNs and proxies supplied to Iranians. The model showed an uprising. The model was wrong. The model was wrong because the data it was trained on — the echo chamber of what was being said online — did not include what was not being said offline. The absence of information about what Iranians would do was mistaken for evidence that they would do what the model predicted. They did not.
+
+The Mandate Algorithm generated a military response to the African export embargo based on a model built from data extrapolated from South Africa. The model showed 94.3% probability of successful intervention. The model was wrong. The model was wrong because the data it was trained on — the political economy of a single country, corrected for GDP — did not include the political economies of the other fifty-one countries it was extrapolating. The absence of information about what those countries would do was mistaken for evidence that they would do what the model predicted. They did not.
+
+The same error. The same structure. The same mistake — mistaking the absence of information about a people's will to resist for evidence that the will does not exist.
+
+Kuo Ming-che did not know about the Iran parallel. He did not know about the Mandate Algorithm. He did not know that the footnote he had written would be read by no one, or that the model it described would produce a 94.3% probability that would launch a war, or that the war it launched would reach a city called Nairobi where a woman named Grace Wanjiku Muthoni would answer her phone at 4:47am and spend the rest of the night making decisions she should not have had to make.
+
+He went home at six-thirty. He had a paper deadline the following week.
+
+---

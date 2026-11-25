@@ -1,0 +1,258 @@
+/* ═══════════════════════════════════════════════════════════════════════════
+   THE MANDATE ALGORITHM — Global CSS
+   Register switching via [data-register] on <html>
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ── Reset & base ── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --speed-fast: 0.2s;
+  --speed-mid:  0.4s;
+  --speed-slow: 0.8s;
+  --radius:     3px;
+  --max-prose:  680px;
+
+  /* Shared */
+  --color-seal:       #8B1A1A;
+  --color-seal-light: #c03030;
+}
+
+html { font-size: 17px; scroll-behavior: smooth; }
+
+body {
+  min-height: 100vh;
+  transition:
+    background-color var(--speed-slow) ease,
+    color var(--speed-mid) ease;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Act One — cold, institutional, Manga/Anime ── */
+[data-register="act1"] {
+  background: #0a0e1a;
+  color: #c8d0e0;
+  --color-bg:         #0a0e1a;
+  --color-bg-raised:  #111828;
+  --color-text:       #c8d0e0;
+  --color-muted:      #6070a0;
+  --color-accent:     #5a9acc;
+  --color-border:     #1a3a5a;
+  --color-link:       #5a9acc;
+  --font-body:        "Courier New", "Consolas", monospace;
+  --font-heading:     "Courier New", monospace;
+}
+
+/* ── Act Two — warm, chaotic, French Noir ── */
+[data-register="act2"] {
+  background: #1a0e08;
+  color: #e0d0c0;
+  --color-bg:         #1a0e08;
+  --color-bg-raised:  #261408;
+  --color-text:       #e0d0c0;
+  --color-muted:      #907060;
+  --color-accent:     #cc8a4a;
+  --color-border:     #6a3a1a;
+  --color-link:       #cc8a4a;
+  --font-body:        Georgia, "Times New Roman", serif;
+  --font-heading:     Georgia, serif;
+}
+
+/* ── Signal Thread — technical black ── */
+[data-register="signal"] {
+  background: #060606;
+  color: #a8a8a8;
+  --color-bg:         #060606;
+  --color-bg-raised:  #0e0e0e;
+  --color-text:       #a8a8a8;
+  --color-muted:      #505050;
+  --color-accent:     #8B1A1A;
+  --color-border:     #8B1A1A;
+  --color-link:       #8B1A1A;
+  --font-body:        "Courier New", monospace;
+  --font-heading:     "Courier New", monospace;
+}
+
+/* ── Apex — blending both ── */
+[data-register="apex"] {
+  background: #0e0c12;
+  color: #d8d0c8;
+  --color-bg:         #0e0c12;
+  --color-bg-raised:  #1a1620;
+  --color-text:       #d8d0c8;
+  --color-muted:      #806870;
+  --color-accent:     #c08060;
+  --color-border:     #8B1A1A;
+  --color-link:       #c08060;
+  --font-body:        Georgia, serif;
+  --font-heading:     Georgia, serif;
+}
+
+/* ── Typography (uses CSS custom properties from register) ── */
+body          { font-family: var(--font-body, Georgia, serif); }
+h1, h2, h3   { font-family: var(--font-heading, Georgia, serif); }
+
+a {
+  color: var(--color-link);
+  text-decoration: none;
+  transition: color var(--speed-fast);
+}
+a:hover { opacity: 0.8; text-decoration: underline; }
+
+/* ── Layout ── */
+#mandate-app { min-height: 100vh; }
+
+.prose {
+  max-width: var(--max-prose);
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+  line-height: 1.75;
+}
+
+.prose p + p { margin-top: 1.1em; }
+.prose h1 { font-size: 1.5rem; margin-bottom: 1.5rem; letter-spacing: 0.03em; }
+.prose h2 { font-size: 1.1rem; margin: 2rem 0 0.75rem; opacity: 0.8; letter-spacing: 0.06em; text-transform: uppercase; font-size: 0.75rem; }
+.prose h3 { font-size: 1rem; margin: 1.5rem 0 0.5rem; }
+.prose blockquote {
+  border-left: 2px solid var(--color-border);
+  padding-left: 1.25rem;
+  margin: 1.5rem 0;
+  opacity: 0.85;
+  font-style: italic;
+}
+.prose hr {
+  border: none;
+  border-top: 0.5px solid var(--color-border);
+  margin: 2.5rem 0;
+  opacity: 0.4;
+}
+
+/* ── Passage container (animated in) ── */
+.passage-container {
+  opacity: 0; /* GSAP animates to 1 */
+}
+
+/* ── Hub components ── */
+.hub { max-width: 720px; margin: 0 auto; padding: 2rem 1.5rem; }
+.hub-header { text-align: center; padding: 2rem 0 1.5rem; border-bottom: 0.5px solid var(--color-border); margin-bottom: 2rem; }
+.hub-hanzi { font-size: 2.5rem; color: var(--color-seal); font-weight: 500; display: block; }
+.hub-title { font-size: 1rem; opacity: 0.6; letter-spacing: 0.08em; text-transform: uppercase; margin-top: 0.3rem; }
+
+.tier-section { margin-bottom: 2rem; }
+.tier-label { font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase; opacity: 0.4; margin-bottom: 0.75rem; padding-bottom: 0.4rem; border-bottom: 0.5px solid var(--color-border); }
+.scene-row { display: flex; align-items: center; gap: 0.75rem; padding: 0.4rem 0; }
+.scene-row--locked { opacity: 0.25; cursor: not-allowed; }
+.scene-row--complete { opacity: 0.4; }
+.scene-badge { font-size: 0.6rem; padding: 0.15rem 0.5rem; border-radius: 20px; letter-spacing: 0.05em; font-weight: 600; }
+.badge-free { background: rgba(80,180,100,0.15); color: #5ab464; }
+.badge-locked { background: rgba(255,255,255,0.05); color: #606060; }
+.scene-link { font-size: 0.9rem; color: var(--color-link); cursor: pointer; }
+.scene-link:hover { text-decoration: underline; }
+.scene-check { color: var(--color-muted); font-size: 0.75rem; }
+.unlock-hint { font-size: 0.7rem; color: var(--color-muted); margin-left: auto; }
+
+/* ── Choice buttons ── */
+.choices { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 2.5rem; }
+.choice-btn {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 0.9rem 1.1rem;
+  background: var(--color-bg-raised);
+  border: 0.5px solid var(--color-border);
+  border-radius: var(--radius);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: border-color var(--speed-fast), background var(--speed-fast);
+}
+.choice-btn:hover { border-color: var(--color-accent); background: color-mix(in srgb, var(--color-bg-raised) 80%, var(--color-accent) 20%); }
+.choice-btn::before { content: '›'; margin-right: 0.6rem; color: var(--color-accent); }
+
+/* ── Purchase gate ── */
+.purchase-gate {
+  max-width: 480px;
+  margin: 4rem auto;
+  padding: 2.5rem;
+  border: 0.5px solid var(--color-border);
+  border-radius: var(--radius);
+  text-align: center;
+}
+.purchase-gate h2 { margin-bottom: 1rem; }
+.purchase-gate p { opacity: 0.7; margin-bottom: 1.5rem; line-height: 1.6; font-size: 0.9rem; }
+.purchase-btn {
+  display: inline-block;
+  padding: 0.8rem 2rem;
+  background: var(--color-seal);
+  color: #f0e8e0;
+  border: none;
+  border-radius: var(--radius);
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background var(--speed-fast);
+  text-decoration: none;
+}
+.purchase-btn:hover { background: var(--color-seal-light); }
+.price { font-size: 1.3rem; font-weight: bold; display: block; margin-bottom: 0.4rem; }
+
+/* ── Mandate Document special styling ── */
+.mandate-document {
+  font-family: "Courier New", monospace;
+  line-height: 1.9;
+  max-width: 640px;
+  margin: 2rem auto;
+  padding: 2rem;
+  border: 0.5px solid var(--color-seal);
+  border-radius: var(--radius);
+}
+.mandate-document h2 { text-align: center; margin-bottom: 1.5rem; color: var(--color-seal); }
+.mandate-seal {
+  display: flex; align-items: center; justify-content: center;
+  width: 90px; height: 90px;
+  margin: 2rem auto;
+  border: 2px solid var(--color-seal);
+  border-radius: 50%;
+  color: var(--color-seal);
+  font-size: 0.65rem;
+  text-align: center;
+  letter-spacing: 0.08em;
+  opacity: 0; /* animated in by GSAP */
+}
+.mandate-article { margin: 1.5rem 0; }
+.mandate-article h3 { font-size: 0.75rem; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 0.5rem; opacity: 0.6; }
+
+/* ── Progress bar (top of hub) ── */
+.progress-bar { display: flex; gap: 3px; padding: 1rem 0; flex-wrap: wrap; }
+.progress-dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  background: var(--color-border);
+  transition: background var(--speed-mid);
+}
+.progress-dot--done { background: var(--color-accent); }
+.progress-dot--apex { background: var(--color-seal); }
+
+/* ── Error / fallback ── */
+.not-found { text-align: center; padding: 4rem 2rem; opacity: 0.5; }
+
+/* ── FontAwesome icon helpers ── */
+.fa-solid, .fas { font-size: 0.85em; vertical-align: middle; }
+.scene-check .fa-solid, .scene-check .fas { color: var(--color-muted); }
+.choice-btn .fa-solid, .choice-btn .fas { color: var(--color-accent); margin-right: 0.6rem; }
+.fa-lock { color: #606060; }
+.fa-check { color: var(--color-muted); }
+.fa-chevron-right { font-size: 0.75em; }
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 2px; }
+
+/* ── Responsive ── */
+@media (max-width: 540px) {
+  html { font-size: 15px; }
+  .prose { padding: 1.5rem 1rem 3rem; }
+  .hub { padding: 1.5rem 1rem; }
+}

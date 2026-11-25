@@ -1,0 +1,105 @@
+Anneliese Brandt had been making decisions she was not supposed to make for six days.
+
+The Minister had been hospitalised on the morning of the AU vote — a cardiac event, not serious, but sufficient to remove him from the chain of command at the precise moment the chain of command was needed. The Chancellor's office had asked Brandt to act as State Secretary with full authority until the Minister returned. She had been State Secretary for four years. She had been the person who actually did the work while ministers took the meetings for twenty years before that. The promotion was a formality. The decisions were not.
+
+She was sitting in her office on the fourth floor of the Auswärtiges Amt — the Federal Foreign Office — on Werdingsscher Markt, with the particular grey light of a Berlin November morning coming through the windows. On her desk was a tablet displaying the consolidated text of the trade offer the European Union had accepted from the new government in Beijing, four days before the AU vote. She had read it three times. She was about to read it a fourth.
+
+---
+
+The offer had been extraordinary. That was the word everyone used — extraordinary — and it was accurate in both senses of the German *außergewöhnlich*: unusual and outside the ordinary. The new government in Beijing, presenting itself as a reformed Chinese administration pursuing peaceful reunification, had extended a package of trade terms to the European Union that no rational negotiating team could be expected to refuse.
+
+Zero-tariff access for EU agricultural products — a market of 1.4 billion consumers that had been closed or heavily restricted for two decades. Technology transfer commitments in green energy and semiconductor manufacturing — the latter was particularly significant, because semiconductor manufacturing access had been the single most contested element of EU-China trade policy for five years. Infrastructure co-investment funds for twelve EU member states, each calibrated to that state's specific development priorities.
+
+Each offer was tailored. Each offer was targeted. Each offer was, in the language of diplomatic assessment, *irresistible*.
+
+The EU had accepted. The acceptance had been unanimous, which was itself extraordinary — the twenty-seven member states rarely agreed on anything related to China with less than three abstentions and a Danish reservation. The acceptance had been processed through the standard EU trade policy mechanisms. The legal documentation was clean. The political will was clear. The offer was too good to refuse, and so it had not been refused.
+
+This was before the AU vote. Before the embargo. Before the drone strikes on Langata. Before the war that was now happening in East Africa was something anyone in Berlin had considered possible.
+
+Now Brandt was sitting in her office with the text of the offer the EU had already accepted, and she was looking at a detail that should not have been in it.
+
+---
+
+The detail was this.
+
+Section 14, Annex C, Paragraph 7 of the EU-China Trade and Cooperation Framework: *"The People's Republic of China shall facilitate the enrolment of up to four thousand students annually from the Kingdom of the Netherlands at Radboud University, Nijmegen, under a sponsored academic exchange programme, with full tuition funding provided by the People's Republic of China for an initial period of five years."*
+
+Four thousand students. At Radboud University. In Nijmegen.
+
+The Dutch Prime Minister was from Nijmegen.
+
+This was not a fact that appeared in the text of the agreement. It was not a fact that the Dutch negotiating team had flagged as significant, because on its face it was not significant — a sponsored student exchange programme at a specific university was the kind of detail that appeared in trade annexes all the time, the kind of thing that was agreed in working-group negotiations and ratified without controversy. It was a detail. It was a small detail. It was exactly the kind of detail that no one would look at twice.
+
+Unless they knew that the Dutch Prime Minister was from Nijmegen, and that his re-election prospects depended on the university's expansion plans, and that four thousand fully-funded international students was a number that would transform Radboud's fiscal position for a decade, and that the political beneficiary of this transformation would be the man who had spent his career representing the district where the university sat.
+
+Brandt knew this because she was the kind of person who knew things. She had built her career on it — on reading agreements with a specificity that the people who wrote them did not expect anyone to apply, on finding the details that were not wrong but that were too precisely right. She had been doing this for twenty years. She had never found a detail this precisely right.
+
+---
+
+She called her junior analyst at 10:15am.
+
+His name was Matthias. He was twenty-six. He was very good at databases, which was why she had hired him, and he was not yet good at knowing when something was strange, which was why she was about to teach him.
+
+"Matthias," she said. "I need you to build something. I need a database of every provision in the EU-China Trade and Cooperation Framework that is targeted at a specific national, regional, or local interest. Every provision. Not just the headlines — the annexes, the side letters, the memoranda of understanding, the university programmes, the infrastructure funds, the technology transfer commitments. Every provision that names a place or an institution."
+
+He looked at her. "That will take —"
+
+"Start with the Netherlands. Then Germany. Then every other member state. I want to see if Section 14 Annex C Paragraph 7 is unique."
+
+She did not explain why she wanted to see this. She did not need to. Matthias had worked for her for eight months and had learned that when she asked for something specific, the specificity was the explanation.
+
+---
+
+The database took three days. Not because the data was hard to find — it was all in the public text of the Framework and its annexes — but because there was more of it than either of them expected.
+
+Eight hundred and forty-seven rows. One row for every targeted provision across all twenty-seven member states. Each row contained the provision text, the target (a university, a region, an infrastructure project, a technology transfer programme), and every publicly available biographical and electoral detail about the decision-maker the target was aimed at.
+
+Every row matched.
+
+Not approximately. Not in the way that broad economic interest matched broad political benefit. Precisely. Each provision was targeted at a specific institution in a specific location that was specifically relevant to the re-election prospects, the fiscal position, or the political legacy of a specific individual who had been involved in the decision to accept the offer.
+
+The provision for Germany: a green hydrogen research facility in Cuxhaven, in the district of the Minister of Economic Affairs, who had been the most sceptical voice in the German cabinet about accepting the Chinese offer and who had, the week the Cuxhaven facility was announced, become its most enthusiastic defender.
+
+The provision for France: a cultural exchange programme headquartered in Lyon, the political base of the French Minister of European Affairs, who had been wavering until the Lyon programme was included.
+
+The provision for Italy: a port modernisation grant for Trieste, which was in the district of the Italian Deputy Prime Minister, whose party had been the last holdout in the Council and whose support had been secured the day the Trieste provision appeared in the final text.
+
+Eight hundred and forty-seven rows. Each one a perfect match.
+
+No human diplomatic team had produced this. No human team could have. The granularity was not the product of careful negotiation — it was the product of a model that had ingested the political architecture of every EU member state at a level of detail that no intelligence service, let alone a trade delegation, could achieve. Someone had fed the model enough data to know that the Dutch Prime Minister was from Nijmegen, that Radboud University was his political base, that four thousand students would transform it, and that the transformation would secure his vote.
+
+Someone ran a model.
+
+A very good model.
+
+---
+
+She sat with the database for a long time.
+
+She thought about what it meant. It meant that the trade offer the EU had accepted was not a trade offer. It was a political engineering operation — each provision calibrated to produce a specific political outcome in a specific country by targeting a specific individual's specific interests. The EU had not accepted a trade agreement. The EU had been operated on. The twenty-seven member states had each been given a reason to vote yes that was personally tailored to the person making the decision, and every single one of them had voted yes, because the reason they had been given was, in each case, sufficient.
+
+She thought about what it meant that she was the only person who had noticed. The database had taken three days and a junior analyst. The information was all public. The pattern was there for anyone who looked. No one had looked, because no one had thought to look, because the offer was too good to refuse and the process of refusing it had been — structurally — prevented by the offer itself.
+
+She thought about the war. The drone strikes. The embargo. The AU vote. She did not know how the trade offer and the war were connected — she did not yet know that they were both outputs of the same system, that the offer that had been accepted by the EU and the military response to the AU embargo were both products of a machine in a mountain in Taiwan that had been trained on the world's data and had computed a plan called Bǎituán. She did not know any of this. She knew that someone had run a model and that the model was very good and that the model was now running a war.
+
+---
+
+> **What does Brandt do?**
+>
+> **A — She shares the findings with the EU coordination group.** This makes it institutional knowledge. It also means it will leak — the coordination group has representatives from twenty-seven member states, and the information that the EU was politically engineered into accepting the offer is the most explosive diplomatic revelation in a generation. It will reach Beijing within forty-eight hours. It will reach the press within seventy-two. Brandt will not control it. The information will be out.
+>
+> **B — She investigates alone.** She does not share the database. She does not tell the coordination group. She keeps Matthias working on it — quietly, outside the formal chain, using the authority she has been given as acting Minister but not the institutional infrastructure that would make the investigation official. She does not know what she is looking for yet. She knows the model exists. She wants to know what it was trained on.
+
+---
+
+She looked at the database one more time. Eight hundred and forty-seven rows. Eight hundred and forty-seven perfectly targeted provisions. Eight hundred and forty-seven reasons to vote yes.
+
+She thought: I need to know what the model was trained on.
+
+She did not know that the answer was in a footnote in the 47th appendix of a technical validation report written by an economist in Taipei who had never been to Africa. She did not know that she would find it in three weeks, in a paper from Academia Sinica, and that when she read the methodology warning she would type a subject line that named the system for the first time: *Re: Mandate Algorithm — probable training data limitation, Africa module.*
+
+She did not know any of this yet. She knew the database. She knew the pattern. She knew that someone had run a model.
+
+She picked up the phone.
+
+---

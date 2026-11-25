@@ -1,0 +1,135 @@
+### Scene One — March 2022
+
+The site was wrong from the first day.
+
+James Huang had pulled into the access road at seven-thirty in the morning, a Tuesday, the mountains still in shadow, and by the time he had parked and signed in with the site security officer and been shown to the temporary site office — a prefab container with two plastic chairs and a whiteboard — he had already catalogued fourteen specifications that did not match what a climate research station required.
+
+He did not write them down. He had learned, over twenty years and thirty-one facilities, that writing things down was a way of making observations official, and official observations required responses, and responses required conversations he was not contracted to have. He held the fourteen specifications in his head instead, the way a good architect holds a building in his head — as a set of relationships, a logic, a thing that had internal consistency even if that consistency was not what the paperwork said it was.
+
+The paperwork said: *Climate and Atmospheric Research Station, Nantou County. Ministry of Science and Technology. Data collection and analysis facility.*
+
+The specifications said something else.
+
+He unrolled the first set of drawings on the whiteboard and began.
+
+---
+
+The power infrastructure was what he had noticed first, before he had even seen the site — in the specifications document, sitting in his car outside the Ministry building in Taipei two weeks earlier, waiting for the contract to be countersigned. Four independent grid feeds from two separate substations. Two backup generation systems, each capable of sustaining full-load operation indefinitely. The total installed capacity was forty-seven megawatts.
+
+He had built a Ministry of National Defence data centre in 2019. Its total installed capacity was thirty-one megawatts. It housed six hundred servers and three separate air-gapped networks serving different security classifications.
+
+Forty-seven megawatts for a climate research station.
+
+He had thought: someone in procurement doesn't know what a climate research station needs. He had thought: or someone in procurement knows exactly what this needs and has decided that climate research station is an adequate description for the paperwork. He had thought both of these things simultaneously and then he had waited for the contract to be countersigned and driven home and told his wife the new project was in Nantou and he would be on-site four days a week for the next eighteen months.
+
+---
+
+Over the first two weeks he met the other contractors. There were more than he expected. A civil engineering firm from Taichung handling the structural work. Two specialist electrical contractors — one for the primary grid feeds, one for the backup generation systems, which were being installed in a separate hardened structure fifty metres from the main building, itself unusual. A network infrastructure team he was not introduced to, who arrived on-site in a white van twice a week and worked behind a locked door in the building's lower level and whose work did not appear in any of the drawings he was responsible for reviewing.
+
+He did not ask about the network team. This was standard practice on government facilities. Compartmentalisation was not his problem.
+
+What was his problem was the cooling infrastructure, which he was responsible for specifying, and which presented him with a calculation he ran three times before he accepted that he had run it correctly. The projected heat load from the building's server infrastructure — extrapolated from the power capacity, standard conversion ratios, the room dimensions in the structural drawings — required a cooling system sized for a facility processing four to five times more data than any research station he had encountered in twenty years of building them.
+
+He specified the cooling system. He wrote the specification clearly and correctly, as he always did. He documented his assumptions and his calculations in the technical appendix, as he always did. He did not annotate the specification with the observation that the heat load was inconsistent with a research station, because that observation was not part of the specification and was not his job to make.
+
+He went home that Friday to Taichung. His daughter, Mei-ling, was doing a school project on UK universities. She had covered the kitchen table with printouts.
+
+---
+
+### Scene Two — August 2022
+
+The facility was three-quarters built.
+
+James was doing his second week of wall-to-wall inspections — going through every room, every duct, every cable run, checking his work against the specifications and the specifications against the drawings and the drawings against reality. It was the most methodical part of any build. He liked it. He was good at it.
+
+He was in the lower level — the floor he thought of privately as the operational floor, though it was not labelled this in any document he had access to — when he found the conduit run that was not in his drawings.
+
+It ran along the east wall of the main server hall, behind the cable management tray he had specified, and it was not small — two hundred millimetres in diameter, concrete encased, running the length of the room and disappearing into the wall where the network team's locked door was. It had been installed after his cable trays, which meant it had been installed in the past three weeks, while he had been working on the upper levels.
+
+He crouched down and looked at it. He ran his hand along the concrete casing. The installation was clean — whoever had done it knew what they were doing. The conduit was larger than anything he would have specified for data cabling. It was sized for high-voltage power, or for a volume of fibre that would be extraordinary in a structure this size.
+
+He stood up and took two photographs on his phone. Then he thought about the photographs for a moment and deleted them.
+
+He wrote a note in his site inspection log: *East wall, server hall B: unscheduled conduit run, 200mm, concrete encased, installed after cable trays. Not in drawings provided to me. Query: responsibility for as-built documentation.*
+
+He filed the note with the site coordinator. The site coordinator replied the following morning: *The conduit run is part of a separately contracted infrastructure package and is covered under a different scope. Your as-built drawings do not need to reflect it.*
+
+He updated his drawings with a note: *East wall conduit: separately contracted scope, see site coordinator.* He signed the drawings. He moved on.
+
+This was how you built government facilities. Every project had its locked doors. The locked doors were not his job. His job was the floors and the walls and the cooling and the power — the shell — and he built the shell correctly, to the highest standard he knew how to achieve, because that was what he was for.
+
+---
+
+### Scene Three — September 2023
+
+The handover documentation took three weeks.
+
+James was thorough with handover documentation. He had seen enough projects in his career where inadequate documentation came back years later — a client who couldn't find the maintenance records for a cooling system, a government agency that had lost the as-built drawings for a building they needed to modify — and he believed that the documentation was part of the work. You built the building and then you documented what you had built, precisely and completely, so that everyone who came after you could understand it.
+
+The Nantou facility handover documentation ran to four hundred and twelve pages.
+
+He sat in the temporary site office on the last day, going through the final sign-off checklist with the Ministry representative — a man in his fifties named Director Chen, who had visited the site three times in eighteen months and who wore a good suit and carried himself with the particular stillness of someone accustomed to being the most senior person in a room. Director Chen signed the documentation without reading it. He signed all forty-seven signature pages in the time it would have taken James to read the first three.
+
+James had seen this before too. The documentation was for the record. The record was for other purposes. Director Chen already knew what the building was. The signatures were a formality.
+
+"Excellent work," Director Chen said, returning the signed documentation. "The facility meets all requirements."
+
+He did not specify what requirements. James did not ask which requirements he meant.
+
+He drove back to Taichung with the documentation in the passenger seat and the particular flatness that always came at the end of a long project. Eighteen months. The building existed now. It was correct. Someone would put things in it and use it for whatever they were going to use it for and his work here was done.
+
+Mei-ling had narrowed her university choices to three. She was seventeen. She had her mother's precision and her father's stubbornness and she was going to get in wherever she applied. He was fairly certain she was going to leave Taiwan. He was not sure how he felt about this.
+
+---
+
+### Scene Four — March 2027
+
+The letter arrived on a Wednesday.
+
+James was at his desk when Mei-ling came in from school, still in her uniform, holding an envelope with the University of Edinburgh crest in the top left corner. She stood in the doorway of his study for a moment, the envelope in both hands, not opening it.
+
+"Open it," he said.
+
+She opened it. She read the first sentence. She looked up at him.
+
+"Well?" he said.
+
+She put the letter on his desk so he could read it. He read the first sentence. Then he read the rest of it.
+
+He stood up and hugged her, which surprised them both slightly — he was not a physically demonstrative man, and she had grown to match him in this, and the hug was brief and a little awkward, but it was real.
+
+"Edinburgh," she said, into his shoulder.
+
+"Edinburgh," he said.
+
+He held the letter after she had gone upstairs to call her mother, who was at her sister's. He read it again, more slowly. Conditional on A-level equivalency results, which she would have. First-year accommodation guaranteed. A scholarship application form enclosed.
+
+He put the letter on the kitchen table and went to the living room and turned on the news.
+
+---
+
+The first item was East Africa. It had been East Africa for most of the past week — he had been following it without following it, the way you followed news that was alarming but did not yet seem to have direct relevance. Drone strikes on Kenyan military installations. Reports of Chinese military engagement, though the Chinese government had not confirmed anything. An AU emergency session. A journalist killed in what appeared to be a targeted strike near the Ethiopian border.
+
+He watched for a few minutes. The map they were showing — East Africa, the Horn, the coast — meant nothing to him in terms of geography he knew personally. He had never been to East Africa. He did not know anyone who lived there.
+
+He went back to the kitchen. The letter was still on the table.
+
+He sat down.
+
+He thought about the facility in Nantou — the four independent power feeds, the forty-seven megawatts, the two-hundred-millimetre conduit behind the cable trays he had not asked about, the network team in the white van, the four hundred and twelve pages of documentation that Director Chen had signed without reading.
+
+He thought about whether these two things — the letter, the news — were connected.
+
+---
+
+> **Does James make the connection?**
+>
+> **A — He does.** He sits at the kitchen table for a long time. He does not know specifically what the facility was built for. He does not know the name of the system it houses. He knows what forty-seven megawatts of installed capacity means, and he knows that the facility in Nantou has been operational for three years, and he knows that the news is showing him the results of something that required infrastructure at a scale he helped build.
+>
+> He folds the acceptance letter, carefully, and puts it back in its envelope, and he calls Mei-ling down and they eat dinner and he does not say anything. He will not say anything. There is no one to say it to, and nothing that saying it would change. The building exists. The letter exists. His daughter is going to Edinburgh.
+>
+> **B — He doesn't.** The two things sit on the table together — the letter, the television in the other room — and he looks at them both and he thinks about Mei-ling going to Edinburgh and he thinks that this is the best outcome. That she will go somewhere far away and study something rigorous and have a life that is larger than the one she would have if she stayed. He is glad about this. He turns off the television and calls her down and they eat dinner and he does not think about Nantou.
+>
+> Both choices are true. Both choices are what a good man does when he has built a thing without being told what it was for.
+
+---

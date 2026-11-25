@@ -1,0 +1,151 @@
+The phone had been ringing for eleven minutes before Grace answered it.
+
+She knew it had been eleven minutes because she had looked at the clock on her bedside table when it started — 4:36am, the screen lighting up the bedroom with a pale blue sheen — and she had lain there watching it, not moving, the way you lie still when the phone rings at an hour that means something has happened and you are not yet ready to know what. The azaan had ended a few minutes earlier. The city was in the particular quiet that followed the call to prayer — the last sound before dawn, the moment when Nairobi held its breath between the end of one day and the beginning of the next.
+
+At 4:47am she picked up the phone.
+
+It was the Head of Nairobi County Emergency Services. His name was David Odhiambo. She had known him for nine years. His voice was wrong. It was the voice of a man who was trying very hard to speak clearly and was not entirely succeeding.
+
+"Deputy Governor," he said. "There are confirmed reports of drone strikes on the Kenya Defence Forces barracks at Langata."
+
+She sat up in bed. The room was cold — twelve, thirteen degrees, the particular chill of a Nairobi night at seventeen hundred metres. She reached for the jacket she kept on the chair beside the bed.
+
+"How many strikes?"
+
+"Three confirmed. Possibly more. The reports are coming from residents in the area. We're getting calls to the county emergency line — people hearing explosions, seeing fire on the horizon."
+
+"Has KDF command responded?"
+
+Silence. A beat longer than it should have been.
+
+"We can't reach them. The command structure has not responded to emergency protocols. The Governor is not answering. The Director of Communications is not answering. I have tried the Interior CS's office — the line is engaged. I have tried the Inspector General's office — no response. You are the highest-ranking county official I have been able to reach."
+
+Grace closed her eyes for a moment. She thought: I am the Deputy Governor. The Governor is not answering. I am the person he is calling because no one else picked up.
+
+"David," she said. "What do you need from me?"
+
+The question she was actually being asked was different and they both knew it. The question being asked of her, by a man who was clearly terrified, was: *what do we do with the city?*
+
+---
+
+She was in her car by 5:05am. The roads were still navigable — this was the window, the fifteen minutes before the city understood what was happening and began to move. She drove east from her house in Westlands toward the county emergency operations centre, which was on the fourth floor of the County Government building on Devan Plaza Road. The streets were empty in the way Nairobi was empty at that hour: a few matatus already beginning their routes, the produce trucks on Mombasa Road, a security guard at every gate.
+
+She could see the glow. Southwest, behind her, above the line of the buildings — an orange smear on the horizon that was not sunrise. Sunrise was an hour and a half away. This was something else. Langata. She could not hear the strikes from here — seven, eight kilometres, maybe more — but the glow was there, constant, the colour of a fire that was not going out.
+
+Her phone buzzed. WhatsApp. The Westlands neighbourhood group — fifty messages already, the particular velocity of Nairobi information, crowd-sourced and immediate. Someone had posted a video from a rooftop in Kileleshwa. She did not look at it. She was driving.
+
+---
+
+The county emergency operations centre was a room she had been in perhaps twenty times in three years. It was not impressive — a long table, eight chairs, three monitors on the wall showing CCTV feeds from county-managed intersections, a radio base station, a bank of phones. It smelled of old carpet and the particular staleness of a room that was air-conditioned but not often aired. There was a coffee machine in the corner that someone had filled at some point in the night.
+
+David Odhiambo was there. So were three county emergency coordinators she knew by name, all of them looking slightly unreal in the way people looked when they had been woken by something that did not fit the shape of their understanding. There was a woman from the county fire brigade on a phone. There was a man from Nairobi City Water and Sewerage on hold.
+
+She sat at the head of the table.
+
+"What do we have?" she said.
+
+---
+
+The next ninety minutes were a series of decisions, each one made with less information than the one before. She would reconstruct them later, when there was time, into something that looked like a sequence. In the moment they came at her in the way a crisis came at you — not in order but in layers, each layer requiring something from her before the previous layer was resolved.
+
+---
+
+> **DECISION ONE — Emergency broadcast**
+
+David was asking whether to activate emergency broadcast on all county-licensed radio stations and the county SMS alert system. The state broadcaster, KBC, was national — he could not reach them directly. But the county had its own emergency alert arrangements with three FM stations and the Safaricom mass-SMS platform.
+
+The risk: a citywide emergency broadcast at 5:15am, before most of the city was awake, would panic everyone who heard it. Panic meant people in cars. Cars on roads meant gridlock. Gridlock meant the fire brigade and ambulances could not reach Langata, could not reach KNH, could not reach anyone.
+
+The counter-risk: if she did not broadcast and the situation deteriorated, she had made a unilateral decision to keep nine hundred thousand people ignorant of an active military threat.
+
+**The question for the reader:** Does Grace activate the emergency broadcast now, or wait until she has more information?
+
+---
+
+> **DECISION TWO — KDF command**
+
+At 5:40am a county liaison officer who had been trying every number he had for KDF reported back. He had reached someone — a duty officer at Moi Air Base in Eastleigh, who had confirmed that the Air Force headquarters was on elevated alert but had not scrambled aircraft. The duty officer had said, in the flat professional tone of someone giving a non-answer, that "the situation was being assessed at the appropriate level."
+
+Grace knew what that meant. It meant no one had authorised a response. It meant the President — who was Commander-in-Chief — had either not been reached or had not given the order. It meant the Defence Cabinet Secretary was either unreachable or had not authorised deployment. And under the 2010 Constitution, Article 241, the KDF could not be deployed for combat operations within Kenya without Parliamentary approval.
+
+This was not an oversight in the Constitution. It was a feature. The 2010 Constitution had been written to prevent coups by tightening civilian control over the military. In a crisis that moved faster than Parliament could convene, that feature became a bug.
+
+**The question for the reader:** Does Grace attempt to escalate through national channels — keep calling the Interior CS, the Governor, the Inspector General — or does she instruct county emergency services to operate independently of KDF command and coordinate with county hospitals directly?
+
+---
+
+> **DECISION THREE — Gigiri
+
+At 6:12am a district commissioner whose name she did not recognise called her directly. His voice was shaking. He said there were reports from residents in Gigiri — the diplomatic district, north of the city — of armed men in the streets near the UN compound. He said the men were speaking Chinese.
+
+Gigiri was the diplomatic district. The US Embassy was there — the fortified compound rebuilt after the 1998 bombing. UNON was there — the UN Environment Programme, the UN Human Settlements Programme. The embassies of half a dozen nations. The most hardened diplomatic facilities in the country.
+
+Chinese-speaking soldiers in Gigiri meant the diplomatic district was a war zone. It meant the US Embassy was potentially under threat. It meant the UN compound was at risk. And she had no jurisdiction over any of it — Gigiri was national security territory, diplomatic protection was a national function, and the only people who could respond were KDF, who had not responded to anything in the past ninety minutes.
+
+**The question for the reader:** What does Grace tell the district commissioner to do?
+
+---
+
+> **DECISION FOUR — Her daughter
+
+At 6:31am her daughter called. Wanjiru was fifteen. She was at her secondary school in Westlands, which had boarding facilities. She was calling from her dormitory phone. She said there were rumours. She said some of the girls were crying. She said a teacher had told them to stay in their rooms. She asked if she should come home.
+
+Grace was standing at the window of the operations centre. The sky was lightening — not the sunrise yet, but the pre-dawn grey that came first, the colour of the sky before it decided what it was going to be. Below her, the city was beginning to move. She could see the first gridlock forming on the road below — cars where there should not be cars at 6:31am, the particular disorder of a city that had woken up afraid.
+
+Wanjiru asked again. *Mum, should I come home?*
+
+**The question for the reader:** What does Grace say to her daughter?
+
+---
+
+At 7:14am Grace got through to KDF.
+
+Not the duty officer this time. A major — his name was Major Kiptoo, he said — who had been dispatched from a command post she did not know the location of to coordinate with civilian authorities. His voice was calm and controlled and he spoke in the clipped register of someone who had been trained to communicate under fire.
+
+He told her the following:
+
+The radar station on the Ngong Hills was the only functional air defence radar covering Nairobi. All other radar installations had been disabled in the first wave of strikes. GPS was jammed across the Nairobi basin — civilian and military systems were both affected. The Kenya Air Force's fighter jets were evacuating from Laikipia Air Base, two hundred kilometres north, to a forward position near the Ethiopian border that Kiptoo called Point Lima. Without the Ngong Hills radar to guide them, the jets could not navigate back to Nairobi airspace to counter-attack.
+
+The radar had to be protected.
+
+He said the Chinese forces — he used the word Chinese without qualification, as though the ambiguity about who was attacking had been resolved in the past two hours — had landed a week ago and had made a rapid advance. They were two hundred and fifty kilometres from Nairobi. They would reach the city in days if not stopped.
+
+He said KDF was organising a defensive line. He said the county needed to prepare for possible evacuation of western Nairobi. He said a team was being dispatched to the Ngong Hills to protect the radar station and hold it until the jets could regroup.
+
+He said: *"If the radar falls, we cannot bring the jets back. If we cannot bring the jets back, we cannot hold the city."*
+
+She said: *"How long do you need?"*
+
+He said: *"Long enough."*
+
+She said: *"Major Kiptoo. The county fire brigade. The county ambulances. Nairobi City Water. The county hospitals. I can give you those. I cannot give you the police. I cannot give you the military. I cannot give you the roads — they belong to the national government. You need to tell me what you need from me and I will give you what I have."*
+
+There was a pause. Then he said: *"Deputy Governor. We are sending a team to the Ngong Hills. They will hold the radar. If Nairobi falls, they have been briefed on escape routes."*
+
+She said: *"If Nairobi falls?"*
+
+He said: *"If Nairobi falls, we fall with it."*
+
+---
+
+Dawn came at 6:24am, eighteen minutes before Major Kiptoo's call. Grace had not noticed it arrive. The sky had been grey, and then it had been less grey, and then there was light coming in the window of the operations centre that was not the fluorescent overhead but something else — the pale, clean light of a Nairobi morning, the kind of light that made everything look sharp, that made the buildings across the street look more themselves than they did at any other hour.
+
+The smoke from Langata was still visible. A dark line against the brightening sky, southwest, thinning as the morning air warmed and the wind picked up. It would be visible for hours. It would be visible for days.
+
+Grace stood at the window. The operations centre behind her was full of voices — county coordinators on phones, the fire brigade liaison calling in status reports, someone trying to reach Mama Lucy Hospital in Embakasi. The room had the particular energy of a situation that had moved past its first chaos into something that was still bad but was now at least organised. She had done what she could. She had made decisions with what she had. The city was still standing.
+
+She did not know who had attacked it. She did not know why. She did not know what the Mandate Algorithm was, or that it existed, or that it had calculated the probability of what she was living through at 94.3% based on a model of her continent that had been built from a single country's data and filed in a footnote that no one had read. She did not know any of this. She knew Nairobi. She knew the roads and the hospitals and the radio stations and the choke points. She knew what she could do with what she had. She had done it.
+
+Wanjiru was still at school. The Ngong Hills radar was still standing. The smoke was still rising.
+
+She stood at the window and watched the city wake up into a day that was not the day it had been going to be.
+
+---
+
+> *You made decisions tonight with incomplete information, under pressure, for people who trusted you. What is the hardest decision you have ever made without enough time to think?*
+
+---
+
+*[**PRODUCTION NOTE:** This is where the graphic style shifts from Manga/Anime to realistic French Noir. The transition is a hard visual register shift — the panel reveals change from left-to-right mechanical to drop-from-above, the colour palette shifts from desaturated blues to ochres and smoke, the line weight loosens. The moment Grace first sees the glow on the horizon — the orange smear that is not sunrise — is the cut point. Everything before this scene was Act One. Everything from this scene forward is Act Two.]*
+
+---

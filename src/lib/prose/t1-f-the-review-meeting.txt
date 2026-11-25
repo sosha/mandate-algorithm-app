@@ -1,0 +1,61 @@
+The conference room was on the fourth floor of the Academia Sinica annex, the one near the Institute of Economics that smelled of old carpet and the particular staleness of a space that was air-conditioned but not often opened. Eight people around a table. A projector. A screen that someone had not been able to get working until five minutes ago. Water in plastic bottles. The meeting had started at 2:00pm. It was 2:14pm now.
+
+Chen Hsiu-ying was there as the data infrastructure representative. She had been told to attend by the project liaison — a man she had spoken to on the phone three times and met in person once, whose specific role she had never entirely understood — and the instruction had been: answer questions about the pipeline's data integrity guarantees. That was her function in this meeting. She had brought her laptop and her documentation and she had prepared answers to the questions she expected, which were the same questions she always answered in these reviews: throughput, validation pass rates, anomaly handling, query response times.
+
+The man presenting was someone she had not met before.
+
+He was young — thirty-six, she guessed, maybe thirty-five. He was wearing the particular uniform of an academic who had dressed slightly better than usual for a meeting with external contractors: a collared shirt, no tie, a jacket that was too formal for the room and that he had not taken off. He had a presentation on the projector — methodology slides, data quality metrics, validation criteria. He was presenting the validation methodology for the African economic module.
+
+He spoke the way she spoke — precisely, methodically, with the specific confidence of someone who had done the work carefully and documented it completely and was now explaining the documentation. She recognised the register. It was her register. It was the register of a person who believed that good methodology was its own justification and that rigorous documentation was the floor below which you did not go.
+
+He was good. She listened to him the way she listened to anyone who was good at their work — with attention, with the particular respect that one careful person paid to another, with the quiet assessment of someone who was checking whether the work was as careful as the presentation suggested it was. It was.
+
+---
+
+At 2:31pm, someone asked about the South African proxy.
+
+The question came from a man at the far end of the table — someone from the project oversight team, whose name she had not caught. The question was: "Can you explain the decision to use South Africa as the representative model for the continent, and how the correction factors address country-level variation?"
+
+The presenter — Kuo, she thought, Dr. Kuo — nodded. He advanced to a slide she had seen briefly in the handout: a methodology diagram showing the South African baseline model, the correction factor layers, the country-level extrapolation. He explained it the way he had explained everything: clearly, completely, with the specific detail of someone who had thought about this a lot and had concluded that the methodology was defensible.
+
+He used a phrase she had not heard before. He said: "It is a professionally defensible approximation."
+
+Professionally defensible approximation.
+
+She heard the phrase and something in her — not her mind, exactly, but something deeper, the place where professional instinct lived — moved. She had spent three years building a pipeline she was told fed a competitive intelligence system. She had filed 7,204 queries and received replies without names in under twenty minutes. She had classified things as acceptable variance and continued. She had never asked what the data was used for. She had never asked where it went. She had done her work carefully and documented it completely and had not looked sideways because looking sideways was not part of the specification.
+
+*Professionally defensible approximation.* That was what she was doing. That was what they were all doing in this room — the presenter, the oversight people, the contractors, the data infrastructure representative. They were all making professionally defensible approximations. They were all doing careful work within defined scope and not asking what the work connected to, because the work was the work and the scope was the scope and the methodology was documented and the documentation was the floor.
+
+She did not ask where the data originated. She did not ask what the pipeline fed. She sat in the room and listened to a man explain his methodology and thought: yes, that is what we are all doing here, and the thought was not a judgment. It was a recognition. She recognised him. He was someone like her.
+
+---
+
+The meeting ended at 3:15pm. She packed her laptop. The other attendees filed out. She walked to the lift with the last group — the oversight man who had asked the question, a data quality analyst she knew by name, and the presenter, Dr. Kuo, who was carrying a folder of printed slides and looking at his phone.
+
+They rode the lift together. Four people in a metal box going down.
+
+Dr. Kuo looked up from his phone. He looked at her — not with the assessment of someone evaluating a colleague, but with the particular friendliness of a person who has been presenting for an hour and is now in a social situation and wants to be pleasant.
+
+"Do you work on the economic data systems?" he said.
+
+"Yes," she said.
+
+"The pipeline quality has been excellent," he said. "Very consistent. It's been very helpful for the modelling."
+
+"Thank you," she said.
+
+The lift reached the fourth floor. The doors opened. Dr. Kuo stepped out. He nodded to her — a small nod, the nod of a colleague leaving a lift — and walked toward the economics institute.
+
+The doors closed. The lift continued to the sixth floor.
+
+She stood in the lift alone. She thought about what he had said. *The pipeline quality has been excellent. Very consistent.* He had said it the way you said something pleasant in a lift — without weight, without significance, the kind of compliment that people in the same professional world paid each other in passing.
+
+He did not know that she was the person who had built the pipeline his modelling depended on. He did not know that the pipeline quality he was complimenting was the product of three years of her work — the 7,204 queries, the acceptable variance classifications, the methodical, careful, documented work of a person who had been told to build a competitive intelligence system and had built it well.
+
+She did not know that the data he was modelling was the data her pipeline was routing — that the two halves of the same machine were in the same lift, saying nothing of consequence, one complimenting the other on the quality of the data that would, in two years, produce a 94.3% probability of successful military intervention in Africa based on a South African proxy model that the man who had just complimented her had himself designed and documented and warned about in a footnote that no one would read.
+
+The lift reached the sixth floor. The doors opened. She walked out. She went back to her office. She did not think about Dr. Kuo again. She did not think about the lift. She did not think about the phrase *professionally defensible approximation* or the recognition she had felt when he said it.
+
+They never spoke again.
+
+---

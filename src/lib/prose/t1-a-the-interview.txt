@@ -1,0 +1,57 @@
+The office smelled of generator fuel and cold tea.
+
+It was a county office on the third floor of a building on Devan Plaza Road that had been requisitioned for emergency coordination three days ago and had not been cleaned since. The windows were open because the air conditioning was off — the grid was intermittent — and the noise from the street came in with the air: the constant sound of a city that was not sleeping, the matatus and the motorbikes and the particular hum of a population that had not gone to work because there was no work to go to and had not stayed home because there was no home that felt safe enough to stay in.
+
+Grace was sitting behind a desk that was not hers. She had been awake for most of the past seventy-two hours. There was a cup of tea on the desk that someone had made for her at some point that morning and that she had not drunk. The tea was cold. She was looking at the man across the desk.
+
+His name was Yusuf Al-Rashid. He was a journalist. She knew this because he had told her, and because she had read him — three pieces in the past week, filed from Nairobi and from somewhere near the Ethiopian border, the kind of reporting that was too specific to be speculation and too fast to be anything other than someone who was very good at being in the right place. He filed for European outlets. She did not remember which ones. She remembered the writing: precise, observational, the kind of prose that noticed things that other reporters missed.
+
+He had been trying to reach her since the morning of the strikes. She had agreed to ten minutes. She had given him twelve. They were on minute nine.
+
+"Deputy Governor," he said. "The KDF's public statement says the Langata strikes were a precision engagement targeting military infrastructure. The county emergency services logs from that morning show civilian infrastructure alerts across a three-kilometre radius. Can you help me understand the gap?"
+
+She looked at him. He was asking a precise question. Not *what happened* — that was what every other journalist had asked. He was asking about the gap between what KDF was saying and what the county logs showed. He had the county logs. She had not released them. Someone inside the county had given them to him. She did not ask who.
+
+"The gap is not a gap," she said. "It's two different systems seeing the same event. KDF sees the target. County sees the radius. Both are accurate."
+
+He wrote something down. Then he put his phone on the desk between them.
+
+"I want to show you something," he said. "It's not for publication. I'm showing you so you understand the scale."
+
+He turned the phone toward her. On the screen was a photograph — a screengrab of a document, slightly blurred, the kind of image you take of a screen in a hurry. It was a signals intercept. She could see the header — military classification markings she did not recognise — and a list of coordinates. Three lines of coordinates, each precise to three decimal places.
+
+"Three Nairobi County infrastructure sites," he said. "Kabete water treatment. Kengen switching station on Mombasa Road. County emergency services dispatch centre."
+
+He pointed at the dispatch centre. She looked at the coordinates.
+
+She knew those coordinates. She had been sitting in the dispatch centre at 5am on the morning of the strikes. The building was on the third line.
+
+She looked at the numbers. She was an urban planner. She had spent fifteen years working with Nairobi's infrastructure grid — coordinates, parcel maps, street networks, utility routing. She could read a coordinate the way a musician could read a note.
+
+The coordinates were wrong. Each one was offset — shifted by the same distance, in the same direction, from the actual location of each site. She knew the actual locations. She had the maps. The offset was the same in all three cases.
+
+"Four hundred metres," she said. "Each one is shifted by exactly four hundred metres. The same direction."
+
+Yusuf looked at her. He had not noticed this. He was a journalist, not an urban planner. He had been looking at the scale — three sites, targeted, the dispatch centre among them. He had not been looking at the geometry.
+
+"That's not an error," she said. "An error would be random. Different directions, different distances. This is systematic. Every coordinate is shifted by the same amount in the same direction. That's a correction factor."
+
+She looked at the screen. The correction factor. Someone had targeted these sites and had applied a systematic offset — the same offset, every time, as though they were adjusting for something. As though the targeting system was calibrated against a different city's grid and the offset was the difference between that city and Nairobi.
+
+She did not say this. She did not know about the South African urban infrastructure proxy. She did not know about Johannesburg's municipal grid spacing corrected for Nairobi's latitude. She knew that the offset was systematic and that systematic offsets were not errors. They were the artefact of a model that had been calibrated against the wrong reference.
+
+"Can I quote you on that?" Yusuf said. "The correction factor?"
+
+She looked at him. She thought about what it would mean — her name, in his story, saying that the targeting system that had hit her city had been calibrated against a different city's geometry. She thought about what it would mean for the county's position, for her position, for the negotiation she was trying to run with KDF about coordination protocols.
+
+"I need to think about it," she said.
+
+---
+
+> **Does Grace call him back?**
+>
+> **A — Yes.** Two hours later, sitting in the operations centre, watching the smoke from Langata thin in the afternoon air, she picks up her phone and calls him. She says: "You can quote me. Correction factor. Four hundred metres. Systematic. Not my name." He says: "Thank you." The detail enters his reporting. It reaches Anneliese Brandt three weeks later, in a Berlin office, in a paragraph about Nairobi targeting anomalies that makes Brandt stop reading and start thinking.
+>
+> **B — No.** She does not call. The detail stays between them — in the room, in the cold tea, in the screengrab on his phone. Yusuf keeps it. He does not use it in the published piece. He uses it later, in the story he transmits from the front lines — the nine-thousand-word piece about the machine running the war. The correction factor appears there, attributed to "a Nairobi County official who asked not to be named," and the official is Grace, and the story is not published until after the apex, and by then it does not matter who said it first.
+
+---

@@ -1,0 +1,75 @@
+Wu Shao-han's first posting to the Nantou facility was supposed to last six weeks.
+
+He had been told this in the briefing in Taipei — a briefing room on the fourth floor of a building he was not given the name of, with two people whose names he was also not given, who explained his role using a written brief they took back with them when they left. The brief described System Twelve. It described his job as validation operator. It described the posting as six weeks, with possible extension subject to operational requirements.
+
+He had brought six weeks of clothing. He had been here eight months.
+
+This was not unusual. He had learned, in four years in signals intelligence, that operational requirements always extended things. You packed for six weeks and you stayed for eight months and you told your parents you couldn't say where you were and they had long since stopped asking.
+
+He did not mind the facility. He had worked in worse places. The facility was cold in the way that server infrastructure made everything cold, but the cold was dry and consistent, which he preferred to the damp cold of the signals post he had been at before. The cafeteria was adequate. He had a room in the accommodation block to himself. He was doing interesting work, which was not guaranteed in military intelligence — most of it was not interesting at all.
+
+---
+
+System Twelve was the most interesting system he had ever worked with.
+
+He ran validation queries. This was his job. Each validation query was a structured test: he would input a scenario — a specific configuration of geopolitical variables, economic pressures, internal Party conditions — and System Twelve would generate an output, and he would evaluate the output against a set of coherence criteria. Was it internally consistent? Were the probability assessments within plausible ranges? Were the operational recommendations grounded in the input data, or were there logical gaps between premise and conclusion?
+
+He had run four hundred and eleven validation queries over eight months. His assessment: the system had no logical gaps. Every output he had seen was internally consistent, grounded in the input data, and coherent across time horizons — the short-term and long-term assessments aligned, which was unusual even in the best human analysis he had read. He had flagged twelve minor inconsistencies across four hundred and eleven queries. Each time he flagged an inconsistency, the system updated and the inconsistency resolved. It did not explain the update. It simply corrected.
+
+He knew what the system was trained on. He had not been told specifically, but he knew the facility, and he knew the pipeline that fed it, and he had been in signals intelligence long enough to understand what a system built on this infrastructure was processing. TSMC fabrication data. Financial flows. Communications intercepts from every major platform operating in mainland China. Party internal documents acquired through means he was not briefed on but could reasonably infer.
+
+He knew what it was doing. He was not authorised to know what it would do with the outputs.
+
+---
+
+He had run the validation query at 03:14 on a Tuesday in November — this detail is in the Signal B document. What EP-C gives is what came before.
+
+The query was scheduled. He had been running it on a twelve-day rotation since October, as part of a systematic stress-test of the system's strategic planning outputs. The specific query was: *Assuming successful completion of all preparatory phases as specified in operational documentation, generate a full strategic assessment and primary recommendation.*
+
+He had run versions of this query six times before. Each time, the system had returned a probability distribution, a scenario matrix, a set of annotated options. Good outputs. Clear outputs. The kind of output a human analyst would have taken days to produce.
+
+At 03:14, the system returned a document.
+
+He read the first line. He understood immediately that this was not a scenario matrix.
+
+He read it twice more. Then he read from the beginning.
+
+---
+
+He had studied classical Chinese history at university before the intelligence service. This had felt, at the time, like a sideways choice — his father had wanted him to study engineering, his mother had wanted him to study medicine, and classical history was what he had wanted and so classical history was what he had done. He had been in his second year when his grandfather died, and in the week after the funeral, sitting in his grandfather's apartment in Taipei going through the boxes of things that had come across the strait in 1949, he had understood for the first time why he had chosen what he chose. His grandfather had brought almost nothing. What he had brought was a photograph, a letter from his wife written in 1948 that he had never answered because she was in Fujian and he was in Taiwan and there was no way to answer, and a copy of the ROC constitution, its cover worn soft as cloth.
+
+The photograph was of a town square in Xiamen. The letter was in a dialect he could barely read. The constitution he could read perfectly, and he had read it in his grandfather's apartment over three days while his parents went through the furniture and the dishes, and when he went back to university he had asked for a transfer into the history department.
+
+He had been in signals intelligence for four years. He had read several hundred classified strategic assessments. He knew what the form of a document was for.
+
+He read the Mandate Document in full. All five articles. The preamble and the closing statement. The two numbers at the end of Article Five: 87.3% and 23.7%.
+
+He sat for a moment looking at the closing seal placeholder — APPENDIX 1, grey rectangle.
+
+He thought about his grandfather, who had died in Taipei at eighty-nine. Who had never been back. Who had never stopped believing he would go back.
+
+He thought about the second number. 23.7%. That was what staying looked like. That was what continuing to exist as a de facto independent island while China modernised its military and the United States reconsidered its commitments and the world moved toward the arrangement it was moving toward regardless of anyone's preference — that was the probability at the end of that road. Less than one in four.
+
+He thought about whether he believed the first number. 87.3%. He ran his mind over the four hundred and eleven queries, the twelve inconsistencies that had all resolved, the coherence across time horizons. He thought: I have been validating this system for eight months and I have never found a gap it couldn't close. I do not know if 87.3% is the right number. I know it is the kind of number this system produces, and I have not found evidence that this system produces wrong numbers.
+
+He opened the confirmation dialogue.
+
+---
+
+> **What does Wu Shao-han do?**
+>
+> **A — Loyalty.** He submits the output for review because this is what he has been waiting for without knowing he was waiting for it. His grandfather's story is not a burden he carries. It is a direction he has always been moving in, and the system has just calculated the most efficient route to the destination. The 23.7% is the reason. The 87.3% is the method. He presses submit.
+>
+> **B — Fear.** He submits the output for review because the alternative is not submitting it, and not submitting it means making a unilateral decision about the most consequential document he has ever read, and he is twenty-nine years old and a military intelligence operator and unilateral decisions of that magnitude are not his to make. He presses submit.
+>
+> **C — Something he cannot name.** He submits the output for review because pressing submit is what you do when the system produces an output. It is the next step in the process. He has been running the process for eight months. The process continues. He presses submit.
+
+---
+
+He closed the terminal, picked up his access card, and walked out of the server room into the corridor.
+
+The corridor was empty. The fluorescent light hummed. Through the window at the far end, the mountains were dark, and below the mountains was the dark shape of the valley, and below the valley was the island, and around the island was the strait, and across the strait was the mainland, and on the mainland were 1.4 billion people who did not know that a machine in a mountain had just decided what would happen to them.
+
+He stood at the window for a moment. Then he went to find somewhere to be sick.
+
+---
