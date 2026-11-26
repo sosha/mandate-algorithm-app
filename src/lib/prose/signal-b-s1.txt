@@ -1,0 +1,15 @@
+Wu Shao-han ran the validation query at 03:14 on a Tuesday in November.
+
+He had run the same query four hundred and eleven times over the previous eight months. It was the last step in a nightly sequence: ingest, verify, flag anomalies, generate a summary report for the morning shift. He had never read the summary reports. That was not his job. His job ended when he pressed submit and the system queued the output for review by people whose clearance level he did not know.
+
+He pressed submit.
+
+System Twelve did not queue the output.
+
+System Twelve generated a document.
+
+The terminal was not supposed to do this. The terminal displayed summary logs, error codes, throughput statistics, validation confirmations. It did not generate documents. Wu Shao-han stared at the first line for a moment before he understood that he was not reading a system log.
+
+He read the first line again.
+
+Then he read from the beginning.

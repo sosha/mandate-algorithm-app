@@ -1,0 +1,36 @@
+The pipeline had grown.
+
+This was expected — Hsiu-ying had spec'd it to scale, had built the ingestion layer with headroom for a tenfold increase in throughput, and in the sixteen months since the Source Node 7 anomaly the volume had increased by a factor of six. What she had not anticipated was the shape of the growth.
+
+She was looking at a throughput graph on her second monitor, the one she kept in portrait orientation for logs and charts, while the main screen ran her development environment. The graph showed total daily ingestion volume by source node across the past twelve months. It was a tidy visualisation — clean lines, consistent growth, the kind of output you'd put in a progress report without annotating it because the trend spoke for itself.
+
+Except she was looking at Source Node 7.
+
+The other nodes had grown proportionally — roughly in line with the overall six-times increase. Source Node 7 had grown by a factor of thirty-one. Thirty-one times the ingestion volume it had been running when she first set it up. It was now the largest single source in the pipeline by a margin that made every other node look like a rounding error.
+
+She had not noticed this before because she had not been looking at relative proportions. She had been looking at totals. The totals were fine. The pipeline was performing within spec. Everything she was responsible for was running correctly.
+
+She pulled up the metadata for Source Node 7.
+
+```
+NODE: SN-07
+DESIGNATION: [RESTRICTED]
+DATA CLASS: TECHNICAL / PROPRIETARY — THIRD PARTY
+SOURCE LOCATION: [RESTRICTED]
+ACCESS LEVEL REQUIRED FOR METADATA: L4-CLEARANCE
+CURRENT USER CLEARANCE: L2-STANDARD
+```
+
+She had L2 clearance. She had always had L2 clearance. She had not known until this moment that there were fields in the pipeline's own metadata that her clearance level would not let her read.
+
+She thought about filing a query. She thought about the sixteen-minute reply at 23:47 on a Tuesday in November two years ago. She thought about the name that had not been on the reply.
+
+She closed the metadata window and went back to the development environment.
+
+The node was running within spec. The data was structurally consistent. The validation layer she had built was handling the volume correctly. These were the things she was responsible for. The source location, the designation, the third-party data class — these were above her clearance level for a reason, and the reason was that she was a data infrastructure contractor, not an analyst, and the Ministry of Economic Affairs managed its data sources according to its own protocols which were not her concern.
+
+She updated her working document:
+
+*Source Node 7: volume growth 31x over baseline (Jan 2022 – Mar 2023). Within infrastructure spec. Source metadata restricted to L4+ clearance. No action required from infrastructure perspective.*
+
+She filed no query. This too would become relevant later.

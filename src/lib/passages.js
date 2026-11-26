@@ -44,39 +44,79 @@ export const PASSAGES = [
 
   // ── ENTRY POINTS — ACT ONE ──
   {
-    id: 'ep-a',
-    title: 'EP-A · The Collector',
-    subtitle: 'Chen Hsiu-ying — Act One',
-    register: 'act1',
-    access: 'free',
-    type: 'entry',
-    tags: ['act1', 'entry'],
+    id: 'ep-a-s1', title: 'I — The Error', subtitle: 'Chen Hsiu-ying — Act One', register: 'act1', access: 'free', type: 'entry', tags: ['act1', 'entry'],
     choices: [
-      { label: 'Official channels (creates paper trail)', next: 'ep-a-choice-a' },
-      { label: 'Contractor messaging (no record)', next: 'ep-a-choice-b' }
+      { label: 'Official channels (creates paper trail)', next: 'ep-a-s2' },
+      { label: 'Contractor messaging (no record)', next: 'ep-a-s3' }
     ]
   },
   {
-    id: 'ep-a-choice-a',
-    title: 'Official channels',
-    register: 'act1', access: 'free', type: 'choice', tags: ['act1'],
-    next: 'ep-a-continued'
+    id: 'ep-a-s2', title: 'II — The Official Channels', subtitle: 'Chen Hsiu-ying — Act One', register: 'act1', access: 'free', type: 'choice', tags: ['act1'],
+    choices: [{ label: 'Continue to analysis', next: 'ep-a-s4' }]
   },
   {
-    id: 'ep-a-choice-b',
-    title: 'Contractor messaging',
-    register: 'act1', access: 'free', type: 'choice', tags: ['act1'],
-    next: 'ep-a-continued'
+    id: 'ep-a-s3', title: 'II — Contractor Messaging', subtitle: 'Chen Hsiu-ying — Act One', register: 'act1', access: 'free', type: 'choice', tags: ['act1'],
+    choices: [{ label: 'Continue to analysis', next: 'ep-a-s4' }]
   },
   {
-    id: 'ep-a-continued',
-    title: 'Three years',
-    register: 'act1', access: 'free', type: 'choice', tags: ['act1'],
+    id: 'ep-a-s4', title: 'III — The Interface', subtitle: 'Chen Hsiu-ying — Act One', register: 'act1', access: 'free', type: 'choice', tags: ['act1'],
     choices: [
-      { label: 'She files a formal report', next: 'ep-a-end-a' },
-      { label: 'She closes the interface and continues', next: 'ep-a-end-b' }
+      { label: 'She files a formal report', next: 'ep-a-s5' },
+      { label: 'She closes the interface and continues', next: 'ep-a-s6' }
     ]
   },
+  {
+    id: 'ep-a-s5', title: 'IV — Three Years', subtitle: 'Chen Hsiu-ying — Act One', register: 'act1', access: 'free', type: 'choice', tags: ['act1'],
+    choices: [
+      { label: 'She files a formal report', next: 'ep-a-s7' },
+      { label: 'She closes the interface and continues', next: 'ep-a-s8' }
+    ]
+  },
+  {
+    id: 'ep-a-s6', title: 'IV — After the Closure', subtitle: 'Chen Hsiu-ying — Act One', register: 'act1', access: 'free', type: 'choice', tags: ['act1'],
+    choices: [
+      { label: 'Training run observation', next: 'ep-a-s9' },
+      { label: 'Update working document', next: 'ep-a-s10' }
+    ]
+  },
+  {
+    id: 'ep-a-s7', title: 'V — The Report Filed', subtitle: 'Chen Hsiu-ying — Act One', register: 'act1', access: 'free', type: 'choice', tags: ['act1'],
+    choices: [
+      { label: 'Official review response', next: 'ep-a-s11' },
+      { label: 'Contractor review response', next: 'ep-a-s12' }
+    ]
+  },
+  {
+    id: 'ep-a-s8', title: 'V — After Closure', subtitle: 'Chen Hsiu-ying — Act One', register: 'act1', access: 'free', type: 'choice', tags: ['act1'],
+    choices: [
+      { label: 'Training run confirmed', next: 'ep-a-s9' },
+      { label: 'No action taken', next: 'ep-a-s10' }
+    ]
+  },
+  {
+    id: 'ep-a-s9', title: 'VI — The Inquiry', subtitle: 'Chen Hsiu-ying — Act One', register: 'act1', access: 'free', type: 'choice', tags: ['act1'],
+    choices: [
+      { label: 'Real-time monitoring hypothesis', next: 'ep-a-s10' },
+      { label: 'Authorised data integration', next: 'ep-a-s11' }
+    ]
+  },
+  {
+    id: 'ep-a-s10', title: 'VI — Volume Analysis', subtitle: 'Chen Hsiu-ying — Act One', register: 'act1', access: 'free', type: 'choice', tags: ['act1'],
+    choices: [
+      { label: '31x volume growth (intelligence)', next: 'ep-a-s12' },
+      { label: 'Training run signature', next: 'ep-a-s13' }
+    ]
+  },
+  {
+    id: 'ep-a-s11', title: 'VII — Contract Review', subtitle: 'Chen Hsiu-ying — Act One', register: 'act1', access: 'free', type: 'choice', tags: ['act1'],
+    choices: [{ label: 'Contract extended +2yr', next: 'hub' }]
+  },
+  {
+    id: 'ep-a-s12', title: 'VII — Strategic Analysis', subtitle: 'Chen Hsiu-ying — Act One', register: 'act1', access: 'free', type: 'choice', tags: ['act1'],
+    choices: [{ label: 'Continuing', next: 'hub' }]
+  },
+  { id: 'ep-a-s13', title: 'VII — Continuing', subtitle: 'Chen Hsiu-ying — Act One', register: 'act1', access: 'free', type: 'ending', tags: ['act1'], completes: 'ep-a', next: 'hub' },
+  // ── Endings (shared across paths) ──
   { id: 'ep-a-end-a', title: 'Continuing', register: 'act1', access: 'free', type: 'ending', tags: ['act1'], completes: 'ep-a', next: 'hub' },
   { id: 'ep-a-end-b', title: 'Continuing', register: 'act1', access: 'free', type: 'ending', tags: ['act1'], completes: 'ep-a', next: 'hub' },
 
@@ -273,8 +313,22 @@ export const PASSAGES = [
   { id: 'signal-a-s2', title: 'II — The Hardware', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-a-s3' },
   { id: 'signal-a-s3', title: 'III — The Delegates', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-a-s4' },
   { id: 'signal-a-s4', title: 'Waiting for yes', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], completes: 'signal-a', next: 'hub' },
-  { id: 'signal-b', title: 'Signal B · The Mandate Document', register: 'signal', access: 'paid', type: 'tier2', tags: ['signal'],
-    completes: 'signal-b', next: 'hub' },
+  // ── SIGNAL B — The Mandate Document (15 sections) ──
+  { id: 'signal-b-s1',  title: '03:14', register: 'signal', access: 'paid', type: 'tier2', tags: ['signal'], next: 'signal-b-s2' },
+  { id: 'signal-b-s2',  title: 'The document appears', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-b-s3' },
+  { id: 'signal-b-s3',  title: '前言 · Preamble', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-b-s4' },
+  { id: 'signal-b-s4',  title: 'Article One — Crime 壹', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-b-s5' },
+  { id: 'signal-b-s5',  title: 'Article One — Crime 貳', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-b-s6' },
+  { id: 'signal-b-s6',  title: 'Article One — Crime 叄', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-b-s7' },
+  { id: 'signal-b-s7',  title: 'Article One — Crime 肆', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-b-s8' },
+  { id: 'signal-b-s8',  title: 'Article Two — 正名', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-b-s9' },
+  { id: 'signal-b-s9',  title: 'Article Two — The Operation', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-b-s10' },
+  { id: 'signal-b-s10', title: 'Article Three — 天命所歸', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-b-s11' },
+  { id: 'signal-b-s11', title: 'Article Four — 天下之義', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-b-s12' },
+  { id: 'signal-b-s12', title: 'Article Five — Bǎituán', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-b-s13' },
+  { id: 'signal-b-s13', title: 'Closing statement', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-b-s14' },
+  { id: 'signal-b-s14', title: 'Wu reads to the end', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-b-s15' },
+  { id: 'signal-b-s15', title: 'He went to find somewhere to be sick', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], completes: 'signal-b', next: 'hub' },
   // ── SIGNAL C — The Footnote (5 sections) ──
   { id: 'signal-c-s1', title: 'Two events', register: 'signal', access: 'paid', type: 'tier2', tags: ['signal'], next: 'signal-c-s2' },
   { id: 'signal-c-s2', title: 'The gap', register: 'signal', access: 'paid', type: 'choice', tags: ['signal'], next: 'signal-c-s3' },

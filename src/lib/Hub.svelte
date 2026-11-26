@@ -13,7 +13,7 @@
 
   // EP-A is handled separately (free, already has its own section structure)
   const act1EntriesWithA = [
-    PASSAGES.find(p => p.id === 'ep-a'),
+    PASSAGES.find(p => p.id === 'ep-a-s1'),
     ...act1Entries
   ];
   const act2EntriesConfig = [
@@ -32,7 +32,7 @@
   ].map(p => ({ ...p, hubId: p.hubId ?? p.id, access: 'paid', register: 'act2', tags: ['tier1'] }));
   const signalScenes = [
     { id: 'signal-a-s1', hubId: 'signal-a', title: 'Signal A · The TSMC Pipeline' },
-    { id: 'signal-b',    hubId: 'signal-b', title: 'Signal B · The Mandate Document' },
+    { id: 'signal-b-s1', hubId: 'signal-b', title: 'Signal B · The Mandate Document' },
     { id: 'signal-c-s1', hubId: 'signal-c', title: 'Signal C · The Footnote' },
     { id: 'signal-d-s1', hubId: 'signal-d', title: 'Signal D · Lin Wei-chen Says Yes' },
   ];

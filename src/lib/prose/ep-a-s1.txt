@@ -1,0 +1,31 @@
+### Scene One — November 2021
+
+The error appeared at 23:14 on a Tuesday.
+
+Chen Hsiu-ying had been staring at the same validation log for forty minutes, working backwards through the pipeline in the methodical way she had learned to work: rule out the obvious causes first, then the less obvious ones, then — if everything else was clean — accept that the problem was upstream and file a query. She had reached the third step.
+
+The error was a schema mismatch. The incoming data from Source Node 7 was structured correctly by every metric she could evaluate: field types matched, null rates were within tolerance, the compression ratio was consistent with the previous forty-two ingestion cycles. But a subset of records was triggering a downstream validation flag she had never seen before. The flag read:
+
+```
+RECORD CLASS: UNCLASSIFIED / SOURCE METADATA ABSENT
+VALIDATION STATUS: INDETERMINATE
+RECOMMENDED ACTION: ESCALATE OR RECLASSIFY
+```
+
+She had not written that flag. She had not written that record class. She had built the pipeline's validation layer herself, field by field, over the previous six months, and UNCLASSIFIED / SOURCE METADATA ABSENT was not in her schema documentation. It existed in the codebase somewhere upstream of her access level.
+
+She leaned back in her chair and looked at the ceiling for a moment, then at the two empty coffee cups on the desk, then at the window, which showed her nothing except the reflection of her own apartment: the monitors, the desk lamp, the stacks of printed documentation she kept meaning to file. Zhonghe at midnight was quiet. The building hummed with its own climate systems. Someone in the flat above hers was watching something with a lot of bass.
+
+She pulled up the query form.
+
+---
+
+> **The pipeline has flagged a subset of Source Node 7 records as UNCLASSIFIED / SOURCE METADATA ABSENT. This record class is not in my schema documentation. I am unable to evaluate whether this represents a data integrity issue without understanding the source metadata structure. Can you clarify the record class specification or provide read access to the upstream schema?**
+>
+> *Chen Hsiu-ying, Data Infrastructure, Contract Reference MEA-2021-447*
+
+She looked at the form for a moment. The query routing options were:
+
+**A — Official channels** (Ministry of Economic Affairs IT governance portal, standard response time 3–5 business days, full audit trail)
+
+**B — Contractor messaging** (direct to the technical liaison assigned to her contract, typical response within hours, no formal record)

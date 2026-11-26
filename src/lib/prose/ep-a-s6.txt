@@ -1,0 +1,34 @@
+The work was interesting. This was the thing she returned to, in the moments when she noticed something she might otherwise have pursued. The work was genuinely interesting. The pipeline was one of the most sophisticated data integration systems she had built — the multi-source reconciliation logic alone had taken four months to get right, and she had got it right, and she was proud of that in the quiet way she was proud of things she did well. The contract paid 40% above her previous rate. She had moved from a shared apartment in Xinzhuang to this one, which she had to herself, which had a second bedroom she used as an office.
+
+She worked at night. She had always worked at night. The Ministry liaison called in the mornings when he called at all, which was rarely — the system was running well and there was nothing to discuss. She spent her evenings in the apartment with the monitors and the logs and the occasional anomaly that resolved cleanly once she looked at it properly.
+
+She had not thought about what the pipeline was for since the first month of the contract.
+
+---
+
+### Scene Three — September 2024
+
+The anomaly was different this time.
+
+She almost missed it. It was embedded in a standard validation summary, buried between two line items that were unremarkable, and she had been moving through the summary quickly because it was late and she had been working since morning and the pipeline had been running cleanly for six weeks.
+
+```
+BATCH: SN07-2024-09-14-0300
+RECORDS PROCESSED: 4,847,221
+VALIDATION STATUS: 4,847,019 PASS / 202 FLAG
+FLAG TYPE: TEMPORAL ANOMALY — RECORD TIMESTAMP PREDATES SOURCE INTEGRATION
+```
+
+She stopped.
+
+A temporal anomaly. Records with timestamps predating the source integration. That should not be possible. The pipeline's ingestion layer she had built rejected records with timestamps outside a defined window — it was a basic data hygiene rule, one of the first constraints she had written, because historical record contamination was a known failure mode in systems that pulled from multiple sources with inconsistent clock synchronisation.
+
+If records were getting through with timestamps predating the integration, one of two things was true. Either her validation layer had a bug she had missed for three years. Or the records were not anomalous by mistake.
+
+She pulled the flagged records.
+
+They were not a random sample. They were not distributed across the batch the way random validation failures would be — scattered, uncorrelated. They clustered. 198 of the 202 records clustered around four specific time windows in 2019 and 2020, before the pipeline existed. The other four were from 2018.
+
+She looked at the record structure. She could not read the content — the data was compressed and partially encrypted, which was standard for Source Node 7 — but she could read the structural metadata: field counts, record types, compression signatures. She recognised the field structure. She had built the validation rules for it. She had spent two weeks in early 2022 learning the schema so she could build the validation rules correctly.
+
+The 2019 and 2020 records had the same field structure as the current records. Exactly the same. Not approximately the same, not a previous version of the schema — the same. Which meant either the schema had not changed in five years, or the timestamps were wrong, or these records were not from 2019 and 2020. Or — and she stopped on this thought for a moment before moving past it — someone had generated them to look like they were from 2019 and 2020.

@@ -1,0 +1,7 @@
+By 1am she had cleared the validation backlog, regenerated the affected batch, and confirmed that the pipeline was running cleanly. She made a note in her working document:
+
+*Source Node 7: occasional UNCLASSIFIED / SOURCE METADATA ABSENT records. Legacy integration. Classify as acceptable variance per Technical Liaison instruction (Nov 2021). No action required.*
+
+She closed her laptop, rinsed the coffee cups, and went to bed at 1am.
+
+---

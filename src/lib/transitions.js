@@ -101,7 +101,7 @@ function registerShift(el, g, to) {
       position: fixed; inset: 0; z-index: 9999;
       background: #000;
       opacity: 0;
-      pointer-events: none;
+      pointer-events: auto;
     `;
     document.body.appendChild(grain);
 

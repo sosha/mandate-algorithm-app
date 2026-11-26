@@ -1,0 +1,17 @@
+She had written that at 7am, before she had properly thought about what it meant. Now it was midnight and she had thought about it for most of the day and she understood what it meant.
+
+Training runs for large-scale machine learning systems had a distinctive throughput signature. She had not worked on ML infrastructure directly, but she had read enough of the technical literature to know the pattern: initial data collection phase, relatively flat throughput; then a sharp increase as the system moved from collection to active training; then the characteristic surge of a system ingesting everything at maximum throughput before a training cycle completed. The curve she was looking at had all three phases. The collection phase was the first three years of the pipeline's operation. The increase was the past eighteen months. The surge was the past six months.
+
+Something was being trained. Something large. Something that had needed four years of data collection before it was ready.
+
+She looked at the monitoring dashboard on her second monitor. The pipeline was running cleanly. 847 billion records. The validation layer she had built was processing them correctly. The compression ratios were optimal. Everything she was responsible for was performing exactly as it should.
+
+She thought about Wu Shao-han, though she did not know his name. She thought about the person on the other end of the query form — the Technical Liaison, Project Oversight, who had never told her their name and who replied in eleven minutes at midnight. She thought about the Ministry of Economic Affairs and L4 clearance and the metadata fields she could not read.
+
+She thought about what a system trained on 847 billion records collected from TSMC's data infrastructure over four years would be capable of.
+
+She did not let herself finish this thought completely. She had learned, over four years, the specific discipline of not finishing certain thoughts. It was a professional skill, the same as any other.
+
+She opened the reporting interface.
+
+She looked at it for a long time.

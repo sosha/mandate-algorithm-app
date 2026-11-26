@@ -1,0 +1,39 @@
+### Scene Four — June 2025
+
+She had been building, for the past four months, a private document she did not store on the Ministry server.
+
+She had not decided to build it. It had accumulated. She had started keeping notes in a local text file — offline, on her personal laptop, not the work machine — because she had begun to notice that the working document she kept on the Ministry server had a quality she did not like: it felt observed. This was not a rational feeling. She had no evidence that anyone was reading her working document. But the sub-20-minute response times, the reply-without-a-name, the restricted metadata — these things had accumulated into a background awareness that someone, somewhere, was paying close attention to what she did with Source Node 7, and that the working document on the Ministry server was part of what they were paying attention to.
+
+The local document was not a complaint. It was not a record of wrongdoing. It was the same kind of notes she kept for any complex project — observations, questions, things she had noticed and not yet resolved. What made it different was that she was keeping it off the network.
+
+The document was forty-three lines long.
+
+The forty-third line, written three weeks ago, read:
+
+*The data has fingerprints.*
+
+She had been thinking about this since March, when she had finally allowed herself to look at what she was actually seeing in the Source Node 7 output — not at the validation status, not at the throughput metrics, but at the structural signatures of the data itself, the patterns in what was flagged and what was not, the way the temporal distribution of records had shifted over the past eighteen months.
+
+She was not an analyst. She could not read the compressed, partially encrypted content of the records. But she could read their shapes, and she had been reading data shapes for long enough that she knew what different kinds of data looked like in profile — financial records had one signature, communications metadata had another, technical documentation had another still. She had built enough pipelines to have learned, without being taught, how to distinguish them by feel.
+
+Source Node 7 did not feel like any single data type. It felt like many data types, compressed together, routed through a single node to obscure their diversity. It felt like — and she had sat with this for a week before writing it down — a collection. Someone was collecting. Someone had built, using her pipeline, a collection of data from many sources, and they were routing it all through a single node to avoid the kind of classification she had just done.
+
+The pipeline was not a competitive intelligence system.
+
+She had known this for some time. She had not let herself finish the thought before. She finished it now.
+
+The pipeline was not a competitive intelligence system for the Ministry of Economic Affairs. The Ministry of Economic Affairs was the cover story. The pipeline was something else — something that required the architecture she had built, the throughput she had optimised, the validation layer she had tuned to handle exactly this kind of diverse, high-volume, partially encrypted data stream. Something that required someone monitoring the query system in real time. Something with L4-clearance metadata she could not read.
+
+She sat at her desk for a long time.
+
+Outside, Zhonghe was quiet. The sky had the particular colour of a hot June night in Taipei — not dark, exactly, but deep orange where the city's light caught the haze, fading to something greyish at the top. She could see a slice of it through the gap in the curtains.
+
+She thought about what it meant to file a report.
+
+She thought: report to whom. The Ministry of Economic Affairs IT governance portal. The same system where her queries went, the same system that replied in eleven minutes in the middle of the night with no name on the response.
+
+She thought: report what. That Source Node 7 had a structure consistent with a broad-based intelligence collection operation. That was what she suspected. She did not have evidence of this — she had a shape, a pattern, a professional intuition built from twelve years of working with data at this level. She had a text file with forty-three lines on a laptop that was not connected to the Ministry network.
+
+She thought about the sixteen-minute reply at 23:47 in November 2021, four years ago, the first time she had filed a query about this node.
+
+She thought: they already know what this is. Everyone above my clearance level already knows what this is. The question they are waiting for me to answer is not *what is it* but *what will she do*.

@@ -1,0 +1,25 @@
+The pipeline had been running for four years.
+
+Hsiu-ying was looking at the throughput summary for the previous quarter: 847 billion records processed, 99.97% validation pass rate, zero infrastructure failures. By any objective metric, it was the best-performing system she had ever built. She had a standing offer from a fintech company in Singapore — a recruiter had reached out three months ago, the second approach this year, the salary was a third more than her current rate — and she had not replied, which surprised her a little when she thought about it. She liked this work. She was good at this work.
+
+She opened the local text file. It had 94 lines now. The last line, written this morning, read:
+
+*The volume increase in the past six months is not consistent with an intelligence collection operation. The growth curve has changed character. It is consistent with a training run.*
+
+She had written that at 7am, before she had properly thought about what it meant. Now it was midnight and she had thought about it for most of the day and she understood what it meant.
+
+Training runs for large-scale machine learning systems had a distinctive throughput signature. She had not worked on ML infrastructure directly, but she had read enough of the technical literature to know the pattern: initial data collection phase, relatively flat throughput; then a sharp increase as the system moved from collection to active training; then the characteristic surge of a system ingesting everything at maximum throughput before a training cycle completed. The curve she was looking at had all three phases. The collection phase was the first three years of the pipeline's operation. The increase was the past eighteen months. The surge was the past six months.
+
+Something was being trained. Something large. Something that had needed four years of data collection before it was ready.
+
+She looked at the monitoring dashboard on her second monitor. The pipeline was running cleanly. 847 billion records. The validation layer she had built was processing them correctly. The compression ratios were optimal. Everything she was responsible for was performing exactly as it should.
+
+She thought about Wu Shao-han, though she did not know his name. She thought about the person on the other end of the query form — the Technical Liaison, Project Oversight, who had never told her their name and who replied in eleven minutes at midnight. She thought about the Ministry of Economic Affairs and L4 clearance and the metadata fields she could not read.
+
+She thought about what a system trained on 847 billion records collected from TSMC's data infrastructure over four years would be capable of.
+
+She did not let herself finish this thought completely. She had learned, over four years, the specific discipline of not finishing certain thoughts. It was a professional skill, the same as any other.
+
+She opened the reporting interface.
+
+She looked at it for a long time.
